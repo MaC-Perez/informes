@@ -607,18 +607,30 @@ Tabla 7		Número de lances utilizados en la estandarización de CPUE por año, p
 
 La Figura 9 contiene el histograma de los rendimientos de pesca (CPUE) y el logaritmo de la CPUE incluyendo los 18208 lances para el período 1 (1979-1997) y 73231 lances para el período 2 (1998-2019). El valor en logaritmo presenta la condición de normalidad necesaria para la estandarización del rendimiento. Esta variable se mide en kilógramos por horas de arrastre (kg/h.a.). 
 
-
-Figura 9 	Histograma del rendimiento de pesca en kilógramos por hora de arrastre y del logaritmo del rendimiento para el período 1 (1979-1997) y período 2 (1998-2019).
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_9.png}
+\end{center}
+```
+\small \textbf{Figura 9}. Histograma del rendimiento de pesca en kilógramos por hora de arrastre y del logaritmo del rendimiento para el período 1 (1979-1997) y período 2 (1998-2019). \vspace{0.5cm} \normalsize
 
 La Figura 10 presenta los valores promedio para las horas de arrastre, CPUE y captura durante el período 2 (1998-2019). En las horas de arrastre se observa una importante disminución para el año 2002 en donde el valor decae hasta las 1.99 horas de arrastre, gracias al bajo aporte del buque 400180 en ese año en particular. Existe un aumento progresivo en la hora de arrastre promedio desde el año 2002 hasta la actualidad, en donde el año 2019 alcanza el valor más alto de la serie (4.0 h.a.). En cuanto a las capturas y CPUE promedio se observa el mismo aumento desde inicios de la serie. El año 2014 presenta valores bajos tanto en captura y CPUE debido a la importante disminución de las cuotas de captura.
 
-
-Figura 10	Valores promedio de horas de arrastre, captura (kg) y CPUE nominal (kg/h.a.) por año para el período 2 (1998-2019) flota arrastrera.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_10.png}
+\end{center}
+```
+\small \textbf{Figura 10}. Valores promedio de horas de arrastre, captura (kg) y CPUE nominal (kg/h.a.) por año para el período 2 (1998-2019) flota arrastrera. \vspace{0.5cm} \normalsize
 
 Para incorporar la intencionalidad de pesca como un predictor en los modelos lineales de predicción de las tasas de captura, se construyeron las matrices con composición de captura para cada lance. Una vez obtenida la matriz de proporción de especies por cada lance, se realizó un análisis de componentes principales con el fin de reducir el número de especies y obtener solo aquellas que explican más de un 85% de la varianza. Con estas nuevas especies se realizó el análisis de cluster a través del método de K-means y como medida de similitud se usó la distancia euclidiana, reduciendo el número total de registros a 1500 centroides. Por ejemplo, en la Figura 11 se presentan los primeros 5 componentes principales para el período 2 obtenidos en la etapa anterior, el primero contiene presencia de merluza de cola y merluza del sur relacionada positivamente, el segundo contiene las mismas especies, pero relacionadas de forma negativa, el tercero se caracteriza por congrio y los dos últimos por merluza de tres aletas y bycatch. 
 
-Figura 11	Análisis de componentes principales de la matriz de proporciones para el arrastre, período 2 (1998-2019).
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_11.png}
+\end{center}
+```
+\small \textbf{Figura 11}. Análisis de componentes principales de la matriz de proporciones para el arrastre, período 2 (1998-2019). \vspace{0.5cm} \normalsize
 
 Finalmente, se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la Tabla 8. La estandarización de la CPUE utiliza la táctica de pesca como variables categóricas en el modelo lineal generalizado.
 Tabla 8	Número de lances incorporados en cada cluster para el período 1 (1979-1997) y período 2 (1998-2019).
@@ -626,29 +638,42 @@ Tabla 8	Número de lances incorporados en cada cluster para el período 1 (1979-
 
 Este arte de pesca se caracteriza por presentar un gran número de especies, pero la mayoría con bajos porcentajes en cuanto a representatividad según la Figura 12 y 13. En el período 1 la especie predominante en el cluster uno corresponde a merluza del sur, el cluster dos presenta un mix de especies, el tres se caracteriza por presentar aproximadamente un 50% de merluza del sur y por último el cluster cuatro y cinco con una mayor proporción de merluza de cola y congrio respectivamente (Figura 12). 
 
-
-Figura 12	Proporción de especies presentes en los lances por cada cluster para el período 1 (1979-1997).
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_12.png}
+\end{center}
+```
+\small \textbf{Figura 12}. Proporción de especies presentes en los lances por cada cluster para el período 1 (1979-1997). \vspace{0.5cm} \normalsize
 
 El análisis para el segundo período (1998-2019) se presenta en la Figura 13, se observa que en el cluster uno existe un mix de especies con menor importancia en proporción, el cluster dos se caracteriza principalmente por merluza del sur, el número tres contiene principalmente bycatch y, por último, el cluster cuarto una proporción importante de merluza de cola. 
 
- 
-Figura 13	Proporción de especies presentes en los lances por cada cluster para el período 2 (1998-2019).
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_13.png}
+\end{center}
+```
+\small \textbf{Figura 13}. Proporción de especies presentes en los lances por cada cluster para el período 2 (1998-2019). \vspace{0.5cm} \normalsize
 
 Las Figuras 14 y 15 confirman los resultados anteriormente descritos, la Figura 14 presenta la intencionalidad de pesca para el período 1 en el cluster 1, en donde la proporción de merluza del sur por lance es alta. La Figura 15, confirma los resultados obtenidos en el período 2 identificándose el cluster dos con los mayores valores de captura y CPUE, cluster que corresponde al con mayor proporción de merluza del sur. En esta figura se observa un aumento progresivo en la CPUE promedio anual del cluster dos, la cual disminuye durante los últimos cinco años de la serie.
 
- 
-Figura 14	Frecuencia de la proporción de merluza del sur en la flota arrastrera para el período 1, por año en el cluster 1.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_14.png}
+\end{center}
+```
+\small \textbf{Figura 14}. Frecuencia de la proporción de merluza del sur en la flota arrastrera para el período 1, por año en el cluster 1. \vspace{0.5cm} \normalsize
 
-
-Figura 15	Sumatoria anual de la captura kg y esfuerzo en h.a., CPUE nominal promedio kg/h.a. para la flota arrastrera para el período 2 por cluster, el tamaño del circulo es proporcional al número de lances utilizados. 
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_15.png}
+\end{center}
+```
+\small \textbf{Figura 15}. Sumatoria anual de la captura kg y esfuerzo en h.a., CPUE nominal promedio kg/h.a. para la flota arrastrera para el período 2 por cluster, el tamaño del circulo es proporcional al número de lances utilizados. \vspace{0.5cm} \normalsize
 
 Para la estandarización de la CPUE en el período 1 se implementaron cinco modelos, incorporando como factores el año, mes, buque, zona y cluster. En la Tabla 9 se presentan los estadísticos para cada modelo, siendo en primer lugar el factor año el que explica un mayor porcentaje de la devianza (26-33%), seguido por el factor mes y cluster y por último el factor zona. El modelo que explica un mayor porcentaje de la devianza total corresponde a mod1 (67%).
 
 Tabla 9	Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 1 (1979-1997).
  
-
 Para el período 2 se implementaron 4 modelos, incorporando como factores el año, mes, zona y cluster. En la Tabla 10 se presentan los estadísticos para cada modelo, siendo en primer lugar el factor cluster el que explica un mayor porcentaje de la devianza para todos los casos (entre un 13 y 18%), seguido por el factor mes (8 – 8.7%) y por último el factor zona. El modelo que explica un mayor porcentaje de la devianza total corresponde a mod0 (39.7%) seguido de mod3 (35.2%).
 
 Tabla 10	Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 2 (1998-2019).
@@ -656,15 +681,21 @@ Tabla 10	Estadísticos de los modelos lineales con su respectiva devianza explic
 
 En la Figura 16 se presenta la CPUE estandarizada para la flota arrastrera período 1 para los 5 modelos probados Mod0, Mod1, Mod2, Mod3, Mod4 y la CPUE promedio sin estandarizar en línea celeste. Las CPUE´s escaladas de cada modelo presentan la misma tendencia que la CPUE promedio anual evidenciando una progresiva disminución desde inicios del periodo hasta el año 1995 donde se comienza a observar un leve aumento.
  
-
-Figura 16	CPUE (kg/h.a.) media y estandarizada para la flota arrastrera período 1979-1997. Se presentan los 5 modelos probados y la CPUE promedio sin estandarizar en línea celeste.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_16.png}
+\end{center}
+```
+\small \textbf{Figura 16}. CPUE (kg/h.a.) media y estandarizada para la flota arrastrera período 1979-1997. Se presentan los 5 modelos probados y la CPUE promedio sin estandarizar en línea celeste. \vspace{0.5cm} \normalsize
 
 Para el período 2, la CPUE estandarizada se presenta en la Figura 17. En líneas segmentadas se presenta la CPUE estimada por los 4 modelos de estandarización Mod0, Mod1, Mod2, Mod3, en línea continua roja la CPUE promedio sin estandarizar y en línea continua amarilla la CPUE estandarizada estimada el año anterior (informe de estatus 2018). En este período se observa un aumento en la CPUE que proviene de fines del período 1.
 
-
-Figura 17	CPUE kg/h.a. estandarizada para la flota arrastrera período 2 (1998-2019). Se presentan los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_17.png}
+\end{center}
+```
+\small \textbf{Figura 17}. CPUE kg/h.a. estandarizada para la flota arrastrera período 2 (1998-2019). Se presentan los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla. \vspace{0.5cm} \normalsize
 
 b)	Estandarización CPUE palangre
 
@@ -677,17 +708,32 @@ Tabla 12	Número de registros para la flota palangrera para el período 2 (1998-
 
 La Figura 18 contiene el histograma de los rendimientos de pesca (CPUE) y el logaritmo de la CPUE para ambos períodos. El valor en logaritmo presenta la condición de normalidad necesaria para la estandarización del rendimiento. Esta variable se mide en kilógramos por número de anzuelo por hora de reposo (kg/(nanz*h.r.)). 
 
-Figura 18	Histograma del rendimiento y logaritmo del rendimiento de pesca en kilógramos por número de anzuelo y hora de reposo.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_18.png}
+\end{center}
+```
+\small \textbf{Figura 18}. Histograma del rendimiento y logaritmo del rendimiento de pesca en kilógramos por número de anzuelo y hora de reposo. \vspace{0.5cm} \normalsize	
 
 La Figura 19 entrega un resumen de los datos de palangre utilizados en el período 2 (1998-2019), el cuadrante superior izquierdo contiene el número de anzuelos promedio para cada pesquería, el valor bordea los 15 mil anzuelos exceptuando algunos años (por ejemplo 2015). En la pesquería 11 el valor más bajo se encuentra en el año 2013 ya que el barco 941225 presenta solo 3600 anzuelos ese año, a diferencia del resto de los barcos que presentan entre 11 mil y 24 mil anzuelos. 
 
 En el cuadrante superior derecho se presenta la CPUE promedio con las horas de reposo no corregidas, en el cuadrante inferior izquierdo la captura promedio de merluza del sur, en donde los años 2017, 2018 y 2019 se caracterizaron por presentar los valores más bajos de la serie, y en el cuadrante inferior derecho la CPUE promedio considerando las horas de reposo corregidas. 
 
-Figura 19	Valores promedio del número de anzuelos por año y pesquería (5,11,91,92) (cuadrante superior izquierdo), captura promedio de merluza del sur por año en kilogramos (cuadrante inferior izquierdo), CPUE nominal promedio por año con horas de reposo sin corregir (cuadrantes superior derecho) y CPUE nominal promedio por año con horas de reposo corregidas (cuadrantes inferior derecho)  para el período 2 (1998-2019) flota palangrera.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_19.png}
+\end{center}
+```
+\small \textbf{Figura 19}. Valores promedio del número de anzuelos por año y pesquería (5,11,91,92) (cuadrante superior izquierdo), captura promedio de merluza del sur por año en kilogramos (cuadrante inferior izquierdo), CPUE nominal promedio por año con horas de reposo sin corregir (cuadrantes superior derecho) y CPUE nominal promedio por año con horas de reposo corregidas (cuadrantes inferior derecho)  para el período 2 (1998-2019) flota palangrera. \vspace{0.5cm} \normalsize	
 
 Al igual que en el arrastre, se construyeron matrices con composición de captura para cada lance con el fin de incorporar la intencionalidad de pesca como un predictor en los modelos lineales. Luego, se realizó el análisis de componentes principales y el análisis de cluster obteniendo como resultado la Figura 20, aquí se presentan los primeros 5 componentes principales del período 2 obtenidos en la etapa anterior, el primero contiene presencia de merluza del sur y congrio relacionada positivamente, el segundo contiene las mismas especies, pero relacionadas de forma negativa, el tercero se caracteriza por brótula y el cuarto por bycatch y el último por merluza de cola.  
 
-Figura 20	Análisis de componentes principales de la matriz de proporciones para el palangre, periodo 2 (1998-2019).
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_20.png}
+\end{center}
+```
+\small \textbf{Figura 20}. Análisis de componentes principales de la matriz de proporciones para el palangre, periodo 2 (1998-2019). \vspace{0.5cm} \normalsize	
 
 Luego se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la Tabla 13. 
 
@@ -695,17 +741,37 @@ Tabla 13	Número de lances incorporados en cada cluster.
 
 Contrario a lo obtenido en la flota arrastrera, donde pocos cluster contienen proporciones elevadas de captura de merluza del sur, aquí se observan cluster con mix de especies, la flota palangrera concentra las mayores proporciones de captura en más de un cluster, por ejemplo, la Figura 21 contiene la proporción de especies por cluster para el período 1, en donde se observa presencia importante de merluza del sur en los cluster 1 y 2 dejando en el cluster 3 mayor participación de congrio. Para el período dos (Figura 22) se observan 4 cluster en donde existe una importante presencia de merluza en los cluster 1, 3 y 4. 
 
-Figura 21	Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 1 (1979-1997).
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_21.png}
+\end{center}
+```
+\small \textbf{Figura 21}. Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 1 (1979-1997). \vspace{0.5cm} \normalsize	
 
-Figura 22	Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 2 (1997-2019).
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_22.png}
+\end{center}
+```
+\small \textbf{Figura 22}. Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 2 (1997-2019). \vspace{0.5cm} \normalsize	
 
 La Figura 23 contiene la intencionalidad de pesca del cluster 2 para el período 1, este cluster es el que contiene la mayor proporción de merluza del sur en las capturas (según Figura 21), esta figura confirma los resultados anteriores identificando proporciones altas de merluza del sur por cada lance. 
  
-Figura 23	Frecuencia de la proporción de merluza del sur para la flota palangrera período 1 (1979-1997) por año en el cluster 2.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_23.png}
+\end{center}
+```
+\small \textbf{Figura 23}. Frecuencia de la proporción de merluza del sur para la flota palangrera período 1 (1979-1997) por año en el cluster 2. \vspace{0.5cm} \normalsize	
 
 El cluster con mayor proporción de merluza del sur para el período 2 corresponde al cluster 3, seguido del cluster 1 (según Figura 22), la Figura 24 presenta la captura, esfuerzo y CPUE promedio por cada cluster. La línea celeste corresponde al cluster 3, alcanzando los valores más altos de captura y CPUE promedio.
 
-Figura 24	Sumatoria anual de la captura (kg) y esfuerzo (nanz/h.r.), CPUE (kg/(nanz*h.r.)) por cluster para el período 2 período 1998-2019, el tamaño del circulo es proporcional al número de lances utilizados. 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_24.png}
+\end{center}
+```
+\small \textbf{Figura 24}. Sumatoria anual de la captura (kg) y esfuerzo (nanz/h.r.), CPUE (kg/(nanz*h.r.)) por cluster para el período 2 período 1998-2019, el tamaño del circulo es proporcional al número de lances utilizados. \vspace{0.5cm} \normalsize	
 
 Para la estandarización de la CPUE se utilizaron 4 modelos lineales generalizados, los que incluyeron como factores el año (1998-2019), mes, pesquería, zona, cluster y barco. En la Tabla 14 y 15 se presentan los estadísticos para cada MLG. 
 
@@ -720,11 +786,19 @@ Tabla 15	Estadísticos de los modelos lineales para el período 2 (1998-2019) co
 
 La CPUE estandarizada para la flota palangrera se presenta en la Figura 25 y 26. El período 1 considera los 4 modelos utilizados Mod0, Mod1, Mod2, Mod3, en línea continua celeste se muestra la CPUE promedio sin estandarizar. Para el período 2, la Figura 26 incluye la CPUE de los modelos utilizados en líneas segmentadas, la CPUE promedio sin estandarizar en línea continua roja y la CPUE estandarizada estimada el año anterior en línea continua amarilla (informe de estatus 2018). 
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_25.png}
+\end{center}
+```
+\small \textbf{Figura 25}. CPUE estandarizada (kg/(nanz*h.r.)) período 1, para los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla. \vspace{0.5cm} \normalsize
 
-Figura 25	CPUE estandarizada (kg/(nanz*h.r.)) para los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla.
-
-
-Figura 26	CPUE estandarizada (kg/(nanz*h.r.)) para los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_26.png}
+\end{center}
+```
+\small \textbf{Figura 26}. CPUE estandarizada (kg/(nanz*h.r.)) período 2, para los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla. \vspace{0.5cm} \normalsize
 
 ## 4.1.3 Ajustes modelo base
 
@@ -758,30 +832,55 @@ Tabla 16	Coeficientes de variación para el índice de abundancia CPUE utilizado
 
 La Figura 27 presenta el ajuste de los desembarques de las flotas arrastrera, palangrera y artesanal con sus respectivos residuales por flota (Figura 28). Se observa que los ajustes de las series temporales son precisos e inclusive reproducen la reducción de los desembarques posterior al año 2010. Los desembarques de las flotas palangreras y artesanal disminuyen durante los últimos 4 años, a diferencia de la flota de arrastre que presenta un aumento en los últimos 3 años debido al traspaso de cuota de la flota artesanal.
 
-Figura 27	Desembarque observado en miles de toneladas (puntos) y estimado (línea roja) con su respectiva desviación estándar (barras) para las flotas arrastrera, palangrera y artesanal.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/FitY.png}
+\end{center}
+```
+\small \textbf{Figura 27}. Desembarque observado en miles de toneladas (puntos) y estimado (línea roja) con su respectiva desviación estándar (barras) para las flotas arrastrera, palangrera y artesanal. \vspace{0.5cm} \normalsize
 
 La precisión del ajuste se muestra en el comportamiento de los residuales, los que se sobreponen con la distribución teórica esperada para la distribución normal de datos (Figura 28). Solo unos pocos puntos de datos se alejan de dos desviaciones estándar.
 
- 
-Figura 28	Residuales de los datos de desembarque de las flotas arrastrera, palangrera y artesanal, período 1977-2019.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/resid.yield.png}
+\end{center}
+```
+\small \textbf{Figura 28}. Residuales de los datos de desembarque de las flotas arrastrera, palangrera y artesanal, período 1977-2019. \vspace{0.5cm} \normalsize
 
 El ajuste a los datos de índices de abundancia por flota se presenta en la Figura 29, con sus respectivos residuales por flota (Figura 30). Los ajustes a las series temporales de abundancia son variables entre flotas y crucero. En términos generales, se observa mejores ajustes en los índices de abundancia de palangre y arrastre para el período 1, con una menor precisión la flota artesanal y la biomasa desovante prospectada durante los cruceros acústicos. Para el arrastre se observa un primer período con una disminución de la CPUE hasta el año 1997 (cuadrante izquierdo) y un posterior aumento durante el segundo período (cuadrante derecho). El palangre presenta un período con valores máximos (1998-2000) al igual que la flota artesanal (2001-2002). 
 
-Figura 29	Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (kg/h.a.), palangrera (kg/(nanz*h.r.))  y artesanal (kg/h.r.), junto a las predicciones del crucero acústico. 
- 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/ajustes.png}
+\end{center}
+```
+\small \textbf{Figura 29}. Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (kg/h.a.), palangrera (kg/(nanz*h.r.))  y artesanal (kg/h.r.), junto a las predicciones del crucero acústico. \vspace{0.5cm} \normalsize
 
-Figura 30	Residuales índices de abundancia de la flota arrastrera, palangrera, artesanal y crucero acústico.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/resid.ind.png}
+\end{center}
+```
+\small \textbf{Figura 30}. Residuales índices de abundancia de la flota arrastrera, palangrera, artesanal y crucero acústico. \vspace{0.5cm} \normalsize
 
 En la Figura 31 se observa la selectividad del arte de pesca para cada flota, arrastre, palangre, espinel y crucero acústico. Las edades de des-reclutamiento son de aproximadamente 18 años para el arrastre, 19 años para el palangre, 12 años en la flota artesanal y 21 para el crucero acústico.
 
-
-Figura 31	Selectividad de la flota arrastrera, palangrera, artesanal y crucero acústico, en línea segmentada azul se sobrepone la madurez sexual.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/selectivities.png}
+\end{center}
+```
+\small \textbf{Figura 31}. Selectividad de la flota arrastrera, palangrera, artesanal y crucero acústico, en línea segmentada azul se sobrepone la madurez sexual. \vspace{0.5cm} \normalsize
 
 La mortalidad por pesca por flota y total se muestra en la Figura 32, cómo ha sido recurrente los mayores niveles de mortalidad por pesca han sido generados por la flota arrastrera. En magnitud le sigue la flota palangrera, aunque durante los últimos 6 años esta flota mostró una reducción importante en los niveles de remoción. En las tres flotas se observa una significativa reducción de la mortalidad por pesca para el año 2014, consecuencia de la reducción en las cuotas de captura. Con respecto a la mortalidad total, se observa un aumento durante los últimos 2 años generada principalmente por la flota arrastrera. 
 
-Figura 32	Mortalidad por pesca estimada para la flota arrastrera, palangrera, espinelera y mortalidad por pesca total.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/mortalidad.png}
+\end{center}
+```
+\small \textbf{Figura 32}. Mortalidad por pesca estimada para la flota arrastrera, palangrera, espinelera y mortalidad por pesca total. \vspace{0.5cm} \normalsize
 
 En cuanto a las estructuras de tallas, el arrastre presenta información desde 1982 hasta 2018. Destacan los años 1982 y 1983 con estructuras que poseen una importante participación de las edades mayores de 19 años, las que no volvieron a aparecer con esa importancia en la historia de la pesquería (Figura 33). Luego en 1986 y 1998 se aprecia un contingente de peces de edades menores de 9 años, que sugieren un buen reclutamiento asociado a los desoves del año 1982 y 1983. Desde el año 2001 hasta el 2007 se produce otro desplazamiento de la estructura hacia edades más viejas. Finalmente, desde el 2008 la estructura se ha mantenido relativamente estable con un pequeño aumento en la aparición de ejemplares mayores a 19 años.
 
@@ -789,45 +888,92 @@ En el palangre (Figura 34) se observa la presencia de ejemplares de mayor tamañ
 
 Desde los residuales a la edad (Figura 35) se observa, para el período 1994-2005, una subestimación de ejemplares entre los 14 y los 19 y una subestimación de ejemplares entre 6 y 12 años. Para el palangre, entre los años 1990-1992 el modelo tiende a subestimar las tallas mayores a 13 años y sobrestimar tallas menores. Desde el año 1994 el modelo subestima las tallas menores a 13 años y sobrestima las tallas mayores.
 
-Figura 33	Ajuste estructuras de edades flota arrastrera período 1981-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/FitAgeArrastre.png}
+\end{center}
+```
+\small \textbf{Figura 33}. Ajuste estructuras de edades flota arrastrera período 1981-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
-Figura 34	Ajuste estructuras de edades flota palangrera período 1989-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/FitAgeLongline.png}
+\end{center}
+```
+\small \textbf{Figura 34}. Ajuste estructuras de edades flota palangrera período 1989-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_35.png}
+\end{center}
+```
+\small \textbf{Figura 35}. Residuales de estructura de edades de la flota de arrastre y palangre. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 
-Figura 35	Residuales de estructura de edades de la flota de arrastre y palangre. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad.
 Para el espinel la estructura de edades abarca un rango de edades más jóvenes que las flotas de arrastre y palangre (Figura 36), apareciendo individuos a partir de los 3-4 años de edad. Los dos primeros años de datos (1987 y 1988) corresponden a los años con grandes capturas artesanales (20 a 30 mil t), pero luego no se dispone de datos para el período 1989-1994, donde las capturas aún eran altas, pero con tendencia a la baja. El período 1995-1999, se aprecia el desplazamiento de la estructura hacia edades mayores. Desde 2000 hasta 2004 se observó una estructura relativamente estable y desde 2005 a 2009 la participación de edades jóvenes aumentó. En los últimos dos años de la serie no se observan los ejemplares mayores a 17 años que habían sido observados en el año 2017.
 
 Los datos provenientes del crucero acústico muestran estabilidad los primeros años para encontrar una ausencia de ejemplares menores a 10 años en 2011 (Figura 37). Es importante mencionar que la estructura de edades presentada en este informe corresponde solo a ejemplares adultos, obtenidos aplicando la ojiva de madurez macroscópica para cada sexo, esto debido a la solicitud por parte de la Subsecretaría de Pesca y Acuicultura de incorporar solo ejemplares adultos parte de la fracción desovante y eliminar la fuerte presencia de ejemplares juveniles menores a 7 años que se detectaron en los años 2016, 2017 y 2018. 
 
 Los residuales para la flota artesanal y los cruceros acústicos (Figura 38) se distribuyeron adecuadamente a través de los años y edades, con algunos residuales positivos en las edades 3 a 6 en la segunda mitad de los años ochenta, sin embargo, estos residuales no superan las 3 desviaciones estándar y por lo tanto están dentro del rango del 95%.  
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/FitAgeArtesanal.png}
+\end{center}
+```
+\small \textbf{Figura 36}. Ajuste estructuras de edades flota artesanal período 1987-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
-Figura 36	Ajuste estructuras de edades flota artesanal período 1987-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/FitAgeCrucero.png}
+\end{center}
+```
+\small \textbf{Figura 37}. Ajuste estructuras de edades fracción adulta del crucero acústico período 2000-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
- 
-Figura 37	Ajuste estructuras de edades fracción adulta del crucero acústico período 2000-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas.
-
-
-Figura 38	Residuales de estructura de edades de la flota artesanal y crucero acústico. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_38.png}
+\end{center}
+```
+\small \textbf{Figura 38}. Residuales de estructura de edades de la flota artesanal y crucero acústico. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 
 
 ## 4.1.4 Comparación escenarios y sensibilidad
 
 Con el fin de observar de mejor forma los cambios en la incorporación y/o modificación de la información se compara el modelo implementado en la asesoría previa, 2019 con datos parciales mod0_01 con el modelo solicitado por el Comité Científico Técnico, que actualiza los datos al 2019 e incluye los pesos medios del crucero (mod0_02) y flota (mod0_03). Finalmente, se incluyen dos configuraciones de sensibilidad al modelo mod0_03, la primera modifica los coeficientes de variación de los índices de abundancia mod0_03a (Tabla 3) y la segunda incluye un cambio en la productividad de la población modificando el parámetro de escarpamiento desde h=0.5 a h=0.75 mod0_03b. En sombreado se destaca modelo base.
 
-Figura 39 	(a) Biomasa desovante, (b) biomasa total, (c) reclutamiento y (d) reducción de la biomasa desovante para los 5 escenarios periodo 1977-2019.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_39.png}
+\end{center}
+```
+\small \textbf{Figura 39}. (a) Biomasa desovante, (b) biomasa total, (c) reclutamiento y (d) reducción de la biomasa desovante para los 5 escenarios periodo 1977-2019. \vspace{0.5cm} \normalsize
 
 Las variables de estado biomasa desovante, total, reclutamiento y reducción de la biomasa desovante se presentan en la Figura 40. En términos de la reducción de la biomasa desovante (Figura 40,d), los escenarios que muestran una mayor recuperación corresponden a los mod0_03a (BD/BD0=31%) y mod0_03b (BD/BD0=37%), sin embargo, en todos los escenarios la biomasa desovante disminuye durante los últimos 4 años. En el escenario mod0_03b se observa un aumento en la biomasa total al final de la serie (Figura 40,b), lo que se puede atribuir al aumento en los reclutamientos desde el año 2010 debido al aumento en la productividad de la población (Figura 40,c). 
 
-Figura 40	Mortalidad por pesca total para los 5 escenarios período 1977-2019.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_40.png}
+\end{center}
+```
+\small \textbf{Figura 40}. Mortalidad por pesca total para los 5 escenarios período 1977-2019. \vspace{0.5cm} \normalsize
 
 El efecto de incluir los pesos medios del crucero acústico y de la flota se puede observar en la Figura 41, en donde el ajuste de los escenarios mod0_01 (con pesos medios constantes) y mod0_02 (con pesos medios del crucero acústico) evidencia una tendencia suavizada, a diferencia de los escenarios que incluyen los pesos medios de la flota (mod0_03, mod0_03a y mod0_03b), en los que el ajuste presenta una tendencia más acerrada influenciada por la variación anual de los pesos medios en vez de la utilización de valores constantes a los largo de la serie. 
 
 La captura se proyectó para los escenarios mod0_3a y mod0_03b asumiendo para el año 2020 un valor desembarque igual a la CBA ponderada por los respectivos valores de descarte y subreporte utilizados de forma histórica en la evaluación de stock para cada flota, lo que entrega un valor de desembarque 2020 incluyendo descarte y subreporte de 29600 toneladas (Figura 42). Los valores de CBA para los años 2021, 2022 y 2023 se reportan en la Tabla 18. 
 
-Figura 41	Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (1979-1997; 1998-2019) y palangrera (1987-1997; 1998-2019) para los 5 escenarios. 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_41.png}
+\end{center}
+```
+\small \textbf{Figura 41}. Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (1979-1997; 1998-2019) y palangrera (1987-1997; 1998-2019) para los 5 escenarios. \vspace{0.5cm} \normalsize
 
-Figura 42	Proyección de la captura para los años 2021, 2022 y 2023, cuadrante superior: mod0_03a, cuadrante inferior: mod0_03b.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_42.png}
+\end{center}
+```
+\small \textbf{Figura 42}. Proyección de la captura para los años 2021, 2022 y 2023, cuadrante superior: mod0_03a, cuadrante inferior: mod0_03b. \vspace{0.5cm} \normalsize
 
 
 ## 4.1.5 Análisis retrospectivo
