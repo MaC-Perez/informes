@@ -165,13 +165,13 @@ En el caso de la implementación del modelo lineal generalizado, el primer paso 
 
 La captura por unidad de esfuerzo (CPUE) es ampliamente usada como índice de abundancia relativa en muchas pesquerías del mundo. Las variaciones de este índice, se asocian principalmente a las características y composición de la flota, así como a factores de tipo ambiental. Aquí se presenta la estandarización de las tasas de captura en la pesquería de merluza del sur, usando la información proveniente de las bitácoras de pesca entre los años 1979 y 2019 para el arrastre, 1987 a 2019 para palangre. Se utilizaron modelos lineales generalizados (MLG), técnica que ha sido el método más utilizado en la estandarización de CPUE (Punt et al., 2000). Este método permite realizar interacciones entre las variables explicatorias en la CPUE, así como explorar distintas distribuciones de error mediante la utilización de la verosimilitud en el ajuste del modelo (McCullagh y Nelder, 1989). Bajo este enfoque, el modelo general para la determinación de la CPUE es:
 
-log⁡(cpue)=β_0+∑_k▒〖β_k x_k 〗+ε ,
+
 
 donde, β_0 es el intercepto, β_k son los coeficientes que dan cuenta de la variación en la CPUE con respecto al predictor x_k y ε es un error normal con media 0 y varianza constante σ^2. Los factores analizados para el caso de la pesquería de arrastre y espinel fueron: años, meses, barco (aleatorio), zona (unidad de pesquería) y cluster. El efecto cluster corresponde a la táctica de pesca y se representa en las bitácoras de pesca por medio de una “etiqueta” que lleva cada lance de acuerdo al cluster donde se ha agrupado la operación de pesca.
 
 La CPUE anual es función de tres variables estimadas a través de MLG:
 
-f(θ,μ,σ)=〖CPUE〗_i=ε^((θ_i+μ+σ^2/2)) ,
+
 
 donde, θ_i es el coeficiente estimado para el año i, μ es el intercepto del modelo (media global o referencial) y σ^2 representa el parámetro de dispersión de la distribución asumida para el error. 
 
@@ -187,60 +187,48 @@ Durante la implementación del modelo poblacional de merluza del sur, se conside
 
 	Condiciones Iniciales
 Se asume que la población de merluza del sur al comienzo del año 1977 se encontraba en una condición de equilibrio libre de pesca. Bajo este supuesto, el reclutamiento del año 1977 corresponde a un reclutamiento virginal (Ro) consistente con una biomasa desovante virginal (So), mientras que en posteriores años (>1977) es dependiente de una relación stock-recluta Beverton-Holt (función de la BD, Bo, Ro y h) perturbada por desviaciones obtenidas desde una distribución de probabilidad normal. Si bien, este supuesto simplifica la estructura del modelo, es un escenario altamente probable para la población de merluza del sur. De esta forma, el número de ejemplares de edad a, al comienzo del año 1977 es definida como,
-N_(a,1977)={■(R_0,"                      " a=1@N_(a-1,1) e^(-M),"         " a>2,⋯,m-1."                       " @N_(a-1,1)/((1-e^(-M) ) ),"        " a=m)┤
+
 
 La biomasa desovante virginal (en número) es obtenida como,
 
-S_0=e^(-9M/12) ∑_(a=1)^m▒〖N_(a,t) 〖ms〗_a w_a,"    " t=1977,〗
 
-donde 〖ms〗_a y w_a corresponden a la proporción de hembras maduras y pesos medios a la edad a, respectivamente.
+donde  y w_a corresponden a la proporción de hembras maduras y pesos medios a la edad a, respectivamente.
 
 	Reclutamiento
 Con objeto de estimar los reclutamientos (especificados a la edad 1), se utilizó el modelo stock-recluta de Beverton-Holt con una estructura de error lognormal, que incorpora un término de varianza que soslaya el sesgo durante la trasformación a escala real,
-R_t=S_(t-1)/(a+bS_(t-1) ) e^((ϵ_t^R-(σ_R^2)/2) ),
 
 donde S_t es la biomasa desovante en el año t, ϵ_t es la desviación del reclutamiento en el año t, y σ_R^2 es la desviación estándar de las desviaciones del reclutamiento en escala logarítmica. La relación entre los niveles virginales de reclutamiento y abundancia desovante, y los parámetros a y b del modelo Beverton-Holt es dada por,
 a=S_0  (1-h)/(4hR_0 ),             b=(5h-1)/(4hR_0 ),
 
 donde h es un parámetro que define la fuerza de la densodependencia, S_0 es la biomasa desovante virginal, y R_0 es el reclutamiento promedio producido cuando la poblacional se encontraba en equilibrio libre de pesca (reclutamiento virginal). El término h, definido como el parámetro de escarpamiento, representa el nivel de reclutamiento relativo al reclutamiento virginal, que ocurre cuando la biomasa desovante ha sido reducida a un 20% de su nivel virginal. Al igual que en la última evaluación se supuso h igual a 0,5. Como base estructural se continúa utilizando la biomasa desovante como predictor de los reclutamientos, que y es calculada en septiembre de cada año por la siguiente expresión:
 
-S_t=∑_(a=1)^m▒〖N_(a,t) e^((-9)/12 Z_(a,t) ) 〖ms〗_a w_a.〗
 
 	Evolución temporal de cohortes
 La abundancia de merluza del sur a la edad a al tiempo t, es modelada por
 
 
-N_(a,t)={■(R_(a,t),"                                                                   " a=1@N_(a-1,t-1) e^(〖-Z〗_(a-1,t-1) ),"                                         " a>2,⋯,m-1,"                       " @N_(a-1,t-1) e^(〖-Z〗_(a-1,t-1) )+N_(a,t-1) e^(〖-Z〗_(a,t-1) ),"         " a=m)┤
 
 tal que,
-Z_(a,t)=M+∑_(i=1)^g▒〖S_a^g F_t^g,〗
+
 
 donde M es la tasa instantánea de mortalidad natural para la edad a al tiempo t, m es el grupo plus y Z_(a,t) es la mortalidad total edad-específica. En este sentido, se plantea que la dinámica poblacional de la abundancia N_(a,t) a la edad a al tiempo t, puede ser representada por un modelo de sobrevivencia donde las mortalidades por pesca anuales, F_t^g, para cada flota de pesca g, son aplicadas en forma continua durante la estación de pesca para cada edad a de acuerdo a una ojiva de selectividad S_a^g.
 
 	Selectividades
 La curva de selectividad implementada en el modelo para las flotas arrastre, espinelera y palangrera, como también en los cruceros, corresponde a una función doble-normal definida para todo el rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad (k) y las varianzas del lado derecho (υ^r ) e izquierdo (υ^l ) de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como,
 
-S_a^g={■(2^(〖-[(a-k)/υ^l ]〗^2 ),"          " a≤k@2^(〖-[(a-k)/υ^r ]〗^2 ),"          " a>k)┤.
-
 La curva de selectividad es asintótica cuando la varianza derecha (υ^r ) tiene a valores altos y conforma una curva tipo domo cuando adopta valores bajos. Se considera constante entre años tanto a nivel de parámetros de posición (edad al 50% de explotación) como de dispersión (pendiente de la curvatura). Las justificaciones para este supuesto se basan en la poca variabilidad que presentan las composiciones de edades de las capturas y en menor grado en los cruceros, como también a que en esta pesquería no se conocen procesos de escape significativos de individuos longevos fuera de la zona donde opera la pesquería en el caso de curvas de selectividad asintóticas.
 
 	Valores Predichos
 Los índices anuales de abundancia relativa (I_t^g ) para cada flota g, incluyendo las estimaciones de los cruceros hidroacústicos, se asumen proporcional a la biomasa vulnerable estimada a mitad del año, según, 
-I_t^g=q_g e^(-0.5M) (∑_t▒∑_a▒〖S_a^g N_(a,t) w_(a,t) 〗) e^(ϵ_t ),
 
 donde q_g corresponde al coeficiente de capturabilidad de cada uno de los artes o aparejos de pesca. 
 En el caso de los cruceros acústicos, se asume que las estimaciones representan una fracción de la biomasa desovante disponible, lo que en otras palabras se traduce en que el índice de proporcionalidad o capturabilidad es estimado en el modelo sujeto a una distribución a priori, establecida siguiendo una distribución lognormal con media 0 y error estándar 0,4. Lo anterior se justifica dado que el proceso de agregación de la merluza del sur posiblemente es más extendido que el tiempo prospectado, de manera que el crucero admite un coeficiente de variación de 40% en términos de la precisión de estimación.
 
-La proporción de edad observada de las flotas de pesca (p ̅_(a,t)^g ) y los cruceros (p ̅_(a,t)^cru )  fueron obtenidas mediante,
-p ̅_(a,t)^g=(C_(a,t)^g)/(∑_a▒C_(a,t)^g ),"              " p ̅_(a,t)^cru=(N_(a,t)^cru)/(∑_a▒N_(a,t)^cru ) ,
-
+La proporción de edad observada de las flotas de pesca y los cruceros (p 
 donde C_(a,t)^g corresponde a la matriz de captura a la edad observada de la flota g, mientras que N_(a,t)^g corresponde a la abundancia a la edad estimada en los cruceros acústicos.
 
-El desembarque anual por flota, Y ̂_t^g, es modelado asumiendo un error de observación en el proceso de pesca, de esta forma, los desembarques son estimados como:
+El desembarque anual por flota, , es modelado asumiendo un error de observación en el proceso de pesca, de esta forma, los desembarques son estimados como:
 
-C ̂_(a,t)^g=N_(a,t) w_a  (F_(a,t)^g (1-e^(〖-Z〗_(a,t) ) ))/〖-Z〗_(a,t)   ,
-
-Y ̂_t^g=∑_g▒∑_a▒C ̂_(a,t)^g    .
 Las capturas totales incorporadas en el modelo, corresponden a los niveles de desembarques anuales realizados por las flotas de pesca industrial (arrastre y palangre) y artesanal (espinel).
 	Bondad de ajuste y consistencia del modelo de evaluación de stock
 Con el fin de asegurar la aplicación del mejor modelo de evaluación, así como su pertinencia, consistencia e incertidumbre resultante, se consideró los siguientes procedimientos:
@@ -352,9 +340,8 @@ F_RMS=F_(45%bdpr),
 
 es decir, la mortalidad por pesca que reduce al 45% la biomasa desovante por recluta, y
 
-〖BD〗_RMS=〖BD〗_(40%Bo)=R_0*〖bdpr〗_(F=0)*0.4,
 
-es decir, la biomasa desovante virginal reducida a un 40%. Donde 〖BD〗_RMS y F_RMS  representan los PBR objetivos, los cuales son consistentes con el requerimiento de manejar los stocks comerciales en base al RMS; mientras que 〖bdpr〗_(F=0) representa la biomasa desovante por recluta en ausencia de explotación (F=0) para un nivel de reclutamiento medio o virginal Ro. Complementariamente, se estableció como PBR límite para la biomasa desovante, el 50% de 〖BD〗_RMS, que es equivalente a 〖BD〗_(20%Bo).
+es decir, la biomasa desovante virginal reducida a un 40%. Donde RMS y F_RMS  representan los PBR objetivos, los cuales son consistentes con el requerimiento de manejar los stocks comerciales en base al RMS; mientras que (F=0) representa la biomasa desovante por recluta en ausencia de explotación (F=0) para un nivel de reclutamiento medio o virginal Ro. Complementariamente, se estableció como PBR límite para la biomasa desovante, el 50% de RMS, que es equivalente a _(20%Bo).
 
 Figura 1.	Sistema de niveles para la determinación de los PBRs de acuerdo a la cantidad, tipo y la calidad de la información disponible y, métodos de evaluación de stock empleados en cada pesquería.
 
@@ -363,18 +350,11 @@ Figura 1.	Sistema de niveles para la determinación de los PBRs de acuerdo a la 
 Frente a la incertidumbre en la relación stock-recluta en merluza del sur, la determinación de FRMS está basado en el análisis de biomasa desovante por recluta que describen el cambio de la biomasa de una cohorte o clase anual por efectos de la mortalidad natural y la pesca. La biomasa adulta o desovante por recluta (bdpr) es obtenida como función de la mortalidad por pesca (F), y en esta curva es factible identificar el nivel de referencia biológico F_(45%bdpr) que se supone debería minimizar el impacto de la pesca sobre el stock, permitiendo el escape en torno al 45% respecto del valor que existiría en ausencia de explotación pesquera.
 La estimación de esta curva y su valor de referencia (45%bdpr) se obtiene por medio de la dinámica de la abundancia en equilibrio definida como,
 
-N_a={■(1@N_(a-1) exp(-M-F*S_(a-1) )@(N_(a-1) exp(-M-F*S_(a-1) ))/(1-exp(-M-F*S_m ) ))┤,       ■(a=1@1<a<m@a=m) ,
-
 donde N_a es la abundancia en número a la edad a+1 para una población con longevidad máxima m, S_(a-1) corresponde a la selectividad edad específica, M es la mortalidad natural y F la mortalidad por pesca.
 
 Basada en esta abundancia, la biomasa desovante por recluta se define como,
 
-〖bdpr〗_(F=0)= ∑_(a=0)^t▒〖N_a exp⁡(-d_t M)m_a w ̅_a 〗   ,
-〖bdpr〗_(F_RMS )= ∑_(a=0)^t▒〖N_a exp⁡(-d_t (s_a F_RMS+M) 〖)m〗_a w ̅_a,〗  
-
 donde dt es la fracción del año donde ocurre el desove (agosto), ma es la fracción de peces maduros a la edad y   es el peso medio a la edad. Con el objeto de resolver el parámetro F_RMS=F_(45%bdpr)  se utilizó la siguiente función objetivo
-
-f=(〖BDPR〗_(F_RMS )/〖BDPR〗_(F=0) -0,45)^2.
 
 
 	Diagrama de fases de explotación
