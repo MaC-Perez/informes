@@ -983,8 +983,14 @@ La Tabla 17, presenta los resultados en relación a la reducción de informació
 Tabla 17	Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0_03).
 
 El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran interés para poder comparar y realizar inferencia de la calidad del modelo, y de cómo las variables se ven afectadas por la reducción de información. La Figura 43, presenta el análisis retrospectivo del modelo mod0_03 de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta las variables de estado. En términos de rho, se aprecia que la reducción de información afecta y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,089) representando el mayor efecto dentro de las variables evaluadas en términos de un patrón retrospectivo). En el caso de los reclutamientos estos son alterados positivamente (arreglar = 0,014), siendo esta variación de menor cuantía. Finalmente, la variación de la mortalidad por pesca, presenta niveles cercanos en torno a arreglar = 0,044. 
- 
-Figura 43	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03).
+
+
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_43.png}
+\end{center}
+```
+\small \textbf{Figura 43}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03). \vspace{0.5cm} \normalsize
 
 La Tabla 18 muestra el desempeño del análisis retrospectivo del modelo mod0_03b. En donde se destaca, y al igual al caso anterior, el modelo presenta una importante sintonía en la reducción de información y de su efecto es la condición inicial del stock. Lo anterior se puede observar que la estimación de la biomasa desovante virginal tiene una variación menor, incluso con una diferencia de 5 años de la condición estimada en completitud de información. Con respecto al reclutamiento virginal y a los parámetros de la relación stock recluta, se confirma la mínima variación registrada entre escenarios analizados.
 
@@ -992,14 +998,23 @@ Tabla 18	Análisis retrospectivo, y sus implicancias en las variables de estados
 
 La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta de manera importante la biomasa desovante. En términos de rho, se aprecia que la reducción de información afecta levemente y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,062). En el caso de los reclutamientos estos son alterados en torno a arreglar = 0,056, representando junto a la biomasa desovante las variables que mostraron un mayor impacto de la reducción de información de las variables evaluadas, en términos de un patrón retrospectivo. Finalmente, la variación de la mortalidad por pesca parece de menor cuantía, por solo presentar niveles cercanos a cero (arreglar = 0,034). 
 
-Figura 44	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03b).
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_44.png}
+\end{center}
+```
+\small \textbf{Figura 44}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03b). \vspace{0.5cm} \normalsize
 
 La Figura 45 muestra el impacto de la reducción de información en la reducción poblacional, contrastada en ambos casos de estudio. En esta figura se puede observar, que el modelo mod0_03 muestra una leve subestimación al reducir la información con la cual se realiza la evaluación poblacional. En efecto como se mostró anteriormente, el patrón retrospectivo en este caso es negativo lo que produce una estimación si bien en torno a la condición actual del recurso, está en cada resta de información parece ser de menor cuantía. Por otro lado, en el caso del modelo mod0_03b, el cual se caracteriza por presentar una condición de productividad mayor al caso anterior, permite estimar niveles más cercanos al 40% de agotamiento del BD/BDo. En relación a el patrón retrospectivo para este escenario, podemos comentar que si bien el cambio relativo de BD es de menor error que el calculado para el caso mod0_03, persiste el mismo patrón que estima menores niveles de agotamiento en cada reducción de información.
  
 
-Figura 45	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la reducción poblacional (BD/BDo).
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_45.png}
+\end{center}
+```
+\small \textbf{Figura 45}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la reducción poblacional (BD/BDo). \vspace{0.5cm} \normalsize
 
 ## 4.2. Objetivo específico 2:
 
@@ -1010,16 +1025,25 @@ Figura 45	Análisis retrospectivo del modelo de evaluación de stock y su efecto
 
 En la Tabla 19 se presentan los valores de las variables de estado biomasa total, desovante y juvenil, además del número de reclutas y la mortalidad por pesca anual estimadas por el modelo de evaluación base. Para el año 1977 se estima una biomasa total de 1064 mil toneladas y una biomasa desovante de 444 mil toneladas. Para el año 1977 se estima una biomasa total de 1106 mil toneladas y una biomasa desovante de 454 mil toneladas. Para el año 2019 las estimaciones indican una biomasa total aproximada de 536 mil toneladas y una biomasa desovante de 141 mil lo que corresponde aproximadamente a un 31% de reducción (Figura 46). Las tendencias en el agotamiento de la biomasa desovante (Figura 46) muestran una disminución progresiva hasta el año 2001 y alcanzando el punto objetivo en el año 1991. Se mantiene durante los siguientes 13 años en torno a un 32% para disminuir nuevamente durante los últimos 4 años. La biomasa total va en declive desde el año 2000 alcanzando actualmente un 48% de reducción.
 
-Figura 46	Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019.
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/depletion.SB_BT.png}
+\end{center}
+```
+\small \textbf{Figura 46}. Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019. \vspace{0.5cm} \normalsize
 
 Tabla 19	Variables de estado biomasa total (BT), desovante (BD) y juvenil (B6) en miles de toneladas, reclutas (R) en número y mortalidad por pesca anual (FT) obtenidas del ajuste del modelo base.
 
 El reclutamiento estimado se presenta en la Figura 47, durante los primeros 20 años el reclutamiento se mantiene aproximadamente en los 150 millones de individuos para luego descender hasta el año 2010 a 98 millones de individuos. Desde el año 2010 y hasta el 2018 se observa un leve aumento de los reclutamientos hasta alcanzar el orden de 110 millones de individuos.
 
  
-Figura 47	Reclutamiento (millones de individuos) estimado por el modelo base para el período 1977-2019.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_47.png}
+\end{center}
+```
+\small \textbf{Figura 47}. Reclutamiento (millones de individuos) estimado por el modelo base para el período 1977-2019. \vspace{0.5cm} \normalsize
 
 ## 4.2.2 Estatus y Puntos Biológicos de Referencia
 
@@ -1027,9 +1051,13 @@ La reducción de la biomasa desovante se muestra en la Figura 48, comenzando con
 
 El estado actual de esta pesquería es de sobreexplotación y sobrepesca, con un valor de FRMS de 0.257 año-1 y de mortalidad por pesca al 2019 de 0.372 año-1. 
 
- 
-Figura 48	Diagrama de fases merluza del sur período 1977-2019, FRMS=0,257 año-1.
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/kobe_plot.png}
+\end{center}
+```
+\small \textbf{Figura 48}. Diagrama de fases merluza del sur período 1977-2019, FRMS=0,257 año-1. \vspace{0.5cm} \normalsize
 
 ## 4.3. Objetivo específico 3:
 
@@ -1056,19 +1084,40 @@ La Figura 49 muestra las proyecciones de doce PMs (cada panel) que combinan part
 
 De acuerdo a los PM evaluados, se observa que solo las proyecciones basadas en reclutamientos afectos a desvíos aleatorios permiten en algunos años alcanzar el objetivo de manejo definido por el PBR DBRMS (Figura 51). En efecto, ninguno de los escenarios con reclutamientos fijos (ya sean altos o bajos) permite una recuperación de la biomasa desovante mayor a un 40 de la biomasa virginal. 
 
-Figura 49	Proyecciones de la biomasa desovante bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR.
 
-Figura 50		Proyecciones de la captura bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR
- 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_49.png}
+\end{center}
+```
+\small \textbf{Figura 49}. Proyecciones de la biomasa desovante bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 
-Figura 51		Proyecciones del nivel de agotamiento bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_50.png}
+\end{center}
+```
+\small \textbf{Figura 50}. Proyecciones de la captura bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
+
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_51.png}
+\end{center}
+```
+\small \textbf{Figura 51}. Proyecciones del nivel de agotamiento bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 
 La Figura 52 muestra un resumen de las principales medidas de desempeño como la razón entre la biomasa proyectada y la biomasa virginal, la captura media en la proyección, la variación de la captura anual bajo una ventana móvil de 5 años, y un conjunto de riesgos recurrentemente utilizado para definir umbrales ce captura. 
 
 Estas medidas de desempeño tienen como objetivo resguardar diferentes intereses. Por ejemplo, la probabilidad que la biomasa proyectada sea menor que la biomasa objetivo definida por el PBR BDRMS, representa una componente conservacionista que no considera ningún elemento operacional de las flotas de pesca. Mientras que la variabilidad de la captura en una base de 5 años, busca resguardar la estabilidad de pesquería en términos de evitar cambios inter-anuales en la renta de la flota en un corto plazo.
  
 
-Figura 52		Ejemplo de medidas de desempeño para un conjunto de PMs que incluyen opciones de reclutamiento y dos reglas de control de captura.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_52.png}
+\end{center}
+```
+\small \textbf{Figura 52}. Ejemplo de medidas de desempeño para un conjunto de PMs que incluyen opciones de reclutamiento y dos reglas de control de captura. \vspace{0.5cm} \normalsize
+
 La combinación entre las diferentes medidas de desempeño es la mejor opción para comparar entre PM. Por lo tanto, el siguiente paso en los análisis es realizar una evaluación cruzada de estas medidas de desempeño con objeto de identificar las mejores combinaciones de PM que permitan balancear objetivos conservacionistas, económicos y posiblemente sociales. 
 
 
@@ -1079,19 +1128,31 @@ Debido a los múltiples resultados y opciones derivados de la evaluación de pro
 La Figura 53 muestra el tablero inicial de esta interfase que permite opciones para visualizar resultados en términos tabulares y gráficos. Por ejemplo, una opción de esta interfase es la selección de la RCC basada en PBRs (Figura 54), donde por medio de controles es posible definir diferentes opciones de RCC a aplicar durante las proyecciones de la población de merluza del sur. 
 
 
-Figura 53		Tablero inicial de la interfase gráfica de resultados del proceso de evaluación de estrategias de explotación.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_53.png}
+\end{center}
+```
+\small \textbf{Figura 53}. Tablero inicial de la interfase gráfica de resultados del proceso de evaluación de estrategias de explotación. \vspace{0.5cm} \normalsize
 
-
-Figura 54	 	Opción de la interfase gráfica para definir reglas de control de captura.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_54.png}
+\end{center}
+```
+\small \textbf{Figura 54}. Opción de la interfase gráfica para definir reglas de control de captura. \vspace{0.5cm} \normalsize
 
 Junto con resultados tabulares como los mostrados en la Figura 52 y el despliegue de series de tiempo como las mostrada en las Figuras 49-51, esta interfase posibilita explorar gráficos dinámicos con opciones específicas de explotación o la comparación de diferentes PM (Figura 55), facilitando de esta forma la visualización de evaluaciones cruzadas de medidas de desempeño.
 
 Los resultados expuestos en este objetivo conforman un primer acercamiento a la EEM y buscan delimitar los lineamientos necesarios para su implementación en las pesquerías nacionales. En este marco, estos resultados deben ser considerados únicamente para propósitos de establecer este lineamiento y no con fines de asesoría para la definición de estatus en merluza del sur.  En efecto, varios de los componentes del PM necesitan ser revisados, consensuados y aprobados antes que una EEM sea calificada válida para el manejo de las pesquerías nacionales.
 
 
-Figura 55	 	Grafica dinámica explicativa de la evolución temporal de los PMs.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_55.png}
+\end{center}
+```
+\small \textbf{Figura 55}. Grafica dinámica explicativa de la evolución temporal de los PMs. \vspace{0.5cm} \normalsize
 
 ## 4.5. Objetivo específico 5:
 
