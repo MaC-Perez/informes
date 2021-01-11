@@ -425,7 +425,6 @@ Sobreexplotado: En correspondencia con la definición anterior, la sobreexplotac
 ```
 \small \textbf{Figura 2}. Diagrama de fase definido Comité Científico Técnico de Recursos Demersales Zona Sur Austral (CCT-RDZSA) para la pesquería de merluza del sur. \vspace{0.5cm} \normalsize
 
-
 ## 3.3. Objetivo específico 3:
 
 *"Analizar las distintas alternativas de Captura Biológicamente Aceptable para estos stocks acorde con las estrategias de explotación y reglas de control previamente definidas y considerando los posibles estados de la naturaleza, con sus respectivos análisis de riesgo, incluyendo análisis en horizontes de mediano y largo plazo, según requerimiento."*
@@ -457,7 +456,6 @@ Como ha sido recurrente en la evaluación de la pesquería de merluza del sur, e
 3.	Finalmente, las alternativas de CBA para el año 2021 son calculadas por aplicar la mortalidad por pesca correspondiente al PBR objetivo (o sus ponderadores) sobre la abundancia estimada a diciembre del año 2020.
 
 Sin embargo, siguiendo la solicitud realizada durante la última sesión del el Comité Científico Técnico de Recursos Demersales Zona Sur Austral (CCT-RDZSA), se realiza una proyección a tres años con el fin de estimar una Captura Biológicamente Aceptable constante para el período 2021-2023. 
-
 
 ## 3.4. Objetivo específico 4:
 
@@ -513,7 +511,19 @@ Tabla 2			Desembarques oficiales (toneladas) de las flotas de arrastre, palangre
 
 Tabla 3		Desembarques corregidos (toneladas) de las flotas de arrastre, palangre y espinel artesanal.
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_3.png}
+\end{center}
+```
+\small \textbf{Figura 3}. Línea punteada roja: desembarques oficiales (miles de toneladas), línea punteada verde: desembarques corregidos de merluza del sur (en base a Tabla 3 y 4), reportados por las flotas industriales y flota artesanal para el periodo 1977-2019. \vspace{0.5cm} \normalsize
 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_4.png}
+\end{center}
+```
+\small \textbf{Figura 4}. Niveles de descarte/subreporte en toneladas para las flotas industriales y artesanal durante el período 2000-2019. \vspace{0.5cm} \normalsize
 
 El Programa de Investigación del Descarte y Captura de Pesca Incidental, entre otros objetivos, busca implementar y perfeccionar metodologías que permitan evaluar espaciotemporalmente las capturas totales, retenidas y descartadas de un número de especies incluida la merluza común (San Martín et al., 2016). Mediante tres procedimientos alternativos de estimación de la captura a bordo (cuya aplicación depende de la magnitud de la captura) este programa recopila datos de la captura (retenida y descartada) y su composición de tamaños mediante el despliegue de observadores científicos especialmente entrenados para estos efectos. 
 
@@ -539,14 +549,23 @@ Como fue informado en previos reportes, la información edad estructurada indica
 
 Respecto del ingreso de cohortes a la población, la información estructurada no posibilita un seguimiento adecuado, salvo las cohortes nacidas en los años 1980 y 1986 que posiblemente sustentaron las capturas durante la década de los años 90’. 
 
-Figura 5
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_5.png}
+\end{center}
+```
+\small \textbf{Figura 5}. Gráfico de burbujas de la proporción de las edades en la captura de la flota arrastrera (superior) período 1989-2019 y palangrera (inferior) período 1981-2019. La línea verde representa la edad media de la captura por año. \vspace{0.5cm} \normalsize
 
 •	Flota de espinel artesanal
  
 Para el espinel la información disponible contempló los períodos 1987-1988, 1995-1997 Y 1999-2019 (Figura 6). La estructura de edades abarca un rango edades más jóvenes que las flotas de arrastre y palangre y una edad media de captura en torno a los 10 años (comparado a 12-14 años de las flotas industriales). Los dos primeros años de datos (1987 y 1988) corresponden a los años con grandes capturas artesanales (20 a 30 mil t), pero luego no se dispone de datos para el período 1989-1995, donde las capturas aún eran altas, pero con tendencia a la baja. El período 1995-1999, se aprecia el desplazamiento de la estructura hacia edades mayores para luego observó una estructura relativamente estable en los años 2005-2013. Por último, desde 2014 y hasta 2017 se observa un incremento en la edad media desde los 9 hasta los 12 años, para decaer nuevamente en 2018-2019 a los 11 años promedio.
  
-
-Figura 6	Gráfico de burbujas de la proporción de las edades en la captura de la flota artesanal período 1987-2019. La línea verde representa la edad media de la captura por año.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_6.png}
+\end{center}
+```
+\small \textbf{Figura 6}. Gráfico de burbujas de la proporción de las edades en la captura de la flota artesanal período 1987-2019. La línea verde representa la edad media de la captura por año. \vspace{0.5cm} \normalsize
 
 c)	Actualización de los cruceros hidroacústicos
 
@@ -557,8 +576,12 @@ La información independiente de la pesquería utilizada en la evaluación de me
 Los cambios interanuales en la serie de biomasas acústicas sugieren una reducción desde inicios de la serie para luego mantenerse relativamente estables durante el período 2010-2015, la abundancia indica una tendencia similar para el mismo periodo (Tabla 6 y Figura 7) con aumentos considerables para los últimos dos años de prospección. La biomasa y la abundancia tienen tendencias decrecientes muy similares, excepto en los años 2008 y 2013, cuando los pesos promedios fueron menores debido a la mayor presencia de peces de menores edades.  Para los años 2014 al 2019 la biomasa de merluza del sur presentó un aumento, aunque este último año el peso medio fue menor que en años anteriores (2587 g), se estimó una biomasa de 131433 toneladas.
 Tabla 6	Estimaciones del tamaño del stock (geoestadístico) en términos de biomasa (t) y abundancia (millones), y pesos promedios estimados en los cruceros hidroacústicos durante el período 2000-2019.
 
-Figura 7	Biomasa miles de toneladas y abundancia estimada en la zona de desove mediante acústica entre el período 2000-2019.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_7.png}
+\end{center}
+```
+\small \textbf{Figura 7}. Biomasa miles de toneladas y abundancia estimada en la zona de desove mediante acústica entre el período 2000-2019. \vspace{0.5cm} \normalsize
 
 Estructura de edades del crucero
 
@@ -566,7 +589,12 @@ Con el fin de incluir solo la biomasa adulta del crucero acústico, desde la ase
 
 Para el año 2019 se registró una leve disminución de la edad media de la fracción desovante, que alcanza los 15 años. Valores que no son posibles de contrastar con el peso medio debido a la utilización de las ojivas de madurez para separar ejemplares juveniles de adultos.
 
-Figura 8	Gráfico de burbujas de la proporción de las edades de la fracción desovante prospectada por los cruceros acústicos período 2000-2019. La línea verde representa la edad media de la captura por año. 
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_8.png}
+\end{center}
+```
+\small \textbf{Figura 8}. Gráfico de burbujas de la proporción de las edades de la fracción desovante prospectada por los cruceros acústicos período 2000-2019. La línea verde representa la edad media de la captura por año. \vspace{0.5cm} \normalsize
 
 ## 4.1.2 Estandarización CPUE de tasas de captura flota industrial
 
