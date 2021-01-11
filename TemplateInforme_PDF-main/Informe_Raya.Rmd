@@ -69,6 +69,71 @@ Estimar la composición, abundancia, biomasa y actualizar el estatus de los prin
 
 # 2. ANTECEDENTES
 
+## 2.1. Antecedentes generales 
+
+La actividad pesquera en Chile se ha situado como una de las áreas que ha liderado el crecimiento de la economía nacional. Dicho proceso se ha basado tanto en los niveles de producción y exportaciones de la pesca extractiva, así como también, en el rápido desarrollo de la acuicultura. Por mandato legal, la función pública en la gestión de la actividad pesquera y de la acuicultura le corresponde a la Subsecretaria de Pesca y al Ministerio de Economía, Fomento y Turismo, instituciones responsables de fijar las políticas y establecer las medidas de regulación que tienen por objetivo conformar el marco legal y normativo para brindar las condiciones más adecuadas para el desarrollo sustentable de la actividad de la pesca y la acuicultura. Para cumplir adecuadamente ese rol resulta esencial contar con fundamentos científicos y técnicos sólidos en cuanto al conocimiento del estado de conservación de los recursos biológicos y su ambiente, así como también, del desempeño de la actividad extractiva.
+
+Con el objeto de atender la misión y sus objetivos estratégicos, desde 1992 la Subsecretaría de Pesca identifica y encarga al Instituto de Fomento Pesquero (IFOP) ejecutar los programas de seguimiento y monitoreo de las pesquerías, así como también, la evaluación de stock y análisis de capturas recomendables para los principales recursos pesqueros, principal objetivo de la presente investigación.
+
+## 2.2. Antecedentes de la pesquería 
+
+La merluza del sur es una especie demersal distribuida en aguas exteriores e interiores (canales y fiordos) entre la X y XII Región. Habita entre los 60 y 800 m de profundidad, con las mayores concentraciones entre los 200 a 400 m. Se encuentra en aguas con temperaturas entre 3,8ºC y 12ºC (Aguayo 1995), abarcando una distribución en el cono sur de América que se extiende desde los 36°00' S en el océano Pacífico suroriental, bordeando el extremo sur de América para subir hasta los 38°00' S en el lado Atlántico.
+
+El área de operación de la flota dirigida a la captura de merluza del sur se distribuye entre las latitudes 41°28,6’S a 57°S, en aguas exteriores (flotas industriales) e interiores (flota artesanal) de la X, XI y XII Regiones. El área de explotación pesquera se divide en dos unidades de pesquería, una norte (41° 28,6’S – 47°S) y otra sur (47°S – 57°S), subdivididas en áreas administrativas de aguas interiores y exterior, teniendo como límite con la zona exterior las líneas de base recta.
+
+La pesquería de merluza del sur ha operado con clara intencionalidad en la zona austral de Chile desde el año 1977 y ha sido manejada utilizando un sistema de Cuota Anual Global de Captura, restricciones al número de embarcaciones y vedas biológicas, medidas que tienen por objeto evitar o mitigar los efectos de las actividades pesqueras sobre la especie objetivo, fauna acompañante y el ecosistema. La magnitud de estas cuotas surge a partir de las recomendaciones del Instituto de Fomento Pesquero (IFOP) en base a las estimaciones de abundancia, el potencial productivo de la población y los niveles de explotación.
+
+Para la evaluación de stock se considera que existe una sola unidad de stock (Chong y Galleguillos, 1993). Las investigaciones disponibles señalan que pueden existir diferencias interanuales de algunas semanas en la fecha de máxima actividad reproductiva, sin embargo, el desove en merluza del sur alcanza su máxima actividad a fines de invierno. El área principal de desove se encuentra ubicada entre la isla Guafo (43º37’S) y la Península de Taitao (47ºS).
+
+La relación de cuotas de captura y desembarques declarados en los años más recientes es la siguiente:  
+
+## 2.3. Revisión de aspectos biológicos 
+
+El modelo conceptual poblacional de merluza del sur asume que en aguas chilenas existe un único stock autosustentable distribuido en toda la zona económica exclusiva. Este supuesto aún es la base de todos los escenarios de evaluación presentados en la asesoría del año 2014 (Payá, 2015) y ha sido respaldado por el Comité Científico (Quiroz y Wiff, 2012) como también en las reuniones bilaterales IFOP-SUBPESCA relacionada con la estructura espacial de la población de merluza del sur (Quiroz et al., 2013). 
+
+Antecedentes indican que se identifica una zona única de desove de gran extensión, además existe información científica que respalda la existencia de zonas de crianza en aguas interiores de la zona austral, con mayor preponderancia en los canales y fiordos de la X y XII Regiones. La distribución de larvas entre aguas interiores y exteriores, muestra una mayor presencia de larvas de pequeños tamaños en los fiordos y canales de la zona sur austral, sin detectar mayores diferencias entre la macrozona norte y macrozona sur .
+
+Se ha descrito un claro patrón migratorio entre aguas interiores y exteriores, con desplazamientos de la fracción adulta entre macrozonas. Este patrón de migración estaría confinado principalmente a las aguas chilenas, con un reducido intercambio de individuos entre éstas y la plataforma atlántica en el extremo austral de Chile (57°S). Si bien, no existen antecedentes científicos que posibiliten cuantificar la magnitud de este intercambio, la dinámica de la pesquería deja ver poco interés de captura en esta zona del país (rendimientos de pesca reducidos), sugiriendo que la magnitud de este proceso migratorio debe ser de una escala muy reducida en comparación con las rutas migratorias con fines reproductivos.
+
+## 2.3.1 Estrcutura poblacional
+
+Es posible indicar que el primer estudio sobre unidades poblacionales en merluza del sur fue realizado por el IFOP en el año 1993, a través de 3 técnicas: marcadores genéticos, análisis de la carga parasitaria y estudios morfométricos. Para el caso de los marcadores genéticos se analizaron un total 670 ejemplares, 400 correspondientes a aguas exteriores y 270 a aguas interiores. Este análisis, realizado a través de electroforesis de proteínas, mostró que no existen diferencias significativas en las muestras que provienen de aguas exteriores e interiores de la PDA (Chong y Galleguillos, 1993). Esto es concordante con los resultados encontrados a través de la composición y magnitud de la fauna parasitaria y de la morfometría de merluza del sur, que de la misma forma indica una alta similitud cualitativa entre las zonas de pesca. Por otra parte, Chong (1993) utilizó el análisis morfométrico de estructuras duras (otolitos sagitales), debido a que permite la discriminación fenotípica entre individuos de diferentes unidades poblacionales. A través de análisis multivariado de los otolitos, Chong (1993) concluyo que, si bien las variables morfológicas soportan la existencia de grupos locales, las variables discriminantes muestran una importante sobreposición, sugiriendo que los grupos analizados presentan un alto grado de mezcla, lo que impide considerarlos como unidades discretas. 
+
+En el marco de un estudio FONDEMA “Diagnóstico merluza del sur y congrio dorado, aguas Interiores, XII Región”, se desarrollaron estudios del tipo genético, parasitológico, morfométrico y merístico, a objeto de determinar la existencia de unidades de stock y poblaciones residentes de merluza del sur en la XII Región (Daza et al., 2005). Para verificar la existencia de un stock puro o genético en este estudio se utilizaron como marcadores moleculares segmentos de ADN mitocondrial (D-Loop, NADH, Cyt B) y nuclear (Calmodulina e ITS). Los resultados obtenidos indicaron valores muy bajos de diferenciación genética poblacional, no permitiendo diferenciar más de un stock de merluza del sur. Desde la determinación de stocks ecológicos (poblaciones residentes) por medio de análisis parasitológicos, morfométricos y merísticos, no se obtuvieron diferencias significativas en la abundancia de parásitos según el sexo del pez y según la estación temporal. 
+
+## 2.3.2 Mortalidad natural, crecimiento y madurez
+
+Para el modelo de evaluación de sexos combinados, la mortalidad natural se supone igual a 0.21 y constante a través de los años y las edades. El modelo implícitamente incorpora el crecimiento en las matrices de captura a la edad, que como ha sido característico en esta pesquería, no muestra las fuerzas de las clases anuales o las consecuencias de explotación severa como la ocurrida entre los años 1986 y 1992, salvo para los años 2006-2008 donde se observan importantes proporciones de individuos juveniles de edades entre 4 y 7 años. Los parámetros biológicos indicados en la Tabla 1 son supuestos constantes en el modelo. 
+
+Tabla 1	Parámetros biológicos a utilizar en el modelo de evaluación. Se muestra la madurez, mortalidad natural y los pesos a la edad teórico (dependientes del crecimiento basado en longitud) y empírico (observados desde la pesquería). Ver sección Pesos Medios para detalles sobre la utilización de los pesos medios en el modelo de evaluación.
+
+## 2.3.3 Época y zona de desove
+
+Los primeros antecedentes de los aspectos reproductivos de merluza del sur corresponden a observaciones macroscópicas realizadas durante los años 1977 y 1978 en cruceros de investigación. En estos estudios se señaló que esta especie desovaría de acuerdo a un esquema similar al de merluza común, es decir, a fines de primavera y probablemente parte del verano. En estos cruceros se observaron ejemplares con signos de madurez a partir de los 70 cm en las hembras y los 59 cm en machos (Avilés y Aguayo, 1979). 
+
+Aguayo et al., (1986, 1987) basado en el análisis del IGS señaló que la actividad gonádica entre febrero y mayo es leve, para aumentar en junio-julio y declinar en agosto, lo que indicaría el inicio del desove masivo. El análisis de los estados de madurez de los ovarios es coincidente con el comportamiento del IGS. En efecto, Chong (1991) señaló que la merluza del sur presenta un ciclo de madurez gonádica que se inicia en febrero y abril con el desarrollo de ovocitos previtelogénicos y vitelogénicos. Estos últimos son más frecuentes entre mayo y junio, culminando la madurez y gatillando desoves masivos durante los meses julio, agosto y septiembre. Aquellos resultados fueron coincidentes con los reportados por Balbontín y Bravo (1993) y también con estudios realizados por Aguayo et al., (2001). Las investigaciones disponibles señalan que pueden existir diferencias interanuales de algunas semanas en la fecha de máxima actividad reproductiva, sin embargo, el desove en merluza del sur alcanza su máxima actividad a fines de invierno. 
+
+En cuanto a la zona de desove, Aguayo et al., (2001) señaló que el área principal de desove en merluza del sur se encuentra ubicada entre la isla Guafo (43º37’S) y la Península de Taitao (47ºS), foco en el cual se registran los mayores valores de IGS para el período 1985-1998. Se registra un núcleo secundario de desove, el cual presenta valores intermedios de IGS, ubicado entre la Bahía San Pedro (41ºS) y la isla Guafo (43º37’S). 
+
+## 2.3.4 Migraciones
+
+Hasta el momento, no existen estudios específicos sobre el comportamiento migratorio de la merluza del sur. Sin embargo, se conocen antecedentes que se derivan básicamente de la actividad de la flota que opera sobre este recurso. En este contexto, Aguayo (1995) identificó dos tipos de migración: 
+
+•	Migraciones latitudinales, donde se señala que desde julio hasta octubre de cada año existe una migración gatillada por el desove, donde los individuos se desplazan desde los centros de abundancia y crianza hacia la isla Guamblín (44º85 ‘S). Desde octubre en adelante esta especie migra hacia el norte, posiblemente en busca de alimento. 
+
+•	Migraciones longitudinales, donde se observa que a fines de primavera y comienzos del verano existe una importante migración desde aguas exteriores hacia aguas interiores. En otoño comienza a desplazarse hacia aguas exteriores, donde los adultos comenzarían su migración para el desove que se produce a fines de invierno y principios de primavera.
+
+Las causas de estas migraciones no se conocen a cabalidad, pero probablemente sea de carácter trófico, asociado a una abundancia estacional de la sardina de los canales y merluza de cola, como ítems alimenticios principales.
+
+## 2.3.5 Zona de concentración de larvas y juveniles
+
+Los primeros antecedentes disponibles sobre la distribución de huevos y larvas de merluza del sur, provienen de un crucero de evaluación del stock desovante realizado el año 1995 en la zona sur-austral (Lillo et al., 1996). Este estudio abarcó la zona comprendida entre el norte de la isla Guafo (43º20’S) hasta cabo Raper (46º20’S). De todas las estaciones se constató solo un foco significativo de abundancia de larvas situado al noreste de la isla Guafo. Se señala que el aporte de huevos de merluza fue escaso con una densidad no mayor a 8 huevos/10 m2 y mostraron una distribución latitudinal reducida, con presencia entre las cercanías de Cabo Raper y la isla Garrido (45º12’S).
+
+Por otro lado, Rubilar et al. (2000), señalaron que la proporción de ejemplares juveniles en las capturas de merluza del sur en las regiones X, XI y XII, presenta una clara variación estacional, con aumentos importantes hacia invierno y primavera. Esta tendencia se refleja en otros indicadores como la talla y edad promedio en las capturas. En aguas interiores de la X Región, la mayor presencia de juveniles se registra en el seno de Reloncaví, destacando la zona de Contao donde la presencia de juveniles es permanente durante todo el año. En la XI Región, se observó una dinámica similar, existiendo áreas donde la proporción de juveniles es permanente durante todo el año como sucede en el sector comprendido entre la isla Casma a canal Costa. En cuanto a la XII Región se detecta un aumento de la proporción de juveniles en las capturas hacia otoño e invierno, pero la proporción es claramente inferior a lo encontrado en la X y XI Regiones. Resultados similares para las zonas y épocas de concentración de juveniles fueron reportadas por Aguayo (1995).
+
+Rubilar et al. (2000) además señalaron que el aumento de los ejemplares juveniles de merluza del sur en la captura registrada en las estaciones en invierno y primavera, sería producto de comportamientos migratorios de la especie entre aguas exteriores e interiores. En este sentido, estos autores han planteado la hipótesis referente a que en este período parte de la fracción adulta de aguas interiores migra hacia aguas exteriores. Así la población de merluza del sur que permanece en aguas interiores se caracteriza por una fuerte presencia de juveniles. Esta hipótesis se encuentra apoyada por las consideraciones realizadas por Aguayo (1995), por medio de observaciones obtenidas desde los programas de monitoreo de la pesquería.
+
+
 **Ejemplo Nº1: cómo insertar una figura de la carpeta Figuras"**
 
 ```{=tex}
@@ -98,18 +163,13 @@ legend(2011,60000,c("Datos oficiales","CBA"),lwd=c(10,2),col=c("cadetblue4",1),b
 
 ## 3.1. Objetivo específico 1:
 
-\vspace{-0.2cm}
-
 *"Implementar procedimientos de evaluación de stock basados en protocolos científicos para la determinación del estatus de merluza del sur, con arreglo al nivel de conocimiento, información e incertidumbre correspondiente, conforme a los estándares actuales en ciencia pesquera."*
 
 La determinación del estatus de merluza del sur (Merluccius australis) se basa en la implementación de procedimientos de evaluación de stock coherentes con del método científico, en el sentido de la implementación de análisis basados en la mejor información y conocimiento disponible, y que considera en una amplia dimensión la aplicación del enfoque precautorio para la pesca establecido por la FAO el año 1996. En este marco, este objetivo se centra en: i) la descripción de la información pesquera-biológica y su utilización en el procedimiento de evaluación de stock, ii) la formulación matemática del modelo de evaluación de stock, y iii) los métodos estadísticos para evaluar características como bondad de ajuste, consistencia y pertinencia del procedimiento de evaluación de stock.
 
 ## 3.1.1 Información biológico-pesquera
 
-\vspace{-0.2cm}
-
 Esta sección se enfoca en la actualización y consolidación de los antecedentes/datos pesqueros y biológicos disponibles para las unidades de pesquería de merluza del sur situadas al sur del paralelo 41°28,6 S. Además, se recaba y compila todos los datos referidos a parámetros de historia de vida (e.g. madurez) que permiten sustentar el modelo conceptual que subyace bajo el modelo de evaluación de stock. La escala y nivel de agregación espacial y temporal empleada en este estudio, es definida en coherencia con la información disponible, las recomendaciones de expertos y los lineamientos definidos por los Comités Científico Técnicos y la Subsecretaría de Pesca y Acuicultura. Paralelamente, en esta sección además se describen y actualizan las estimaciones de biomasa acústica realizadas por las prospecciones independientes de la pesquería, efectuadas en la zona sur-austral de Chile.
-
 
 i.	Información Pesquera
 El proceso de evaluación de stock implementado incorpora explícitamente tres fuentes de información pesquera: 
@@ -135,9 +195,7 @@ La información independiente de la pesquería utilizada en la evaluación de me
 
 ## 3.1.2 Estandarización CPUE de tazas de captura flota industrial 
 
-\vspace{-0.2cm}
-
-	 Intencionalidad de pesca
+Intencionalidad de pesca
 
 La pesquería industrial de merluza del sur ha operado en la zona austral de Chile (41`20’S-57`00’S) desde el año 1978. Los reportes de pesca han dejado ver desde inicios de los 80’s una alta concurrencia de especies en las capturas, las que en algunos años han superado las 100 especies durante la temporada de pesca. Si bien, no más de 5 especies y grupos taxonómicos (merluza del sur, merluza de cola, congrio dorado, bacalao y condrictios) representan en promedio el 85% del total de desembarques anual, el restante 15% concurren en diferentes proporciones dependiendo del tipo de flota y la estacionalidad de las capturas. En efecto, las proporciones de especies capturadas durante un lance o viaje de pesca difieren entre tipo de flota; por ejemplo, las capturas de la flota arrastrera recurrentemente muestran un alto número de especies como fauna acompañante, aunque la importancia relativa de estas especies tiende a ser baja, en contraste, la flota palangrera tiende a capturar un menor número de especies, pero con un número importante de registros de pesca donde la concurrencia de especies no objetivo es alta. 
 
@@ -147,37 +205,31 @@ El procedimiento de estandarización incorpora la táctica de pesca como un pred
 
 Las etapas realizadas en este proceso son:
 
-	Construcción de matrices con composición de captura para cada lance en el caso del espinel. Para el arrastre se construyeron matrices con composición de captura para cada embarcación en un mes determinado en una subzona determinada. Cada subzona corresponde a medio grado de latitud. Para cada subzona se acumularon las composiciones de captura para un barco en un mes determinado. 
+Construcción de matrices con composición de captura para cada lance en el caso del espinel. Para el arrastre se construyeron matrices con composición de captura para cada embarcación en un mes determinado en una subzona determinada. Cada subzona corresponde a medio grado de latitud. Para cada subzona se acumularon las composiciones de captura para un barco en un mes determinado. 
 
-	Análisis de componentes principales (ACP) de la composición de captura, cuyo objetivo es reducir el total de especies (columnas) en las componentes ortogonales que representen en su totalidad más del 85% de la varianza. 
+Análisis de componentes principales (ACP) de la composición de captura, cuyo objetivo es reducir el total de especies (columnas) en las componentes ortogonales que representen en su totalidad más del 85% de la varianza. 
 
-	Análisis de Cluster no-jerárquico de los vectores propios derivados del ACP que cumplían la condición anterior. Este análisis se realizó a través del método de K-means y como medida de similitud se usó la distancia euclidiana. Esto permite reducir el número total de registros (lances de pesca) a 2500 centroides. El uso del cluster no-jerárquico se debe a que el análisis de dendrograma (cluster jerárquico) es muy extensivo desde un punto de vista computacional.
+Análisis de Cluster no-jerárquico de los vectores propios derivados del ACP que cumplían la condición anterior. Este análisis se realizó a través del método de K-means y como medida de similitud se usó la distancia euclidiana. Esto permite reducir el número total de registros (lances de pesca) a 2500 centroides. El uso del cluster no-jerárquico se debe a que el análisis de dendrograma (cluster jerárquico) es muy extensivo desde un punto de vista computacional.
 
-	Análisis de Cluster jerárquico para construir los dendrogramas de similitud de los centroides derivados del punto anterior. Se utilizó la distancia euclidiana y el método de Ward como medida de agrupación entre las observaciones.
+Análisis de Cluster jerárquico para construir los dendrogramas de similitud de los centroides derivados del punto anterior. Se utilizó la distancia euclidiana y el método de Ward como medida de agrupación entre las observaciones.
 
-	Construcción de los dendrogramas y recuperación de los datos originales (lances de pesca) para asignarlos a un cluster (táctica de pesca) determinado.
+Construcción de los dendrogramas y recuperación de los datos originales (lances de pesca) para asignarlos a un cluster (táctica de pesca) determinado.
 
-	Estandarización de la CPUE utilizando la táctica de pesca (cluster) como variables categóricas en un modelo lineal generalizado.
+Estandarización de la CPUE utilizando la táctica de pesca (cluster) como variables categóricas en un modelo lineal generalizado.
 
 En el caso de la implementación del modelo lineal generalizado, el primer paso consiste en aplicar un Modelo Aditivo Generalizado (MAG) usando como variable respuesta a la captura por unidad de esfuerzo y cuyas variables categóricas pueden ser año, mes y barco, mientras que la profundidad, latitud y longitud pueden ser asumidas como variables continuas. Esto permite obtener una aproximación a los coeficientes para posteriormente incorporar los niveles Cluster (intencionalidad de pesca) en un predictor de un modelo lineal para la CPUE.
 
-	Proceso de estandarización
+Proceso de estandarización
 
 La captura por unidad de esfuerzo (CPUE) es ampliamente usada como índice de abundancia relativa en muchas pesquerías del mundo. Las variaciones de este índice, se asocian principalmente a las características y composición de la flota, así como a factores de tipo ambiental. Aquí se presenta la estandarización de las tasas de captura en la pesquería de merluza del sur, usando la información proveniente de las bitácoras de pesca entre los años 1979 y 2019 para el arrastre, 1987 a 2019 para palangre. Se utilizaron modelos lineales generalizados (MLG), técnica que ha sido el método más utilizado en la estandarización de CPUE (Punt et al., 2000). Este método permite realizar interacciones entre las variables explicatorias en la CPUE, así como explorar distintas distribuciones de error mediante la utilización de la verosimilitud en el ajuste del modelo (McCullagh y Nelder, 1989). Bajo este enfoque, el modelo general para la determinación de la CPUE es:
 
-
-
-donde, β_0 es el intercepto, β_k son los coeficientes que dan cuenta de la variación en la CPUE con respecto al predictor x_k y ε es un error normal con media 0 y varianza constante σ^2. Los factores analizados para el caso de la pesquería de arrastre y espinel fueron: años, meses, barco (aleatorio), zona (unidad de pesquería) y cluster. El efecto cluster corresponde a la táctica de pesca y se representa en las bitácoras de pesca por medio de una “etiqueta” que lleva cada lance de acuerdo al cluster donde se ha agrupado la operación de pesca.
+donde,  es el intercepto,  son los coeficientes que dan cuenta de la variación en la CPUE con respecto al predictor  y  es un error normal con media 0 y varianza constante . Los factores analizados para el caso de la pesquería de arrastre y espinel fueron: años, meses, barco (aleatorio), zona (unidad de pesquería) y cluster. El efecto cluster corresponde a la táctica de pesca y se representa en las bitácoras de pesca por medio de una “etiqueta” que lleva cada lance de acuerdo al cluster donde se ha agrupado la operación de pesca.
 
 La CPUE anual es función de tres variables estimadas a través de MLG:
 
-
-
-donde, θ_i es el coeficiente estimado para el año i, μ es el intercepto del modelo (media global o referencial) y σ^2 representa el parámetro de dispersión de la distribución asumida para el error. 
+donde,  es el coeficiente estimado para el año i,  es el intercepto del modelo (media global o referencial) y  representa el parámetro de dispersión de la distribución asumida para el error. 
 
 ## 3.1.3 Modelo de evaluación de stock 
-
-\vspace{-0.2cm}
 
 La evaluación de stock en Chile ha sido desarrollada y perfeccionada por IFOP durante los últimos 15 años y cuya metodología se encuentra en general acorde con los estándares internacionales vigentes. Como una vía para mantener este estándar, también se han incorporado las recomendaciones emanadas tanto desde los Comités Científico Técnicos como de los lineamientos entregados por el equipo de expertos internacionales en el marco del proyecto “Revisión de los puntos biológicos de referencia (Rendimiento Máximo Sostenido) en las pesquerías nacionales” (Payá et al., 2014).
 
@@ -185,25 +237,26 @@ El modelo poblacional de merluza del sur asume que en aguas chilenas existe un �
 
 Durante la implementación del modelo poblacional de merluza del sur, se consideran elementos de incertidumbre estructural basados en el nivel de conocimiento y de la información o datos disponible, así como la incertidumbre de estimación generada de su aplicación al conjunto de datos disponibles. En este sentido, el modelo de evaluación de stock de merluza del sur se basa en el análisis estadístico de la dinámica de estructuras de edad anual y pesos medios a la edad, por medio de los siguientes componentes:
 
-	Condiciones Iniciales
+Condiciones Iniciales
+	
 Se asume que la población de merluza del sur al comienzo del año 1977 se encontraba en una condición de equilibrio libre de pesca. Bajo este supuesto, el reclutamiento del año 1977 corresponde a un reclutamiento virginal (Ro) consistente con una biomasa desovante virginal (So), mientras que en posteriores años (>1977) es dependiente de una relación stock-recluta Beverton-Holt (función de la BD, Bo, Ro y h) perturbada por desviaciones obtenidas desde una distribución de probabilidad normal. Si bien, este supuesto simplifica la estructura del modelo, es un escenario altamente probable para la población de merluza del sur. De esta forma, el número de ejemplares de edad a, al comienzo del año 1977 es definida como,
-
 
 La biomasa desovante virginal (en número) es obtenida como,
 
 
-donde  y w_a corresponden a la proporción de hembras maduras y pesos medios a la edad a, respectivamente.
+donde  y  corresponden a la proporción de hembras maduras y pesos medios a la edad a, respectivamente.
 
-	Reclutamiento
+
+Reclutamiento
+	
 Con objeto de estimar los reclutamientos (especificados a la edad 1), se utilizó el modelo stock-recluta de Beverton-Holt con una estructura de error lognormal, que incorpora un término de varianza que soslaya el sesgo durante la trasformación a escala real,
 
-donde S_t es la biomasa desovante en el año t, ϵ_t es la desviación del reclutamiento en el año t, y σ_R^2 es la desviación estándar de las desviaciones del reclutamiento en escala logarítmica. La relación entre los niveles virginales de reclutamiento y abundancia desovante, y los parámetros a y b del modelo Beverton-Holt es dada por,
-a=S_0  (1-h)/(4hR_0 ),             b=(5h-1)/(4hR_0 ),
+donde  es la biomasa desovante en el año t, es la desviación del reclutamiento en el año t, y  es la desviación estándar de las desviaciones del reclutamiento en escala logarítmica. La relación entre los niveles virginales de reclutamiento y abundancia desovante, y los parámetros a y b del modelo Beverton-Holt es dada por,
 
-donde h es un parámetro que define la fuerza de la densodependencia, S_0 es la biomasa desovante virginal, y R_0 es el reclutamiento promedio producido cuando la poblacional se encontraba en equilibrio libre de pesca (reclutamiento virginal). El término h, definido como el parámetro de escarpamiento, representa el nivel de reclutamiento relativo al reclutamiento virginal, que ocurre cuando la biomasa desovante ha sido reducida a un 20% de su nivel virginal. Al igual que en la última evaluación se supuso h igual a 0,5. Como base estructural se continúa utilizando la biomasa desovante como predictor de los reclutamientos, que y es calculada en septiembre de cada año por la siguiente expresión:
+donde h es un parámetro que define la fuerza de la densodependencia, es la biomasa desovante virginal, y  es el reclutamiento promedio producido cuando la poblacional se encontraba en equilibrio libre de pesca (reclutamiento virginal). El término h, definido como el parámetro de escarpamiento, representa el nivel de reclutamiento relativo al reclutamiento virginal, que ocurre cuando la biomasa desovante ha sido reducida a un 20% de su nivel virginal. Al igual que en la última evaluación se supuso h igual a 0,5. Como base estructural se continúa utilizando la biomasa desovante como predictor de los reclutamientos, que y es calculada en septiembre de cada año por la siguiente expresión:
 
+Evolución temporal de cohortes
 
-	Evolución temporal de cohortes
 La abundancia de merluza del sur a la edad a al tiempo t, es modelada por
 
 
@@ -213,15 +266,18 @@ tal que,
 
 donde M es la tasa instantánea de mortalidad natural para la edad a al tiempo t, m es el grupo plus y Z_(a,t) es la mortalidad total edad-específica. En este sentido, se plantea que la dinámica poblacional de la abundancia N_(a,t) a la edad a al tiempo t, puede ser representada por un modelo de sobrevivencia donde las mortalidades por pesca anuales, F_t^g, para cada flota de pesca g, son aplicadas en forma continua durante la estación de pesca para cada edad a de acuerdo a una ojiva de selectividad S_a^g.
 
-	Selectividades
-La curva de selectividad implementada en el modelo para las flotas arrastre, espinelera y palangrera, como también en los cruceros, corresponde a una función doble-normal definida para todo el rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad (k) y las varianzas del lado derecho (υ^r ) e izquierdo (υ^l ) de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como,
+Selectividades
 
-La curva de selectividad es asintótica cuando la varianza derecha (υ^r ) tiene a valores altos y conforma una curva tipo domo cuando adopta valores bajos. Se considera constante entre años tanto a nivel de parámetros de posición (edad al 50% de explotación) como de dispersión (pendiente de la curvatura). Las justificaciones para este supuesto se basan en la poca variabilidad que presentan las composiciones de edades de las capturas y en menor grado en los cruceros, como también a que en esta pesquería no se conocen procesos de escape significativos de individuos longevos fuera de la zona donde opera la pesquería en el caso de curvas de selectividad asintóticas.
+La curva de selectividad implementada en el modelo para las flotas arrastre, espinelera y palangrera, como también en los cruceros, corresponde a una función doble-normal definida para todo el rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad (k) y las varianzas del lado derecho e izquierdo de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como,
 
-	Valores Predichos
-Los índices anuales de abundancia relativa (I_t^g ) para cada flota g, incluyendo las estimaciones de los cruceros hidroacústicos, se asumen proporcional a la biomasa vulnerable estimada a mitad del año, según, 
+La curva de selectividad es asintótica cuando la varianza derecha tiene a valores altos y conforma una curva tipo domo cuando adopta valores bajos. Se considera constante entre años tanto a nivel de parámetros de posición (edad al 50% de explotación) como de dispersión (pendiente de la curvatura). Las justificaciones para este supuesto se basan en la poca variabilidad que presentan las composiciones de edades de las capturas y en menor grado en los cruceros, como también a que en esta pesquería no se conocen procesos de escape significativos de individuos longevos fuera de la zona donde opera la pesquería en el caso de curvas de selectividad asintóticas.
+
+Valores Predichos
+
+Los índices anuales de abundancia relativa para cada flota g, incluyendo las estimaciones de los cruceros hidroacústicos, se asumen proporcional a la biomasa vulnerable estimada a mitad del año, según, 
 
 donde q_g corresponde al coeficiente de capturabilidad de cada uno de los artes o aparejos de pesca. 
+
 En el caso de los cruceros acústicos, se asume que las estimaciones representan una fracción de la biomasa desovante disponible, lo que en otras palabras se traduce en que el índice de proporcionalidad o capturabilidad es estimado en el modelo sujeto a una distribución a priori, establecida siguiendo una distribución lognormal con media 0 y error estándar 0,4. Lo anterior se justifica dado que el proceso de agregación de la merluza del sur posiblemente es más extendido que el tiempo prospectado, de manera que el crucero admite un coeficiente de variación de 40% en términos de la precisión de estimación.
 
 La proporción de edad observada de las flotas de pesca y los cruceros (p 
@@ -233,23 +289,21 @@ Las capturas totales incorporadas en el modelo, corresponden a los niveles de de
 	Bondad de ajuste y consistencia del modelo de evaluación de stock
 Con el fin de asegurar la aplicación del mejor modelo de evaluación, así como su pertinencia, consistencia e incertidumbre resultante, se consideró los siguientes procedimientos:
 
-	Se prueba la consistencia de la evaluación mediante análisis retrospectivos, sobre la base del mismo conjunto de datos empleados.
+Se prueba la consistencia de la evaluación mediante análisis retrospectivos, sobre la base del mismo conjunto de datos empleados.
 
-	Se presenta gráficamente el ajuste del modelo a los datos y la bondad de ajuste de los diferentes modelos empleados, cuando corresponda. Lo anterior se acompañará con análisis de residuales de las principales fuentes de datos.
+Se presenta gráficamente el ajuste del modelo a los datos y la bondad de ajuste de los diferentes modelos empleados, cuando corresponda. Lo anterior se acompañará con análisis de residuales de las principales fuentes de datos.
 
-	Se incluye la comparación de resultados con versiones anteriores u otros modelos para evaluar la consistencia de la evaluación presente (análisis retrospectivo empírico). 
+Se incluye la comparación de resultados con versiones anteriores u otros modelos para evaluar la consistencia de la evaluación presente (análisis retrospectivo empírico). 
 
 Sobre la base de estos análisis, se identifica las oportunidades de mejoras en la implementación del procedimiento de evaluación, los vacíos de conocimiento y de información, entre otros.
 
-## 3.1.4 Análisis retrospectivo 
 
-\vspace{-0.2cm}
+## 3.1.4 Análisis retrospectivo 
 
 Mohn (1999), describe el análisis retrospectivo como una incoherencia sistemática entre una serie de estimaciones del tamaño de la población o las variables involucradas en la evaluación, relacionado con series de información cada vez mayores. Los patrones retrospectivos pueden ser causados por una serie de factores, pero todos requieren un cambio en el valor del parámetro o valor del modelo asumido en el tiempo. Las tres principales causas que provocarían los patrones retrospectivos son: los cambios en el nivel de las capturas en la evaluación, los cambios en la tasa de mortalidad natural (M), o cambios en la capturabilidad (q) (Legault, 2009).
 
 El estadístico rho de Mohn (1999) se ha utilizado comúnmente para medir el patrón retrospectivo y se define como la suma de la diferencia relativa entre una cantidad estimada a partir de una evaluación con una serie de tiempo reducida y la misma cantidad estimada a partir de la serie de tiempo completa. 
 
- 
  
 Donde X denota alguna variable de la evaluación de stock como F o SSB, y denota el año, npeels expresa el número de años que se eliminan de forma sucesiva y la repetición de la evaluación, Y es el último año en la serie de tiempo completo, tip muestra la estimación terminal de una evaluación con una serie de tiempo reducida, y ref indica la evaluación utilizando la serie de tiempo completa.
 
@@ -303,15 +357,10 @@ Para desarrollar este análisis, se utilizó la eliminación sistemática de dat
 
 ## 3.2. Objetivo específico 2:
 
-\vspace{-0.2cm}
-
 *"Determinar las variables poblacionales de los recursos pesqueros en estudio conforme al marco legal vigente y estimar el valor de los Puntos Biológicos de Referencia, determinados por los Comités Científico y Técnicos (CCT) respectivos, bajo condiciones de incertidumbre estructural y de estimación empleando el mejor conocimiento e información disponible a la fecha de ejecución del estudio."*
 
 
 ## 3.2.1 Definición de estatus
-
-\vspace{-0.2cm}
-
 
 El estado de explotación de la merluza del sur se establece en base a la posición relativa de la biomasa desovante y mortalidad por pesca con respecto a los Puntos Biológicos de Referencia (PBR) basados en el Rendimiento Máximo Sostenido (RMS). Por lo tanto, Las variables de estado como la biomasa desovante (o adulta), reclutamientos y mortalidad por pesca, son parte del conjunto de resultados que en primera instancia emana desde el proceso de evaluación de stock. En este mismo proceso son estimados los niveles de incertidumbre para las variables de estado relevantes que definen el estado de explotación de merluza del sur.
 
@@ -325,10 +374,7 @@ En el contexto de la Ley General de Pesca y Acuicultura (LGPA) se establece que 
 La estimación de estos PBRs se basa en el Marco Biológico de Referencia establecido por el CCT-RDZSA y la determinación de Puntos Biológicos de Referencia (PBR).
 
 
-## 3.2.2 Puntos biológicos de referencia
-
-\vspace{-0.2cm}
-
+## 3.2.2 Puntos Biológicos de Referencia
 
 Durante el año 2014, el Instituto de Fomento Pesquero implementó un Sistema de Niveles (conocido en la literatura pesquera como Tiers System), donde cada stock explotado no solamente fue clasificado de acuerdo a la calidad y cantidad de información disponible para propósitos de la evaluación de stock, sino también, en base a los métodos de evaluación más plausibles que podrían ser implementados con los datos disponibles (Figura 1). 
 
@@ -343,10 +389,15 @@ es decir, la mortalidad por pesca que reduce al 45% la biomasa desovante por rec
 
 es decir, la biomasa desovante virginal reducida a un 40%. Donde RMS y F_RMS  representan los PBR objetivos, los cuales son consistentes con el requerimiento de manejar los stocks comerciales en base al RMS; mientras que (F=0) representa la biomasa desovante por recluta en ausencia de explotación (F=0) para un nivel de reclutamiento medio o virginal Ro. Complementariamente, se estableció como PBR límite para la biomasa desovante, el 50% de RMS, que es equivalente a _(20%Bo).
 
-Figura 1.	Sistema de niveles para la determinación de los PBRs de acuerdo a la cantidad, tipo y la calidad de la información disponible y, métodos de evaluación de stock empleados en cada pesquería.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_1.png}
+\end{center}
+```
+\small \textbf{Figura 1}. Sistema de niveles para la determinación de los PBRs de acuerdo a la cantidad, tipo y la calidad de la información disponible y, métodos de evaluación de stock empleados en cada pesquería. \vspace{0.5cm} \normalsize
 
+Estimación de FRMS
 
-	Estimación de FRMS
 Frente a la incertidumbre en la relación stock-recluta en merluza del sur, la determinación de FRMS está basado en el análisis de biomasa desovante por recluta que describen el cambio de la biomasa de una cohorte o clase anual por efectos de la mortalidad natural y la pesca. La biomasa adulta o desovante por recluta (bdpr) es obtenida como función de la mortalidad por pesca (F), y en esta curva es factible identificar el nivel de referencia biológico F_(45%bdpr) que se supone debería minimizar el impacto de la pesca sobre el stock, permitiendo el escape en torno al 45% respecto del valor que existiría en ausencia de explotación pesquera.
 La estimación de esta curva y su valor de referencia (45%bdpr) se obtiene por medio de la dinámica de la abundancia en equilibrio definida como,
 
@@ -357,7 +408,8 @@ Basada en esta abundancia, la biomasa desovante por recluta se define como,
 donde dt es la fracción del año donde ocurre el desove (agosto), ma es la fracción de peces maduros a la edad y   es el peso medio a la edad. Con el objeto de resolver el parámetro F_RMS=F_(45%bdpr)  se utilizó la siguiente función objetivo
 
 
-	Diagrama de fases de explotación
+Diagrama de fases de explotación
+
 El estado del recurso se estableció en base a la posición relativa de la mortalidad por pesca y biomasa desovante versus los puntos biológicos de referencia basado en el rendimiento máximo sostenible (RMS), tales como, FRMS y BDRMS. De este modo se obtienen los indicadores del estatus (F/FRMS y BD/BDRMS) que permiten construir un diagrama de fase, donde los puntos de referencia biológicos se muestran en las líneas verticales y horizontales en x=1 e y=1. Las líneas verticales indican la biomasa desovante en el rendimiento máximo sostenible (BDRMS), bajo el cual el recurso califica en sobreexplotación y biomasa desovante límite (BDLIM) bajo el cual una pesquería califica de agotada y/o colapsada y la línea horizontal el punto de referencia correspondiente a la mortalidad por pesca en el rendimiento máximo sostenible (FRMS), sobre la cual el recurso califica en sobreexplotación. La Figura 2 muestra el diagrama de fase definido por el CCT-RDZSA para la pesquería de merluza del sur. 
 
 El estado de la pesquería en Plena Explotación se define en la Ley de Pesca como "un nivel en el que el punto biológico ha alcanzado o está a su máximo rendimiento sostenido". Debido a la variabilidad natural en las condiciones ecológicas y ambientales, FRMS no es estática, pero fluctuará alrededor de BDRMS. Para reconocer esta variabilidad, una definición operativa para la región de Plena Explotación se define que se extiende a ambos lados de los puntos de referencia de RMS. A continuación, se describen los umbrales para la definición de estatus en merluza del sur:
@@ -366,11 +418,15 @@ Sobrepesca: Este Comité consideró necesario diferenciar al interior de la zona
 
 Sobreexplotado: En correspondencia con la definición anterior, la sobreexplotación ocurriría cuando la biomasa (variable de estado) cae bajo un valor umbral o límite, correspondiendo éste al valor inferior en biomasa (valor relativo al objetivo) de la zona de plena explotación.
 
-Figura 2	Diagrama de fase definido Comité Científico Técnico de Recursos Demersales Zona Sur Austral (CCT-RDZSA) para la pesquería de merluza del sur.
+```{=tex}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Figuras/Figura_2.png}
+\end{center}
+```
+\small \textbf{Figura 2}. Diagrama de fase definido Comité Científico Técnico de Recursos Demersales Zona Sur Austral (CCT-RDZSA) para la pesquería de merluza del sur. \vspace{0.5cm} \normalsize
+
 
 ## 3.3. Objetivo específico 3:
-
-\vspace{-0.2cm}
 
 *"Analizar las distintas alternativas de Captura Biológicamente Aceptable para estos stocks acorde con las estrategias de explotación y reglas de control previamente definidas y considerando los posibles estados de la naturaleza, con sus respectivos análisis de riesgo, incluyendo análisis en horizontes de mediano y largo plazo, según requerimiento."*
 
@@ -394,8 +450,6 @@ Cabe mencionar que estas tareas son transversalmente a todos los objetivos espec
 
 ## 3.3.1 Protocolo de estimación en la CBA
 
-\vspace{-0.2cm}
-
 Como ha sido recurrente en la evaluación de la pesquería de merluza del sur, existe un retardo en la disponibilidad de información biológica y pesquera de al menos un año. Por lo que el protocolo de evaluación consideraba los siguientes pasos para fijar la CBA al año siguiente (2021):
 
 1.	Actualizar la información biológica-pesquera hasta el año 2019 y estimar la abundancia a diciembre del año 2020.
@@ -407,17 +461,13 @@ Sin embargo, siguiendo la solicitud realizada durante la última sesión del el 
 
 ## 3.4. Objetivo específico 4:
 
-\vspace{-0.2cm}
-
 *"Desarrollar los lineamientos técnicos e implementar la aproximación de Evaluación de Estrategias de Manejo (EEM)."*
 
 ## 3.4.1 Evaluación de Estrategias de Manejo (EEM)
 
-\vspace{-0.2cm}
-
 Este objetivo muestra los avances en términos del desarrollo de los procedimientos de manejo basado en simulación aplicados a la Merluza del Sur bajo el marco del programa de Asesoría Integral para Pesca y Acuicultura (ASIPA).
 
-La evaluación de Estrategias de Manejo (EEM) tiene como principal meta determinar cuál conjunto de Procedimientos de Manejo (PM) permite alcanzar los objetivos de conservación o administración, bajo la premisa que las gestiones de manejo fusionan aspectos políticos y técnicos. Un procedimiento de manejo está conformado por tres elementos: i) los puntos biológicos de referencia (PBR), ii) las reglas de control de captura (RCC) y iii) los posibles escenarios de modelamiento basados en un modelo de estimación de parámetros (MEP) de interés, en otras palabras, un modelo de evaluación de stock. El proceso de comparación de los diferentes PM en términos de medidas de desempeño (e.g. P(BD ≤〖BD〗_objetivo) es llamado una EEM.
+La evaluación de Estrategias de Manejo (EEM) tiene como principal meta determinar cuál conjunto de Procedimientos de Manejo (PM) permite alcanzar los objetivos de conservación o administración, bajo la premisa que las gestiones de manejo fusionan aspectos políticos y técnicos. Un procedimiento de manejo está conformado por tres elementos: i) los puntos biológicos de referencia (PBR), ii) las reglas de control de captura (RCC) y iii) los posibles escenarios de modelamiento basados en un modelo de estimación de parámetros (MEP) de interés, en otras palabras, un modelo de evaluación de stock. El proceso de comparación de los diferentes PM en términos de medidas de desempeño (e.g. P(objetivo) es llamado una EEM.
 
 Basado en los PBR, las RCC proporcionan las rutas temporales para alcanzar los objetivos de manejo. En este sentido, bajo los criterios establecidos por Ley de Pesca y Acuicultura respecto del RMS, los PBR representan la componente técnica de un procedimiento de manejo pues integran los aspectos de conservación que subyacen detrás de los PBR basados en el RMS. Mientras que las RCC, deberían representar los aspectos políticos ya que su forma y dimensión deberían incorporar los requerimientos económicos, sociales y ambientales que regulan la pesquería. En efecto, un conjunto de PBR sin RRC (adecuadas y bien acordadas) no conforman un PM, y recae más bien en un ejercicio de simulación bajo PBR que no necesariamente son reactivos en los periodos futuros.
 
@@ -425,15 +475,12 @@ En este marco, se simulo la población de merluza del sur bajo condiciones estoc
 
 Cabe señalar que los resultados de este objetivo son incipientes, inapropiados para recomendaciones, y posiblemente variables en función de la retroalimentación con la contraparte técnico de la SSPA y las opiniones del CCT-RDZSA para la pesquería de merluza del sur.
 
-## 3.5. Objetivo específico 5:
 
-\vspace{-0.2cm}
+## 3.5. Objetivo específico 5:
 
 *"Proponer el plan de trabajo para avanzar durante el año 2021 en el cumplimiento del Programa de Mejoramiento Continuo de la Calidad de la Asesoría Científica (PMCCAC), informando los logros esperados y su vinculación con las siguientes etapas del Programa e informar del cumplimiento de cada una de las recomendaciones realizadas en las revisiones por pares, cuando corresponda y tareas complementarias sugeridas por los CCT y/o evaluadores nacionales."*
 
 ## 3.5.1 Programa de Mejoramiento Contínuo de la Calidad de la Asesoría Científica (PMCCAC)
-
-\vspace{-0.2cm}
 
 En este objetivo se informan los avances alcanzados durante el desarrollo de este estudio, conforme al Programa de Mejoramiento Continuo de la Calidad de la Asesoría Científica (PMCCAC) elaborado por recurso y/o pesquería. Este PMCCAC no sólo se enfoca en las brechas de datos, información y conocimiento, sino que incluye la pertinencia, consistencia, calidad y coherencia de éstos con la situación general de la pesquería, acorde con los requerimientos de asesoría solicitados por la administración pesquera. 
 
@@ -441,20 +488,15 @@ No obstante, y con el propósito de alcanzar el Estándar Completo, se identific
 
 Como parte integral de las actividades del proyecto, se considera la participación en las reuniones establecidas por el CCT-RDZSA, así como las actividades demandadas por la Revisión por Pares Externos e Independientes (RPEI), las que constituirán el Estándar Metodológico en la Evaluación, cuyos protocolos se mantendrán vigentes mientras una actualización no sea requerida.
 
-
 \pagebreak
 
 # 4. RESULTADOS
 
 ## 4.1. Objetivo específico 1:
 
-\vspace{-0.2cm}
-
 *"Implementar procedimientos de evaluación de stock basados en protocolos científicos para la determinación del estatus de merluza del sur, con arreglo al nivel de información, conocimiento e incertidumbre correspondiente, conforme a los estándares actuales en ciencia pesquera."*
 
 ## 4.1.1 Información biológico-pesquera
-
-\vspace{-0.2cm}
 
 a)	Desembarques y Descartes
 
@@ -465,14 +507,12 @@ Sin embargo, es conocido que las flotas tienen incentivos para el descarte (prin
 Los valores de descarte-subreporte mencionados en el párrafo anterior están basados en probables niveles históricos acordados en el seno del Comité Científico Técnico de Recursos Demersales Zona Sur Austral (CCT-RDZSA). Si bien estos niveles de descarte han posibilitado reconstruir las series de desembarques oficiales (Tabla 3 y Figura 3), el marco legal vigente indicado en el Artículo 7°B de la actual Ley General de Pesca y Acuicultura (LGPA, N° 18.892) sostiene, que el proceso de descarte en las pesquerías manejadas por cuotas de capturas debe ser considerado en el establecimiento de la cuota global anual de captura. 
 
 En este marco, la SSPA ha solicitado al IFOP que se considere el descarte en la determinación del estatus y posibilidades de explotación en las pesquerías nacionales, por medio de la incorporación de más recientes recopilados en el marco del Programa de Investigación del Descarte y Captura de Pesca Incidental (San Martín, 2016), o por medio de proyectos licitados que hayan proporcionado esta información.
-Tabla 2			Desembarques oficiales (toneladas) de las flotas de arrastre, palangre y espinel artesanal.
 
+
+Tabla 2			Desembarques oficiales (toneladas) de las flotas de arrastre, palangre y espinel artesanal.
 
 Tabla 3		Desembarques corregidos (toneladas) de las flotas de arrastre, palangre y espinel artesanal.
 
-Figura 3	Línea punteada roja: desembarques oficiales (miles de toneladas), línea punteada verde: desembarques corregidos de merluza del sur (en base a Tabla 3 y 4), reportados por las flotas industriales y flota artesanal para el periodo 1977-2019.
-
-Figura 4 	Niveles de descarte/subreporte en toneladas para las flotas industriales y artesanal durante el período 2000-2019.
 
 
 El Programa de Investigación del Descarte y Captura de Pesca Incidental, entre otros objetivos, busca implementar y perfeccionar metodologías que permitan evaluar espaciotemporalmente las capturas totales, retenidas y descartadas de un número de especies incluida la merluza común (San Martín et al., 2016). Mediante tres procedimientos alternativos de estimación de la captura a bordo (cuya aplicación depende de la magnitud de la captura) este programa recopila datos de la captura (retenida y descartada) y su composición de tamaños mediante el despliegue de observadores científicos especialmente entrenados para estos efectos. 
@@ -488,6 +528,7 @@ b)	Estructura de edades de las capturas comerciales
 
 Como es recurrente, la información de captura a la edad que es incluida en el modelo de evaluación de stock de merluza del sur incluye registros de tres flotas: (i) naves industriales arrastreras operando en aguas exteriores, (ii) naves industriales palangreras con operaciones de pesca principalmente en la zona extremo sur, y finalmente (iii) naves artesanales que utilizan espineles de fondo desplegados principalmente en aguas de la ZZE e interiores.  
 
+
 La información base de captura a la edad, proveniente del Sección Edad-Crecimiento del Instituto de Fomento Pesquero, se encuentra desagregada por sexo (macho-hembra), flota (las tres mencionadas anteriormente) y área (norte y sur 47ºS). Para fines de la evaluación, esta es agregada por flota por medio de la sumatoria de los individuos muestreados por sexo, área y flota, ponderados por los niveles de captura oficiales reportados por flota y área. 
 
 •	Flotas industriales
@@ -498,8 +539,7 @@ Como fue informado en previos reportes, la información edad estructurada indica
 
 Respecto del ingreso de cohortes a la población, la información estructurada no posibilita un seguimiento adecuado, salvo las cohortes nacidas en los años 1980 y 1986 que posiblemente sustentaron las capturas durante la década de los años 90’. 
 
-
-Figura 5	Gráfico de burbujas de la proporción de las edades en la captura de la flota arrastrera (superior) período 1989-2019 y palangrera (inferior) período 1981-2019. La línea verde representa la edad media de la captura por año.
+Figura 5
 
 •	Flota de espinel artesanal
  
@@ -507,7 +547,6 @@ Para el espinel la información disponible contempló los períodos 1987-1988, 1
  
 
 Figura 6	Gráfico de burbujas de la proporción de las edades en la captura de la flota artesanal período 1987-2019. La línea verde representa la edad media de la captura por año.
-
 
 c)	Actualización de los cruceros hidroacústicos
 
@@ -527,17 +566,14 @@ Con el fin de incluir solo la biomasa adulta del crucero acústico, desde la ase
 
 Para el año 2019 se registró una leve disminución de la edad media de la fracción desovante, que alcanza los 15 años. Valores que no son posibles de contrastar con el peso medio debido a la utilización de las ojivas de madurez para separar ejemplares juveniles de adultos.
 
- 
-
 Figura 8	Gráfico de burbujas de la proporción de las edades de la fracción desovante prospectada por los cruceros acústicos período 2000-2019. La línea verde representa la edad media de la captura por año. 
 
 ## 4.1.2 Estandarización CPUE de tasas de captura flota industrial
 
-\vspace{-0.2cm}
-
 a)	Estandarización CPUE arrastre
 
 La base de datos proviene de las bitácoras de pesca de arrastre y bitácoras de viajes pesca de IFOP, las que abarcan el período 1979-2019. En la Tabla 7 se presenta el número de lances totales que se utilizaron para el análisis. Desde inicios de la serie se presenta un valor en torno a los 1000 registros anuales hasta el año 1998, donde los registros aumentan a 6544. Posterior a esto, se observa un período en torno a los 3500 registros (2004-2012), los años 2013-2015 presentan el número de registros más bajo de toda la serie para aumentar en torno a los 3 mil registros en los últimos años. El número total de registros para el período es de 91439 lances. La estandarización se realiza considerando dos períodos, el primero abarca desde 1979 hasta 1997 y el segundo desde 1998 hasta 2018. 
+
 Tabla 7		Número de lances utilizados en la estandarización de CPUE por año, período 1979-2019.
 
 
@@ -570,7 +606,6 @@ El análisis para el segundo período (1998-2019) se presenta en la Figura 13, s
 
  
 Figura 13	Proporción de especies presentes en los lances por cada cluster para el período 2 (1998-2019).
-
 
 Las Figuras 14 y 15 confirman los resultados anteriormente descritos, la Figura 14 presenta la intencionalidad de pesca para el período 1 en el cluster 1, en donde la proporción de merluza del sur por lance es alta. La Figura 15, confirma los resultados obtenidos en el período 2 identificándose el cluster dos con los mayores valores de captura y CPUE, cluster que corresponde al con mayor proporción de merluza del sur. En esta figura se observa un aumento progresivo en la CPUE promedio anual del cluster dos, la cual disminuye durante los últimos cinco años de la serie.
 
@@ -612,54 +647,37 @@ Tabla 11	Número de registros de la flota palangrera para el período 1 (1987-19
 
 Tabla 12	Número de registros para la flota palangrera para el período 2 (1998-2019) por año y por pesquería, 5=Palangre fábrica merlucero (IFOP), 11= Palangre fábrica bacalao (IFOP), 91= Palangre fábrica bacalao (SERNAP) y 92= Palangre fábrica merlucero (SERNAP).
 
-
-
 La Figura 18 contiene el histograma de los rendimientos de pesca (CPUE) y el logaritmo de la CPUE para ambos períodos. El valor en logaritmo presenta la condición de normalidad necesaria para la estandarización del rendimiento. Esta variable se mide en kilógramos por número de anzuelo por hora de reposo (kg/(nanz*h.r.)). 
 
-
-
-
 Figura 18	Histograma del rendimiento y logaritmo del rendimiento de pesca en kilógramos por número de anzuelo y hora de reposo.
-
 
 La Figura 19 entrega un resumen de los datos de palangre utilizados en el período 2 (1998-2019), el cuadrante superior izquierdo contiene el número de anzuelos promedio para cada pesquería, el valor bordea los 15 mil anzuelos exceptuando algunos años (por ejemplo 2015). En la pesquería 11 el valor más bajo se encuentra en el año 2013 ya que el barco 941225 presenta solo 3600 anzuelos ese año, a diferencia del resto de los barcos que presentan entre 11 mil y 24 mil anzuelos. 
 
 En el cuadrante superior derecho se presenta la CPUE promedio con las horas de reposo no corregidas, en el cuadrante inferior izquierdo la captura promedio de merluza del sur, en donde los años 2017, 2018 y 2019 se caracterizaron por presentar los valores más bajos de la serie, y en el cuadrante inferior derecho la CPUE promedio considerando las horas de reposo corregidas. 
 
-
 Figura 19	Valores promedio del número de anzuelos por año y pesquería (5,11,91,92) (cuadrante superior izquierdo), captura promedio de merluza del sur por año en kilogramos (cuadrante inferior izquierdo), CPUE nominal promedio por año con horas de reposo sin corregir (cuadrantes superior derecho) y CPUE nominal promedio por año con horas de reposo corregidas (cuadrantes inferior derecho)  para el período 2 (1998-2019) flota palangrera.
 
 Al igual que en el arrastre, se construyeron matrices con composición de captura para cada lance con el fin de incorporar la intencionalidad de pesca como un predictor en los modelos lineales. Luego, se realizó el análisis de componentes principales y el análisis de cluster obteniendo como resultado la Figura 20, aquí se presentan los primeros 5 componentes principales del período 2 obtenidos en la etapa anterior, el primero contiene presencia de merluza del sur y congrio relacionada positivamente, el segundo contiene las mismas especies, pero relacionadas de forma negativa, el tercero se caracteriza por brótula y el cuarto por bycatch y el último por merluza de cola.  
 
- 
 Figura 20	Análisis de componentes principales de la matriz de proporciones para el palangre, periodo 2 (1998-2019).
-
 
 Luego se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la Tabla 13. 
 
 Tabla 13	Número de lances incorporados en cada cluster.
 
-
 Contrario a lo obtenido en la flota arrastrera, donde pocos cluster contienen proporciones elevadas de captura de merluza del sur, aquí se observan cluster con mix de especies, la flota palangrera concentra las mayores proporciones de captura en más de un cluster, por ejemplo, la Figura 21 contiene la proporción de especies por cluster para el período 1, en donde se observa presencia importante de merluza del sur en los cluster 1 y 2 dejando en el cluster 3 mayor participación de congrio. Para el período dos (Figura 22) se observan 4 cluster en donde existe una importante presencia de merluza en los cluster 1, 3 y 4. 
-
 
 Figura 21	Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 1 (1979-1997).
 
- 
 Figura 22	Proporción de especies presentes en los lances de la flota palangrera por cada cluster, período 2 (1997-2019).
-
 
 La Figura 23 contiene la intencionalidad de pesca del cluster 2 para el período 1, este cluster es el que contiene la mayor proporción de merluza del sur en las capturas (según Figura 21), esta figura confirma los resultados anteriores identificando proporciones altas de merluza del sur por cada lance. 
  
-
 Figura 23	Frecuencia de la proporción de merluza del sur para la flota palangrera período 1 (1979-1997) por año en el cluster 2.
-
 
 El cluster con mayor proporción de merluza del sur para el período 2 corresponde al cluster 3, seguido del cluster 1 (según Figura 22), la Figura 24 presenta la captura, esfuerzo y CPUE promedio por cada cluster. La línea celeste corresponde al cluster 3, alcanzando los valores más altos de captura y CPUE promedio.
 
-
 Figura 24	Sumatoria anual de la captura (kg) y esfuerzo (nanz/h.r.), CPUE (kg/(nanz*h.r.)) por cluster para el período 2 período 1998-2019, el tamaño del circulo es proporcional al número de lances utilizados. 
-
 
 Para la estandarización de la CPUE se utilizaron 4 modelos lineales generalizados, los que incluyeron como factores el año (1998-2019), mes, pesquería, zona, cluster y barco. En la Tabla 14 y 15 se presentan los estadísticos para cada MLG. 
 
@@ -672,7 +690,6 @@ Tabla 14	Estadísticos de los modelos lineales para el período 1 (1979-1997) co
 
 Tabla 15	Estadísticos de los modelos lineales para el período 2 (1998-2019) con su respectiva devianza explicada en porcentaje.
 
-
 La CPUE estandarizada para la flota palangrera se presenta en la Figura 25 y 26. El período 1 considera los 4 modelos utilizados Mod0, Mod1, Mod2, Mod3, en línea continua celeste se muestra la CPUE promedio sin estandarizar. Para el período 2, la Figura 26 incluye la CPUE de los modelos utilizados en líneas segmentadas, la CPUE promedio sin estandarizar en línea continua roja y la CPUE estandarizada estimada el año anterior en línea continua amarilla (informe de estatus 2018). 
 
 
@@ -681,11 +698,7 @@ Figura 25	CPUE estandarizada (kg/(nanz*h.r.)) para los 4 modelos probados en lí
 
 Figura 26	CPUE estandarizada (kg/(nanz*h.r.)) para los 4 modelos probados en líneas segmentadas, CPUE promedio sin estandarizar en línea continua roja y CPUE estandarizada (informe estatus año 2018) en línea continua amarilla.
 
-
-
 ## 4.1.3 Ajustes modelo base
-
-\vspace{-0.2cm}
 
 El modelo base actual (Mod0_03a) proviene del escenario Mod0_03 implementado en la asesoría año 2019. Este modelo se caracteriza por estandarización de la CPUE de arrastre y palangre en dos períodos. Además, incluye el índice de abundancia de la flota artesanal en la función de verosimilitud y la táctica de pesca como un predictor en los modelos lineales de predicción de tasas de captura. Además, se incorporan algunas modificaciones solicitadas por la Subsecretaría de Pesca y Acuicultura y por el Comité Científico Técnico de Recursos Demersales: i) modificación del coeficiente de capturabilidad para el arrastre considerando años de quiebre 1997, 2001 y 2011 y para el palangre los años 1997 y 2011; ii) modificación del coeficiente de variación para los índices de abundancia: los pesos para los índices de las flotas arrastrera y palangrera se redujeron a la mitad mientras que el crucero acústico se aumentó al doble. El índice de CPUE de la flota artesanal no se modificó, manteniendo un peso de baja importancia respecto de los restantes índices de abundancia; iii) incorporación de la fracción madura del crucero acústico, en donde se utilizaron las ojivas de madurez macroscópicas de machos y hembras de cada año para el periodo 2000-2019; iv) incorporación de pesos medios variables entre años para las flotas y el crucero acústico.
 
@@ -719,7 +732,6 @@ La Figura 27 presenta el ajuste de los desembarques de las flotas arrastrera, pa
 
 Figura 27	Desembarque observado en miles de toneladas (puntos) y estimado (línea roja) con su respectiva desviación estándar (barras) para las flotas arrastrera, palangrera y artesanal.
 
-
 La precisión del ajuste se muestra en el comportamiento de los residuales, los que se sobreponen con la distribución teórica esperada para la distribución normal de datos (Figura 28). Solo unos pocos puntos de datos se alejan de dos desviaciones estándar.
 
  
@@ -739,7 +751,6 @@ Figura 31	Selectividad de la flota arrastrera, palangrera, artesanal y crucero a
 
 
 La mortalidad por pesca por flota y total se muestra en la Figura 32, cómo ha sido recurrente los mayores niveles de mortalidad por pesca han sido generados por la flota arrastrera. En magnitud le sigue la flota palangrera, aunque durante los últimos 6 años esta flota mostró una reducción importante en los niveles de remoción. En las tres flotas se observa una significativa reducción de la mortalidad por pesca para el año 2014, consecuencia de la reducción en las cuotas de captura. Con respecto a la mortalidad total, se observa un aumento durante los últimos 2 años generada principalmente por la flota arrastrera. 
-
 
 Figura 32	Mortalidad por pesca estimada para la flota arrastrera, palangrera, espinelera y mortalidad por pesca total.
 
@@ -771,21 +782,16 @@ Figura 37	Ajuste estructuras de edades fracción adulta del crucero acústico pe
 
 Figura 38	Residuales de estructura de edades de la flota artesanal y crucero acústico. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad.
 
-## 4.1.4 Comparación escenarios y sensibilidad
 
-\vspace{-0.2cm}
+## 4.1.4 Comparación escenarios y sensibilidad
 
 Con el fin de observar de mejor forma los cambios en la incorporación y/o modificación de la información se compara el modelo implementado en la asesoría previa, 2019 con datos parciales mod0_01 con el modelo solicitado por el Comité Científico Técnico, que actualiza los datos al 2019 e incluye los pesos medios del crucero (mod0_02) y flota (mod0_03). Finalmente, se incluyen dos configuraciones de sensibilidad al modelo mod0_03, la primera modifica los coeficientes de variación de los índices de abundancia mod0_03a (Tabla 3) y la segunda incluye un cambio en la productividad de la población modificando el parámetro de escarpamiento desde h=0.5 a h=0.75 mod0_03b. En sombreado se destaca modelo base.
 
 Figura 39 	(a) Biomasa desovante, (b) biomasa total, (c) reclutamiento y (d) reducción de la biomasa desovante para los 5 escenarios periodo 1977-2019.
- 
 
 Las variables de estado biomasa desovante, total, reclutamiento y reducción de la biomasa desovante se presentan en la Figura 40. En términos de la reducción de la biomasa desovante (Figura 40,d), los escenarios que muestran una mayor recuperación corresponden a los mod0_03a (BD/BD0=31%) y mod0_03b (BD/BD0=37%), sin embargo, en todos los escenarios la biomasa desovante disminuye durante los últimos 4 años. En el escenario mod0_03b se observa un aumento en la biomasa total al final de la serie (Figura 40,b), lo que se puede atribuir al aumento en los reclutamientos desde el año 2010 debido al aumento en la productividad de la población (Figura 40,c). 
 
- 
-
 Figura 40	Mortalidad por pesca total para los 5 escenarios período 1977-2019.
-
 
 El efecto de incluir los pesos medios del crucero acústico y de la flota se puede observar en la Figura 41, en donde el ajuste de los escenarios mod0_01 (con pesos medios constantes) y mod0_02 (con pesos medios del crucero acústico) evidencia una tendencia suavizada, a diferencia de los escenarios que incluyen los pesos medios de la flota (mod0_03, mod0_03a y mod0_03b), en los que el ajuste presenta una tendencia más acerrada influenciada por la variación anual de los pesos medios en vez de la utilización de valores constantes a los largo de la serie. 
 
@@ -798,32 +804,24 @@ Figura 42	Proyección de la captura para los años 2021, 2022 y 2023, cuadrante 
 
 ## 4.1.5 Análisis retrospectivo
 
-\vspace{-0.2cm}
-
 La Tabla 17, presenta los resultados en relación a la reducción de información, en términos de parámetros, variables de estado y de calidad de ajuste de la información (verosimilitud) para el modelo mod0_03 (modelo que considera pesos medios por flota). En este sentido se destaca la existencia de una importante congruencia en la estimación de la biomasa virginal, la cual se re escala a niveles en cercanos en relación a la reducción de información. El mismo efecto se aprecia lógicamente en la estimación del reclutamiento virginal. 
 
 Tabla 17	Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0_03).
 
-El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran interés para poder comparar y realizar inferencia de la calidad del modelo, y de cómo las variables se ven afectadas por la reducción de información. La Figura 43, presenta el análisis retrospectivo del modelo mod0_03 de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta las variables de estado. En términos de rho, se aprecia que la reducción de información afecta y de manera negativa a la estimación de la biomasa desovante (ρ = -0,089) representando el mayor efecto dentro de las variables evaluadas en términos de un patrón retrospectivo). En el caso de los reclutamientos estos son alterados positivamente (ρ = 0,014), siendo esta variación de menor cuantía. Finalmente, la variación de la mortalidad por pesca, presenta niveles cercanos en torno a ρ = 0,044. 
-
+El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran interés para poder comparar y realizar inferencia de la calidad del modelo, y de cómo las variables se ven afectadas por la reducción de información. La Figura 43, presenta el análisis retrospectivo del modelo mod0_03 de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta las variables de estado. En términos de rho, se aprecia que la reducción de información afecta y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,089) representando el mayor efecto dentro de las variables evaluadas en términos de un patrón retrospectivo). En el caso de los reclutamientos estos son alterados positivamente (arreglar = 0,014), siendo esta variación de menor cuantía. Finalmente, la variación de la mortalidad por pesca, presenta niveles cercanos en torno a arreglar = 0,044. 
+ 
 Figura 43	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03).
 
-
-
- 
 La Tabla 18 muestra el desempeño del análisis retrospectivo del modelo mod0_03b. En donde se destaca, y al igual al caso anterior, el modelo presenta una importante sintonía en la reducción de información y de su efecto es la condición inicial del stock. Lo anterior se puede observar que la estimación de la biomasa desovante virginal tiene una variación menor, incluso con una diferencia de 5 años de la condición estimada en completitud de información. Con respecto al reclutamiento virginal y a los parámetros de la relación stock recluta, se confirma la mínima variación registrada entre escenarios analizados.
 
 Tabla 18	Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0_03b).
 
-La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta de manera importante la biomasa desovante. En términos de rho, se aprecia que la reducción de información afecta levemente y de manera negativa a la estimación de la biomasa desovante (ρ = -0,062). En el caso de los reclutamientos estos son alterados en torno a ρ = 0,056, representando junto a la biomasa desovante las variables que mostraron un mayor impacto de la reducción de información de las variables evaluadas, en términos de un patrón retrospectivo. Finalmente, la variación de la mortalidad por pesca parece de menor cuantía, por solo presentar niveles cercanos a cero (ρ = 0,034). 
+La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta de manera importante la biomasa desovante. En términos de rho, se aprecia que la reducción de información afecta levemente y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,062). En el caso de los reclutamientos estos son alterados en torno a arreglar = 0,056, representando junto a la biomasa desovante las variables que mostraron un mayor impacto de la reducción de información de las variables evaluadas, en términos de un patrón retrospectivo. Finalmente, la variación de la mortalidad por pesca parece de menor cuantía, por solo presentar niveles cercanos a cero (arreglar = 0,034). 
 
 Figura 44	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03b).
 
 
-
- 
 La Figura 45 muestra el impacto de la reducción de información en la reducción poblacional, contrastada en ambos casos de estudio. En esta figura se puede observar, que el modelo mod0_03 muestra una leve subestimación al reducir la información con la cual se realiza la evaluación poblacional. En efecto como se mostró anteriormente, el patrón retrospectivo en este caso es negativo lo que produce una estimación si bien en torno a la condición actual del recurso, está en cada resta de información parece ser de menor cuantía. Por otro lado, en el caso del modelo mod0_03b, el cual se caracteriza por presentar una condición de productividad mayor al caso anterior, permite estimar niveles más cercanos al 40% de agotamiento del BD/BDo. En relación a el patrón retrospectivo para este escenario, podemos comentar que si bien el cambio relativo de BD es de menor error que el calculado para el caso mod0_03, persiste el mismo patrón que estima menores niveles de agotamiento en cada reducción de información.
-
  
 
 Figura 45	Análisis retrospectivo del modelo de evaluación de stock y su efecto en la reducción poblacional (BD/BDo).
@@ -831,26 +829,169 @@ Figura 45	Análisis retrospectivo del modelo de evaluación de stock y su efecto
 
 ## 4.2. Objetivo específico 2:
 
-\vspace{-0.2cm}
+*"Determinar las variables poblacionales de los recursos pesqueros en estudio conforme al marco legal vigente y estimar el valor de los Puntos Biológicos de Referencia, determinados por los Comités Científico y Técnicos (CCT) respectivos, bajo condiciones de incertidumbre estructural y de estimación empleando el mejor conocimiento e información disponible a la fecha de ejecución del estudio."*
 
-*"Establecer el estatus actualizado de sardina común, sobre la base de sus principales indicadores estandarizados de estado y flujo, propagando para estos efectos todas las fuentes de incertidumbre subyacente a la pesquería."*
+
+## 4.2.1 Variables de estado y biomasa Modelo0_03a
+
+En la Tabla 19 se presentan los valores de las variables de estado biomasa total, desovante y juvenil, además del número de reclutas y la mortalidad por pesca anual estimadas por el modelo de evaluación base. Para el año 1977 se estima una biomasa total de 1064 mil toneladas y una biomasa desovante de 444 mil toneladas. Para el año 1977 se estima una biomasa total de 1106 mil toneladas y una biomasa desovante de 454 mil toneladas. Para el año 2019 las estimaciones indican una biomasa total aproximada de 536 mil toneladas y una biomasa desovante de 141 mil lo que corresponde aproximadamente a un 31% de reducción (Figura 46). Las tendencias en el agotamiento de la biomasa desovante (Figura 46) muestran una disminución progresiva hasta el año 2001 y alcanzando el punto objetivo en el año 1991. Se mantiene durante los siguientes 13 años en torno a un 32% para disminuir nuevamente durante los últimos 4 años. La biomasa total va en declive desde el año 2000 alcanzando actualmente un 48% de reducción.
+
+Figura 46	Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019.
+
+
+Tabla 19	Variables de estado biomasa total (BT), desovante (BD) y juvenil (B6) en miles de toneladas, reclutas (R) en número y mortalidad por pesca anual (FT) obtenidas del ajuste del modelo base.
+
+El reclutamiento estimado se presenta en la Figura 47, durante los primeros 20 años el reclutamiento se mantiene aproximadamente en los 150 millones de individuos para luego descender hasta el año 2010 a 98 millones de individuos. Desde el año 2010 y hasta el 2018 se observa un leve aumento de los reclutamientos hasta alcanzar el orden de 110 millones de individuos.
+
+ 
+Figura 47	Reclutamiento (millones de individuos) estimado por el modelo base para el período 1977-2019.
+
+
+## 4.2.2 Estatus y Puntos Biológicos de Referencia
+
+La reducción de la biomasa desovante se muestra en la Figura 48, comenzando con una condición de subexplotación a inicios del período. Luego, los altos niveles de captura aplicados hasta los 90´s produjeron una disminución abrupta del potencial reproductivo de la población, sobre pasando en 1991 el punto biológico objetivo. Al año 2019 la merluza del sur se encuentra en un 31% de la condición inicial.
+
+El estado actual de esta pesquería es de sobreexplotación y sobrepesca, con un valor de FRMS de 0.257 año-1 y de mortalidad por pesca al 2019 de 0.372 año-1. 
+
+ 
+Figura 48	Diagrama de fases merluza del sur período 1977-2019, FRMS=0,257 año-1.
+
 
 ## 4.3. Objetivo específico 3:
 
-\vspace{-0.2cm}
+*"Analizar las distintas alternativas de Captura Biológicamente Aceptable para estos stocks acorde con las estrategias de explotación y reglas de control previamente definidas y considerando los posibles estados de la naturaleza, con sus respectivos análisis de riesgo, incluyendo análisis en horizontes de mediano y largo plazo, según requerimiento."*
 
-*"Determinar niveles de Captura Biológicamente Aceptable (CBA) que lleven y/o mantenga la pesquería en torno al Rendimiento Máximo Sostenible (RMS), a partir de un análisis de riesgo en condiciones de incertidumbre de no alcanzar los objetivos de conservación y sostenibilidad conforme lo establece la LGPA y contenidos en el Plan de Manejo y/o en el Programa de Recuperación respectivo, según corresponda."*
+## 4.3.1 CBA 2021-2023
+
+La Tabla 20 muestra la CBA estimada para los años 2021, 2022 y 2023 bajo diferentes niveles de riesgo (10-50%) y bajo diferentes escenarios de evaluación. Para el año 2020 se asumió un desembarque igual a la CBA establecida para el año en curso, ponderada por los valores de descarte y subreporte utilizados históricamente en la evaluación de stock para cada flota. Es importante tener en consideración que para el cálculo de la CBA proyectada para los años 2022 y 2023 no fue posible incluir este ponderador de descarte y subreporte.
+
+Tabla 20		Captura Biológicamente Aceptable (CBA) para diferentes ponderadores de FRMS bajo una estrategia de explotación con mortalidad por pesca constante. Se evaluaron los riesgos entre 50% y 10.
+
 
 ## 4.4. Objetivo específico 4:
 
-\vspace{-0.2cm}
+*"Desarrollar los lineamientos técnicos e implementar la aproximación de Evaluación de Estrategias de Manejo (EEM)."*
 
-*"Informar el avance del Programa de Mejoramiento Continuo de la Calidad en la Asesoría Científica (PMCCAC) realizado durante el presente estudio, respecto al cumplimiento de recomendaciones formuladas en procesos de RPEI y priorizadas por el CCT, cuando corresponda."*
+## 4.4.1 Definiendo reglas de control de captura
+
+Como parte de los lineamientos técnicos asociados con la implementación de los procesos de Evaluación de Estrategias de Manejo (EEM) en merluza del sur, se definió un conjunto de PM que incorporan diferentes opciones de Reglas de Control de Capturas (RCC), plausibles umbrales para los PBR y varios niveles de productividad de la población.
+
+El acercamiento implementado en este objetivo está orientado a comparar diferentes PM bajo la premisa que la información que alimenta el MEP en cada año de iteración proviene de información perfecta deriva de un modelo operativo (MO). El proceso de comparación de PMs es un análisis multidimensional debido a las múltiples opciones que derivan de la combinación de RCC, PBR y niveles de productividad. Por ejemplo, para este ejercicio se definieron cuatro niveles de PBR (BDRMS={0.4, 0.3}, BDLIM={0.2}, FRMS={45%bdpr}), dos estrategias de explotación alternativas basadas en capturas y tasas de explotación constantes, tres niveles umbrales de captura y mortalidad por pesca la cuales son anexadas a los PBR, y finalmente, cuatro niveles de productividad (reclutamientos fijos alto y bajos, reclutamientos afectos a desvíos aleatorios bajo umbrales altos y bajos). La combinación de todos estos elementos en diferentes PMs envuelve un extenso proceso de simulación que es altamente demandante de cálculos computacionales.  
+
+La Figura 49 muestra las proyecciones de doce PMs (cada panel) que combinan parte de los elementos indicados en el párrafo anterior. En una primera inspección de resultados se observan diferencias importantes derivadas de los supuestos de productividad (columnas), y en una segunda medida debido a la utilización de los PBRs en la configuración de cuatro RCC (filas).  Si bien, las diferencias no son evidentes en términos de biomasa, la Figura 50 muestra que los niveles de captura en cada PM son altamente sensibles a la RCC utilizada (filas), mientras que los niveles de incertidumbre parecen responder a los supuestos de productividad (columnas). 
+
+De acuerdo a los PM evaluados, se observa que solo las proyecciones basadas en reclutamientos afectos a desvíos aleatorios permiten en algunos años alcanzar el objetivo de manejo definido por el PBR DBRMS (Figura 51). En efecto, ninguno de los escenarios con reclutamientos fijos (ya sean altos o bajos) permite una recuperación de la biomasa desovante mayor a un 40 de la biomasa virginal. 
+
+Figura 49	Proyecciones de la biomasa desovante bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR.
+
+Figura 50		Proyecciones de la captura bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR
+ 
+
+Figura 51		Proyecciones del nivel de agotamiento bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR.
+
+La Figura 52 muestra un resumen de las principales medidas de desempeño como la razón entre la biomasa proyectada y la biomasa virginal, la captura media en la proyección, la variación de la captura anual bajo una ventana móvil de 5 años, y un conjunto de riesgos recurrentemente utilizado para definir umbrales ce captura. 
+
+Estas medidas de desempeño tienen como objetivo resguardar diferentes intereses. Por ejemplo, la probabilidad que la biomasa proyectada sea menor que la biomasa objetivo definida por el PBR BDRMS, representa una componente conservacionista que no considera ningún elemento operacional de las flotas de pesca. Mientras que la variabilidad de la captura en una base de 5 años, busca resguardar la estabilidad de pesquería en términos de evitar cambios inter-anuales en la renta de la flota en un corto plazo.
+ 
+
+Figura 52		Ejemplo de medidas de desempeño para un conjunto de PMs que incluyen opciones de reclutamiento y dos reglas de control de captura.
+La combinación entre las diferentes medidas de desempeño es la mejor opción para comparar entre PM. Por lo tanto, el siguiente paso en los análisis es realizar una evaluación cruzada de estas medidas de desempeño con objeto de identificar las mejores combinaciones de PM que permitan balancear objetivos conservacionistas, económicos y posiblemente sociales. 
+
+
+## 4.4.2 Ordenando y visualizando resultados
+
+Debido a los múltiples resultados y opciones derivados de la evaluación de procedimiento de manejo, uno de los desafíos de este proceso es la adecuada comunicación a los usuarios de las diferentes opciones que garanticen el balance de los intereses involucrados (económicos, conservación, social, etc). Como parte de la aproximación a la Evaluación de Estrategias de Manejo (EEM), se desarrolló una interfase de comunicación para exponer los resultados de la sección anterior.
+
+La Figura 53 muestra el tablero inicial de esta interfase que permite opciones para visualizar resultados en términos tabulares y gráficos. Por ejemplo, una opción de esta interfase es la selección de la RCC basada en PBRs (Figura 54), donde por medio de controles es posible definir diferentes opciones de RCC a aplicar durante las proyecciones de la población de merluza del sur. 
+
+
+Figura 53		Tablero inicial de la interfase gráfica de resultados del proceso de evaluación de estrategias de explotación.
+
+
+Figura 54	 	Opción de la interfase gráfica para definir reglas de control de captura.
+
+
+Junto con resultados tabulares como los mostrados en la Figura 52 y el despliegue de series de tiempo como las mostrada en las Figuras 49-51, esta interfase posibilita explorar gráficos dinámicos con opciones específicas de explotación o la comparación de diferentes PM (Figura 55), facilitando de esta forma la visualización de evaluaciones cruzadas de medidas de desempeño.
+
+Los resultados expuestos en este objetivo conforman un primer acercamiento a la EEM y buscan delimitar los lineamientos necesarios para su implementación en las pesquerías nacionales. En este marco, estos resultados deben ser considerados únicamente para propósitos de establecer este lineamiento y no con fines de asesoría para la definición de estatus en merluza del sur.  En efecto, varios de los componentes del PM necesitan ser revisados, consensuados y aprobados antes que una EEM sea calificada válida para el manejo de las pesquerías nacionales.
+
+
+Figura 55	 	Grafica dinámica explicativa de la evolución temporal de los PMs.
+
+
+## 4.5. Objetivo específico 5:
+
+*"Proponer el plan de trabajo para avanzar durante el año 2018 en el cumplimiento del Programa de Mejoramiento Continuo de la Calidad de la Asesoría Científica (PMCCAC), informando los logros esperados y su vinculación con las siguientes etapas del Programa e informar del cumplimiento de cada una de las recomendaciones realizadas en las revisiones por pares, cuando corresponda y tareas complementarias sugeridas por los CCT y/o evaluadores nacionales."*
+
+## 4.5.1	Programa de Mejoramiento Continuo de la Calidad de la Asesoría Científica (PMCCAC)
+
+Como parte del proceso de mejora continua y debido al establecimiento de una Captura Biológicamente Aceptable constante para los años 2021-2023, se presenta un plan de trabajo de tres años. El plan de trabajo contiene recomendaciones derivadas desde la revisión por pares internacionales años 2011 y 2017, revisión por pares nacionales anuales, propia evaluación de stock y las sugerencias del propio CCT-RDZSA, en la Tabla 21 se resumen las actividades a desarrollar en los próximos tres años divididas en cuatro grupos principales: 1) Mejoras en la evaluación de stock; 2) puntos pendientes en la evaluación por pares 2011; 3) puntos pendientes en la evaluación por pares 2017 y 4) desafíos evaluación de estrategias de manejo. 
+
+Tabla 21	Plan de trabajo período 2021-2023, programa mejoramiento continuo de la calidad de la asesoría científica merluza del sur
 
 \pagebreak
 
 # 5. ANÁLISIS Y DISCUSIÓN DE RESULTADOS
 
+La evaluación de stock de merluza del sur presenta varios conflictos en términos de la consistencia de los datos, la calidad de algunas de las piezas de información, algunos vacíos en términos de los procesos biológicos y su representación en el modelo cuantitativo. 
+
+En este marco, es que los actuales PBR basados en el RMS son altamente consistentes con el escenario histórico, en el sentido en que las potenciales CBA no recomiendan capturas mayores a las 20 mil toneladas en ninguno de los ponderadores de FRMS (ver Tabla 20). El estado de explotación de merluza del sur es clasificado en sobreexplotación y sobrepesca, pues los niveles de biomasa desovante se ubican por debajo del PBR objetivo definido como el nivel de biomasa desovante al rendimiento máximo sostenible (BDRMS), y paralelamente los niveles de mortalidad por pesca se ubican por sobre el nivel máximo de mortalidad por pesca objetivo asociada con el rendimiento máximo sostenible (FRMS).
+
+Respecto de incrementar la exactitud de la asesoría científica con fines de manejo (i.e. recomendación de CBA), como también reducir la incertidumbre de las variables de estado, aún resta mejorar algunos elementos del modelo de evaluación, por ejemplo, la incorporación de errores derivados de la lectura de edades o la implementación de un modelo desagregado por sexo que permita evaluar la dinámica productiva asociada con la proporción sexual. Sin embargo, es necesario reconocer que no existe una correlación entre aumentar la complejidad del modelo de evaluación y garantizar una mejor asesoría científica, o reducir la incertidumbre. Pues el modelo de evaluación es una representación de la realidad.
+
+Puesto que el modelo de evaluación no necesariamente es el elemento clave en la mejora de la asesoría científica, el estado del arte en las principales pesquerías mundiales muestra que la Evaluación de Estrategias de Manejo es una herramienta candidata para sortear este problema. En este informe, se ha avanzado someramente en este tópico (ver Sección 4.4) con objeto de definir los lineamientos claves para la implementación de la EEM. Esta herramienta, también conocida como Evaluación de Procedimiento de Manejo, es una técnica basada en simulación con alta dependencia computacional, analítica y estadística. Junto con la complejidad técnica, también engloba aristas de gestión pesquera en términos de balancear en las componentes que estructuran el EEM, los intereses económicos, conservacionistas y sociales de las partes involucradas en la pesquería. Por tanto, más que la implementación analítica de marco de trabajo de la EEM, subsiste un enrome camino en términos de lograr acuerdo entre las partes involucrada de una pesquería, para definir las estrategias de explotación candidatas a evaluar por este método.
+
+Los resultados de este en este informe respecto de la EEM, en primera instancia dejan ver que potencialmente existen capacidades para abordar este tema desde un prisma analítico (ver Figuras 49-51). Segundo, es posible identificar estrategias de explotación candidatas y viables que pueden ser expuestas a las partes interesadas para su evaluación. Tercero, a pesar de la enorme cantidad de resultados derivados de la EEM, es posible aunar un esquema de interfase de resultados que de una manera transparente ejemplifique los diferentes escenarios bajo un procedimiento de manejo (ver Figuras 52-53).
+
+En cuanto al escenario actual de modelación Mod0_03a, el cambio de utilizar una matriz de pesos medios constantes entre flotas y años hacia la utilización de pesos medios variables, provocó un aumento de la biomasa desovante debido a que los peces son de un tamaño mayor a los empleados en escenarios previos. El efecto de la inclusión de los pesos medios es también visible en los ajustes de los índices de CPUE de las flotas arrastreras y palangreras, en donde los índices recogen las variaciones de los pesos en las tendencias (Figura 41). Si bien el escenario 3a logra incluir los pesos corporales, es decir, el incremento en peso de la población, el escenario 3b incluye los cambios en la productividad, es decir, en el número de individuos que recluta a la población (tasa de reclutas). Por lo que es necesario evaluar escenarios que asuman una mayor productividad modificando el valor del parámetro de escarpamiento h. 
+
+Por último, el establecimiento de una CBA para los próximos tres años nos permite incorporar cambios y mejoras en el modelo de evaluación de stock que ya habían sido destacadas en evaluaciones por pares anteriores, pero que no habían podido ser desarrolladas a cabalidad por la dificultad que conlleva realizar cambios estructurales al modelo. Cambios que han cobrado mayor relevancia en los últimos años como lo son las interacciones de cuota entre las diferentes flotas y los cambios en la disponibilidad y comportamiento de las flotas a lo largo de la historia.   
 \pagebreak
 
 # 6. REFERENCIAS BIBLIOGRÁFICAS
+
+Aguayo, M., Z. Young, R. Bustos, V. Ojeda, T. Peñailillo, R. Gili, C. Vera, H. Robotham. 1986. Diagnóstico de las principales pesquerías nacionales demersales (peces) zona sur austral 1985. Estado de situación del recurso. Corporación de Fomento de la Producción (AP 86/55). Instituto de Fomento Pesquero. Chile, 143 p. 
+
+Aguayo, M., Z. Young, R. Bustos, T. Peñailillo, V. Ojeda, C. Vera, H. Hidalgo y I Céspedes. 1987. Diagnóstico de las principales pesquerías nacionales demersales (peces) zona sur austral 1986. Estado de situación del recurso. Corporación de Fomento de la Producción (AP 87/3). Instituto de Fomento Pesquero. Chile, 209 p. 
+
+Aguayo, M. 1995. Biology and fisheries of chilean hakes, fisheries, ecology and markets. J. Alheit and T. Pitcher (Ed.). Chapman & may, London. 305-337. 
+
+Aguayo, M., I. Payá, R. Céspedes, H. Miranda, V. Catasti, S. Lillo, P. Gálvez, L. Adasme, F. Balbontín, R. Bravo. 2001. Dinámica reproductiva de merluza del sur y congrio dorado. FIP 99-15. 114 pp+ tablas y figuras.
+
+Avilés, S., y M, Aguayo. 1979. Merluza española. En: bases para un desarrollo pesquero. Peces. Estado actual de las principales pesquerías nacionales. CORFO. IFOP (AP 79-18), 29, p.
+
+Balbontín, F. y R. Bravo. 1993. Fecundidad, talla de la primera madurez sexual y datos biométricos en la merluza del sur (Merluccius australis). Rev. Mar.28:111-132.
+
+Chong, J. 1991. Ciclo reproductivo y fecundidad de la merluza del sur, Merluccius australis en la pesquería sur austral. Estudio complementario “captura total permisible del recurso merluza del sur en aguas interiores, 1991”. Informe Técnico IFOP-SUBPESCA: 
+
+Chong, J. 1993. Ciclo de madurez sexual del congrio dorado (Genypterus blacodes) en la zona de la pesquería sur-austral. Estudio complementario a “Captura total permisible del recurso merluza del sur en aguas interiores, 1991”. IFOP-SUBPESCA (Circulación restringida).
+ 
+Chong, J. y R. Galleguillos. 1993. Determinación de unidades de stock de merluza del sur. Estudio poblacional de merluza de cola. Estudio de reproducción de congrio dorado y estudio de edad de la merluza de cola. Estudio encargado por IFOP a la Sociedad de Estudios Hidrobiológicos Ltda. (Informe interno).
+
+Daza, E., R. Céspedes, R. Galleguillos, L. Gonzales, C. Vargas, H. Miranda, J. Saavedra. 2005. Diagnóstico merluza del sur y congrio dorado, Aguas Interiores, XII Región. Proyecto FONDEMA Magallanes y Antártica Chilena. Código BIP: 20196777-0. Instituto de Fomento Pesquero (IFOP) – Subsecretaria de Pesca y Acuicultura (SUBPESCA). 
+
+Legault, C.M. 2009. Report of the Retrospective Working Group, January 14–16, 2008, Woods Hole, Mass. NEFSC Reference Doc. 09-01.
+
+Lillo, S., V. Ojeda, R. Céspedes, F. Balbontín, J. Donoso y J. Osses. 1996. Evaluación directa del stock desovante de merluza del sur en la zona sur austral. Informe final. FIP 96-38.
+
+McCullagh, P. y J.A. Nelder. 1989. Generalized Linear Models, second edition. ISBN. 0 412 31760 5. Chapman and Hall. London. 526 pp. 
+
+Mohn R. 1999. The retrospective problem in sequential population analysis: an investigation using cod fishery and simulated data. ICES J. Mar. Sci. 56: 473-488.
+
+Payá I, C. Canales, D. Bucarey, M. Canales, F. Contreras, F. Espíndola, E. Leal, C. Montenegro, J. Quiroz, R. Tascheri. 2014. Revisión de los puntos biológicos de referencia (Rendimiento Máximo Sostenible) en las pesquerías nacionales.” Primer Taller internacional. Informe de Avance 1. Subsecretaría de Economía - IFOP. 32 pp.+ 4 Anexos.
+
+Payá I. 2015. Estatus y posibilidades de explotación biológicamente sustentables de los principales recursos pesqueros nacionales, año 2015. Merluza del Sur. Informe de Estatus y Cuota. Subsecretaría de Economía y Empresas de menor tamaño - IFOP. 127 pp + anexos.
+
+Pelletier D, Ferraris J. 2000. A multivariate approach for defining fishing tactics from commercial catch and effort data. Can. J. Fish. Aquat. Sci. 57: 51–65.
+
+Punt AE, Walker TI, Taylor BL, Pribac F. 2000. Standardization of catch and effort data in a spatially-structured shark fishery. Fish. Res. 45: 129–145.
+
+Quiroz J.C. R, Wiff. 2012. Estatus y posibilidades de explotación biológicamente sustentables de los principales recursos pesqueros nacionales, Año 2012. Merluza del Sur. Subsecretaría de Pesca - IFOP. 86 pp + anexos.
+
+Quiroz J.C. R, Wiff y L, Chong. 2013. Estatus y posibilidades de explotación biológicamente sustentables de los principales recursos pesqueros nacionales, Año 2013. Merluza del Sur. Subsecretaría de Pesca - IFOP. 85 pp + anexos.
+
+Quiroz J.C. 2016. Estatus y posibilidades de explotación biológicamente sustentables de los principales recursos pesqueros nacionales, Año 2016. Merluza del Sur. Subsecretaría de Pesca - IFOP. 74 pp + anexos.
+
+Rubilar, P., R. Céspedes, V. Ojeda, L. Adasme, A. Cuevas, F. Cerna y G. Ojeda. 2000. Análisis de la estructura y condición biológica de los recursos merluza del sur y congrio dorado en aguas interiores de la X, XI y XII regiones. Informe final. FIP 98-02.
+
+San Martín, M., V. Escobar, C. Román, J. C. Saavedra-Nievas, Z. Young, J. Azócar, C. Bravo, J. López, C. Bernal. 2016. Convenio de Desempeño 2015 Programa de Investigación del Descarte y Captura de Pesca Incidental, año 2015. Instituto de Fomento Pesquero - Subsecretaría de Economía y EMT. 310 p + Anexos.
