@@ -227,7 +227,7 @@ La determinación del estatus de merluza del sur (Merluccius australis) se basa 
 
 Esta sección se enfoca en la actualización y consolidación de los antecedentes/datos pesqueros y biológicos disponibles para las unidades de pesquería de merluza del sur situadas al sur del paralelo 41°28,6 S. Además, se recaba y compila todos los datos referidos a parámetros de historia de vida (e.g. madurez) que permiten sustentar el modelo conceptual que subyace bajo el modelo de evaluación de stock. La escala y nivel de agregación espacial y temporal empleada en este estudio, es definida en coherencia con la información disponible, las recomendaciones de expertos y los lineamientos definidos por los Comités Científico Técnicos y la Subsecretaría de Pesca y Acuicultura. Paralelamente, en esta sección además se describen y actualizan las estimaciones de biomasa acústica realizadas por las prospecciones independientes de la pesquería, efectuadas en la zona sur-austral de Chile.
 
-i.  Información Pesquera:
+i.  [*Información Pesquera:*]{.ul}
 
 El proceso de evaluación de stock implementado incorpora explícitamente tres fuentes de información pesquera:
 
@@ -239,27 +239,27 @@ c)  Finalmente, la tercera pieza de información incorporada en el procedimiento
 
 <!-- -->
 
-ii. Información biológica:
+ii. [*Información biológica*]{.ul}
 
 El monitoreo de la pesquería de merluza del sur es realizado por el Proyecto de Investigación Situación Pesquerías de Peces Demersales y Aguas Profundas, que forma parte del Programa de Seguimiento de las Principales Pesquerías Nacionales, estudio requerido anualmente por la Subsecretaría de Pesca al Instituto de Fomento Pesquero. Este proyecto permite obtener indicadores como las estructuras de edad, claves talla-edad, composiciones de tamaños y pesos medio a la edad, los cuales conforman el núcleo principal de la información biológica empleada en el procedimiento de evaluación de stock. En este marco, y con fines de actualizar los datos de entrada al modelo de evaluación de stock, se revisaron los siguientes indicadores biológicos:
 
-a)  Captura por edad: Denominada también como composición etaria, corresponde a la expansión de la captura por flota (arrastre, palangre y artesanal), zona (norte y sur del paralelo 47°S) y sexo (machos -- hembras) mediante una clave edad-talla construida en base a lecturas de otolitos recopilados durante la temporada de pesca. La recopilación de los otolitos está basada en un diseño de muestreo estratificado por clase de tallas, que posibilita construir una matriz de información cruzada que representa la distribución de los ejemplares presentes en la captura por grupo de edad y por estrato de tamaño. A pesar de que se dispone de una estructura de edad por zona, sexo y flota, para efecto de la evaluación de stock esta información es agregada por sexo y zonas con fines de obtener una estimación global por flota para la unidad de pesquería. Esta información es empleada en el proceso de evaluación de stock a objeto de evaluar los supuestos de la mortalidad por pesca diferenciada por grupos de edad, además de entregar señales de la fuerza de las clases anuales que sustentan la fracción vulnerada por cada pesquería.
+a)  [*Captura por edad*]{.ul}: Denominada también como composición etaria, corresponde a la expansión de la captura por flota (arrastre, palangre y artesanal), zona (norte y sur del paralelo 47°S) y sexo (machos -- hembras) mediante una clave edad-talla construida en base a lecturas de otolitos recopilados durante la temporada de pesca. La recopilación de los otolitos está basada en un diseño de muestreo estratificado por clase de tallas, que posibilita construir una matriz de información cruzada que representa la distribución de los ejemplares presentes en la captura por grupo de edad y por estrato de tamaño. A pesar de que se dispone de una estructura de edad por zona, sexo y flota, para efecto de la evaluación de stock esta información es agregada por sexo y zonas con fines de obtener una estimación global por flota para la unidad de pesquería. Esta información es empleada en el proceso de evaluación de stock a objeto de evaluar los supuestos de la mortalidad por pesca diferenciada por grupos de edad, además de entregar señales de la fuerza de las clases anuales que sustentan la fracción vulnerada por cada pesquería.
 
-b)  Pesos a la edad: El crecimiento intra-anual de la merluza del sur es recogido en tres matrices de pesos medios a la edad, las que corresponden respectivamente a las estimaciones a mitad de año luego de la asignación de la edad, calculadas para las flotas de pesca de arrastre, palangre, y artesanal, respectivamente. El peso medio es empleado para generar las estimaciones de desembarques y biomasa vulnerable por cada flota, como también, la biomasa de la acústica estimada en agosto de cada año por los cruceros de prospección realizados en la zona sur-austral. Al margen de la desagregación de la información de pesos medios a la edad, el CCT-RDZSA determinó que la asesoría científica basada en el procedimiento de evaluación de stock, debe utilizar un vector de peso medio constante a través del tiempo que dé continuidad a los supuestos y criterios utilizados en asesorías previas. Esto implica que la información de las capturas a la edad y abundancia acústica a la edad se unan solo para estimar las estructuras, proporcionales a la edad. El cambio de pesos anuales o pesos fijos modifica el número de individuos capturados y la abundancia a la edad, los cuales ya no son los informados por los proyectos de seguimiento y evaluación acústica.
+b)  [*Pesos a la edad*]{.ul}: El crecimiento intra-anual de la merluza del sur es recogido en tres matrices de pesos medios a la edad, las que corresponden respectivamente a las estimaciones a mitad de año luego de la asignación de la edad, calculadas para las flotas de pesca de arrastre, palangre, y artesanal, respectivamente. El peso medio es empleado para generar las estimaciones de desembarques y biomasa vulnerable por cada flota, como también, la biomasa de la acústica estimada en agosto de cada año por los cruceros de prospección realizados en la zona sur-austral. Al margen de la desagregación de la información de pesos medios a la edad, el CCT-RDZSA determinó que la asesoría científica basada en el procedimiento de evaluación de stock, debe utilizar un vector de peso medio constante a través del tiempo que dé continuidad a los supuestos y criterios utilizados en asesorías previas. Esto implica que la información de las capturas a la edad y abundancia acústica a la edad se unan solo para estimar las estructuras, proporcionales a la edad. El cambio de pesos anuales o pesos fijos modifica el número de individuos capturados y la abundancia a la edad, los cuales ya no son los informados por los proyectos de seguimiento y evaluación acústica.
 
 <!-- -->
 
-iii. Parámetros de historia de vida:
+iii. [*Parámetros de historia de vida*]{.ul}
 
 Para la implementación del procedimiento de evaluación se recoge el conocimiento de estudios científicos y técnicos que reportan información asociada a los parámetros del ciclo vital de la especie, como la mortalidad natural, el crecimiento y madurez. De esta forma, el proyecto tiene un rol de integración del conocimiento y utiliza los productos de todos los programas y proyectos de investigación para modelar la dinámica del recurso.
 
-iv. Biomasa desovante Acústica:
+iv. [*Biomasa desovante Acústica*]{.ul}
 
 La información independiente de la pesquería utilizada en la evaluación de merluza del sur corresponde a los cruceros acústicos desarrollados durante el período de agregación reproductiva. Desde estos cruceros se obtienen las claves talla-edad necesarias para generar matrices de abundancia a la edad. Además, los cruceros reportan estimaciones de biomasa desovante para el mismo período, que para su inclusión en el modelo son considerados como valores de biomasa desovante relativa.
 
 ## 3.1.2 Estandarización CPUE de tazas de captura flota industrial
 
-i.  Intencionalidad de pesca
+i.  [*Intencionalidad de pesca*]{.ul}
 
 La pesquería industrial de merluza del sur ha operado en la zona austral de Chile (41`20’S-57`00'S) desde el año 1978. Los reportes de pesca han dejado ver desde inicios de los 80's una alta concurrencia de especies en las capturas, las que en algunos años han superado las 100 especies durante la temporada de pesca. Si bien, no más de 5 especies y grupos taxonómicos (merluza del sur, merluza de cola, congrio dorado, bacalao y condrictios) representan en promedio el 85% del total de desembarques anual, el restante 15% concurren en diferentes proporciones dependiendo del tipo de flota y la estacionalidad de las capturas. En efecto, las proporciones de especies capturadas durante un lance o viaje de pesca difieren entre tipo de flota; por ejemplo, las capturas de la flota arrastrera recurrentemente muestran un alto número de especies como fauna acompañante, aunque la importancia relativa de estas especies tiende a ser baja, en contraste, la flota palangrera tiende a capturar un menor número de especies, pero con un número importante de registros de pesca donde la concurrencia de especies no objetivo es alta.
 
@@ -283,7 +283,7 @@ Las etapas realizadas en este proceso son:
 
 En el caso de la implementación del modelo lineal generalizado, el primer paso consiste en aplicar un Modelo Aditivo Generalizado (MAG) usando como variable respuesta a la captura por unidad de esfuerzo y cuyas variables categóricas pueden ser año, mes y barco, mientras que la profundidad, latitud y longitud pueden ser asumidas como variables continuas. Esto permite obtener una aproximación a los coeficientes para posteriormente incorporar los niveles Cluster (intencionalidad de pesca) en un predictor de un modelo lineal para la CPUE.
 
-ii. Proceso de estandarización
+ii. [*Proceso de estandarización*]{.ul}
 
 La captura por unidad de esfuerzo (CPUE) es ampliamente usada como índice de abundancia relativa en muchas pesquerías del mundo. Las variaciones de este índice, se asocian principalmente a las características y composición de la flota, así como a factores de tipo ambiental. Aquí se presenta la estandarización de las tasas de captura en la pesquería de merluza del sur, usando la información proveniente de las bitácoras de pesca entre los años 1979 y 2019 para el arrastre, 1987 a 2019 para palangre. Se utilizaron modelos lineales generalizados (MLG), técnica que ha sido el método más utilizado en la estandarización de CPUE (Punt et al., 2000). Este método permite realizar interacciones entre las variables explicatorias en la CPUE, así como explorar distintas distribuciones de error mediante la utilización de la verosimilitud en el ajuste del modelo (McCullagh y Nelder, 1989). Bajo este enfoque, el modelo general para la determinación de la CPUE es:
 
@@ -303,7 +303,7 @@ El modelo poblacional de merluza del sur asume que en aguas chilenas existe un �
 
 Durante la implementación del modelo poblacional de merluza del sur, se consideran elementos de incertidumbre estructural basados en el nivel de conocimiento y de la información o datos disponible, así como la incertidumbre de estimación generada de su aplicación al conjunto de datos disponibles. En este sentido, el modelo de evaluación de stock de merluza del sur se basa en el análisis estadístico de la dinámica de estructuras de edad anual y pesos medios a la edad, por medio de los siguientes componentes:
 
-**Condiciones Iniciales**
+[*i. Condiciones Iniciales*]{.ul}
 
 Se asume que la población de merluza del sur al comienzo del año 1977 se encontraba en una condición de equilibrio libre de pesca. Bajo este supuesto, el reclutamiento del año 1977 corresponde a un reclutamiento virginal (Ro) consistente con una biomasa desovante virginal (So), mientras que en posteriores años (\>1977) es dependiente de una relación stock-recluta Beverton-Holt (función de la BD, Bo, Ro y h) perturbada por desviaciones obtenidas desde una distribución de probabilidad normal. Si bien, este supuesto simplifica la estructura del modelo, es un escenario altamente probable para la población de merluza del sur. De esta forma, el número de ejemplares de edad a, al comienzo del año 1977 es definida como,
 
@@ -311,7 +311,7 @@ La biomasa desovante virginal (en número) es obtenida como,
 
 donde y corresponden a la proporción de hembras maduras y pesos medios a la edad a, respectivamente.
 
-**Reclutamiento**
+[*ii. Reclutamiento*]{.ul}
 
 Con objeto de estimar los reclutamientos (especificados a la edad 1), se utilizó el modelo stock-recluta de Beverton-Holt con una estructura de error lognormal, que incorpora un término de varianza que soslaya el sesgo durante la trasformación a escala real,
 
@@ -319,7 +319,7 @@ donde es la biomasa desovante en el año t, es la desviación del reclutamiento 
 
 donde h es un parámetro que define la fuerza de la densodependencia, es la biomasa desovante virginal, y es el reclutamiento promedio producido cuando la poblacional se encontraba en equilibrio libre de pesca (reclutamiento virginal). El término h, definido como el parámetro de escarpamiento, representa el nivel de reclutamiento relativo al reclutamiento virginal, que ocurre cuando la biomasa desovante ha sido reducida a un 20% de su nivel virginal. Al igual que en la última evaluación se supuso h igual a 0,5. Como base estructural se continúa utilizando la biomasa desovante como predictor de los reclutamientos, que y es calculada en septiembre de cada año por la siguiente expresión:
 
-**Evolución temporal de cohortes**
+[*iii. Evolución temporal de cohortes*]{.ul}
 
 La abundancia de merluza del sur a la edad a al tiempo t, es modelada por
 
@@ -327,13 +327,13 @@ tal que,
 
 donde M es la tasa instantánea de mortalidad natural para la edad a al tiempo t, m es el grupo plus y Z\_(a,t) es la mortalidad total edad-específica. En este sentido, se plantea que la dinámica poblacional de la abundancia N\_(a,t) a la edad a al tiempo t, puede ser representada por un modelo de sobrevivencia donde las mortalidades por pesca anuales, F_t\^g, para cada flota de pesca g, son aplicadas en forma continua durante la estación de pesca para cada edad a de acuerdo a una ojiva de selectividad S_a\^g.
 
-**Selectividades**
+[*iv. Selectividades*]{.ul}
 
 La curva de selectividad implementada en el modelo para las flotas arrastre, espinelera y palangrera, como también en los cruceros, corresponde a una función doble-normal definida para todo el rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad (k) y las varianzas del lado derecho e izquierdo de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como,
 
 La curva de selectividad es asintótica cuando la varianza derecha tiene a valores altos y conforma una curva tipo domo cuando adopta valores bajos. Se considera constante entre años tanto a nivel de parámetros de posición (edad al 50% de explotación) como de dispersión (pendiente de la curvatura). Las justificaciones para este supuesto se basan en la poca variabilidad que presentan las composiciones de edades de las capturas y en menor grado en los cruceros, como también a que en esta pesquería no se conocen procesos de escape significativos de individuos longevos fuera de la zona donde opera la pesquería en el caso de curvas de selectividad asintóticas.
 
-**Valores Predichos**
+[*v. Valores Predichos*]{.ul}
 
 Los índices anuales de abundancia relativa para cada flota g, incluyendo las estimaciones de los cruceros hidroacústicos, se asumen proporcional a la biomasa vulnerable estimada a mitad del año, según,
 
@@ -345,13 +345,17 @@ La proporción de edad observada de las flotas de pesca y los cruceros (p donde 
 
 El desembarque anual por flota, , es modelado asumiendo un error de observación en el proceso de pesca, de esta forma, los desembarques son estimados como:
 
-Las capturas totales incorporadas en el modelo, corresponden a los niveles de desembarques anuales realizados por las flotas de pesca industrial (arrastre y palangre) y artesanal (espinel). Bondad de ajuste y consistencia del modelo de evaluación de stock Con el fin de asegurar la aplicación del mejor modelo de evaluación, así como su pertinencia, consistencia e incertidumbre resultante, se consideró los siguientes procedimientos:
+Las capturas totales incorporadas en el modelo, corresponden a los niveles de desembarques anuales realizados por las flotas de pesca industrial (arrastre y palangre) y artesanal (espinel).
 
-Se prueba la consistencia de la evaluación mediante análisis retrospectivos, sobre la base del mismo conjunto de datos empleados.
+[*iv. Bondad de ajuste y consistencia del modelo de evaluación de stock*]{.ul}
 
-Se presenta gráficamente el ajuste del modelo a los datos y la bondad de ajuste de los diferentes modelos empleados, cuando corresponda. Lo anterior se acompañará con análisis de residuales de las principales fuentes de datos.
+Con el fin de asegurar la aplicación del mejor modelo de evaluación, así como su pertinencia, consistencia e incertidumbre resultante, se consideró los siguientes procedimientos:
 
-Se incluye la comparación de resultados con versiones anteriores u otros modelos para evaluar la consistencia de la evaluación presente (análisis retrospectivo empírico).
+-   Se prueba la consistencia de la evaluación mediante análisis retrospectivos, sobre la base del mismo conjunto de datos empleados.
+
+-   Se presenta gráficamente el ajuste del modelo a los datos y la bondad de ajuste de los diferentes modelos empleados, cuando corresponda. Lo anterior se acompañará con análisis de residuales de las principales fuentes de datos.
+
+-   Se incluye la comparación de resultados con versiones anteriores u otros modelos para evaluar la consistencia de la evaluación presente (análisis retrospectivo empírico).
 
 Sobre la base de estos análisis, se identifica las oportunidades de mejoras en la implementación del procedimiento de evaluación, los vacíos de conocimiento y de información, entre otros.
 
@@ -407,7 +411,7 @@ es decir, la biomasa desovante virginal reducida a un 40%. Donde RMS y F_RMS rep
 
 \small \textbf{Figura 1}. Sistema de niveles para la determinación de los PBRs de acuerdo a la cantidad, tipo y la calidad de la información disponible y, métodos de evaluación de stock empleados en cada pesquería. \vspace{0.5cm} \normalsize
 ```
-Estimación de F\_{RMS}
+i\. [*Estimación de F\_{RMS}*]{.ul}
 
 Frente a la incertidumbre en la relación stock-recluta en merluza del sur, la determinación de FRMS está basado en el análisis de biomasa desovante por recluta que describen el cambio de la biomasa de una cohorte o clase anual por efectos de la mortalidad natural y la pesca. La biomasa adulta o desovante por recluta (bdpr) es obtenida como función de la mortalidad por pesca (F), y en esta curva es factible identificar el nivel de referencia biológico F\_(45%bdpr) que se supone debería minimizar el impacto de la pesca sobre el stock, permitiendo el escape en torno al 45% respecto del valor que existiría en ausencia de explotación pesquera. La estimación de esta curva y su valor de referencia (45%bdpr) se obtiene por medio de la dinámica de la abundancia en equilibrio definida como,
 
@@ -417,15 +421,15 @@ Basada en esta abundancia, la biomasa desovante por recluta se define como,
 
 donde dt es la fracción del año donde ocurre el desove (agosto), ma es la fracción de peces maduros a la edad y es el peso medio a la edad. Con el objeto de resolver el parámetro F_RMS=F\_(45%bdpr) se utilizó la siguiente función objetivo
 
-Diagrama de fases de explotación
+ii\. [*Diagrama de fases de explotación*]{.ul}
 
 El estado del recurso se estableció en base a la posición relativa de la mortalidad por pesca y biomasa desovante versus los puntos biológicos de referencia basado en el rendimiento máximo sostenible (RMS), tales como, FRMS y BDRMS. De este modo se obtienen los indicadores del estatus (F/FRMS y BD/BDRMS) que permiten construir un diagrama de fase, donde los puntos de referencia biológicos se muestran en las líneas verticales y horizontales en x=1 e y=1. Las líneas verticales indican la biomasa desovante en el rendimiento máximo sostenible (BDRMS), bajo el cual el recurso califica en sobreexplotación y biomasa desovante límite (BDLIM) bajo el cual una pesquería califica de agotada y/o colapsada y la línea horizontal el punto de referencia correspondiente a la mortalidad por pesca en el rendimiento máximo sostenible (FRMS), sobre la cual el recurso califica en sobreexplotación. La Figura 2 muestra el diagrama de fase definido por el CCT-RDZSA para la pesquería de merluza del sur.
 
 El estado de la pesquería en Plena Explotación se define en la Ley de Pesca como "un nivel en el que el punto biológico ha alcanzado o está a su máximo rendimiento sostenido". Debido a la variabilidad natural en las condiciones ecológicas y ambientales, FRMS no es estática, pero fluctuará alrededor de BDRMS. Para reconocer esta variabilidad, una definición operativa para la región de Plena Explotación se define que se extiende a ambos lados de los puntos de referencia de RMS. A continuación, se describen los umbrales para la definición de estatus en merluza del sur:
 
-Sobrepesca: Este Comité consideró necesario diferenciar al interior de la zona de sobreexplotación definida por la LGPA, el área de sobrepesca, con el objeto de aplicar las medidas de Administración más acordes con dicha condición. En tal sentido, la sobrepesca ocurriría cuando la mortalidad por pesca F (variable de flujo y de control) exceda un valor considerado umbral o límite, que en este caso corresponde al valor superior en mortalidad por pesca (valor relativo al objetivo) de la zona de plena explotación.
+[*Sobrepesca*]{.ul}: Este Comité consideró necesario diferenciar al interior de la zona de sobreexplotación definida por la LGPA, el área de sobrepesca, con el objeto de aplicar las medidas de Administración más acordes con dicha condición. En tal sentido, la sobrepesca ocurriría cuando la mortalidad por pesca F (variable de flujo y de control) exceda un valor considerado umbral o límite, que en este caso corresponde al valor superior en mortalidad por pesca (valor relativo al objetivo) de la zona de plena explotación.
 
-Sobreexplotado: En correspondencia con la definición anterior, la sobreexplotación ocurriría cuando la biomasa (variable de estado) cae bajo un valor umbral o límite, correspondiendo éste al valor inferior en biomasa (valor relativo al objetivo) de la zona de plena explotación.
+[*Sobreexplotado*]{.ul}: En correspondencia con la definición anterior, la sobreexplotación ocurriría cuando la biomasa (variable de estado) cae bajo un valor umbral o límite, correspondiendo éste al valor inferior en biomasa (valor relativo al objetivo) de la zona de plena explotación.
 
 ```{=tex}
 \begin{center}
@@ -742,40 +746,40 @@ Las estimaciones de la captura total (y sus fracciones retenida y descartada y c
 \vspace{0.5cm}
 \small \textbf{Tabla 4}    Estimaciones de captura descartada, retenida y total de las principales especies en la flota de arrastre hielero pesquería demersal austral. Año 2015. \vspace{0.1cm} \normalsize
 ```
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Especie         | Cap. Retenida (t) | Cap. Descartada (t) | Cap. total (t) | %Descarte/Cap. descartada | %Descarte/Cap. total |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Jibia           | \-                | 823                 | 829            | 43.7                      | 9.9                  |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Merluza de cola | 3680              | 666                 | 4346           | 35.1                      | 7.9                  |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Merluza del sur | 2319              | 325                 | 2645           | 17.2                      | 3.9                  |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Otras especies  | 514               | 75                  | 589            | 3.9                       | 0.9                  |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-|                 | 6514              | 1895                | 8409           | 100                       | 22.5                 |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Kmsur=          | 1.14107           |                     |                |                           |                      |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+| Especie         | Cap. retenida (t) | Cap. descartada (t) | Cap. total (t) | %descarte/cap. descartada  | %descarte/cap. total |
++=================+===================+=====================+================+============================+======================+
+| Jibia           | -                 | 823                 | 829            | 43.7                       | 9.9                  |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+| Merluza de cola | 3680              | 666                 | 4346           | 35.1                       | 7.9                  |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+| Merluza del sur | 2319              | 325                 | 2645           | 17.2                       | 3.9                  |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+| Otras especies  | 514               | 75                  | 589            | 3.9 \|                     | 0.9                  |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+|                 | 6514              | 1895                | 8409           | 100 \|                     | 22.5                 |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
+| Kmsur=          | 1.14107           |                     |                |                          | |                      |
++-----------------+-------------------+---------------------+----------------+----------------------------+----------------------+
 
 ```{=tex}
 \vspace{0.5cm}
 \small \textbf{Tabla 5}    Estimaciones de captura descartada, retenida y total de las principales especies en la flota de arrastre hielero pesquería demersal austral. Año 2016. \vspace{0.1cm} \normalsize
 ```
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Especie         | Cap. Retenida (t) | Cap. Descartada (t) | Cap. total (t) | %Descarte/Cap. descartada | %Descarte/Cap. total |
+| Especie         | Cap. retenida (t) | Cap. descartada (t) | Cap. total (t) | %descarte/cap. descartada | %descarte/cap. total |
++=================+===================+=====================+================+===========================+======================+
+| Jibia           | -                 | 927                 | 927            | 58.9                      | 8.1                  |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Jibia           | \-                | 823                 | 829            | 43.7                      | 9.9                  |
+| Merluza de cola | 7064              | 442                 | 7505           | 28.0                      | 3.9                  |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Merluza de cola | 3680              | 666                 | 4346           | 35.1                      | 7.9                  |
+| Merluza del sur | 2371              | 79                  | 2450           | 5.0                       | 0.7                  |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Merluza del sur | 2319              | 325                 | 2645           | 17.2                      | 3.9                  |
+| Otras especies  | 444               | 128                 | 572            | 8.1                       | 1.1                  |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Otras especies  | 514               | 75                  | 589            | 3.9                       | 0.9                  |
+|                 | 9879              | 1576                | 11455          | 100                       | 13.8                 |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-|                 | 6514              | 1895                | 8409           | 100                       | 22.5                 |
-+-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
-| Kmsur=          | 1.14107           |                     |                |                           |                      |
+| Kmsur=          | 1.033319          |                     |                |                           |                      |
 +-----------------+-------------------+---------------------+----------------+---------------------------+----------------------+
 
 b)  Estructura de edades de las capturas comerciales
@@ -810,23 +814,18 @@ Para el espinel la información disponible contempló los períodos 1987-1988, 1
 
 \small \textbf{Figura 6}. Gráfico de burbujas de la proporción de las edades en la captura de la flota artesanal período 1987-2019. La línea verde representa la edad media de la captura por año. \vspace{0.5cm} \normalsize
 ```
-
 c)  Actualización de los cruceros hidroacústicos
 
-Biomasa disponible en la zona de desove
+[*Biomasa disponible en la zona de desove*]{.ul}
 
 La información independiente de la pesquería utilizada en la evaluación de merluza del sur corresponde a los cruceros acústicos desarrollados durante el período de agregación reproductiva. Desde estos cruceros se obtienen las claves talla-edad necesarias para generar matrices de abundancia a la edad, las cuales son incluidas en el modelo de evaluación para el período 2000-2019. Además, los cruceros reportan estimaciones de biomasa desovante para el mismo período, que para su inclusión en el modelo son considerados como valores de biomasa relativa adulta.
 
-Los cambios interanuales en la serie de biomasas acústicas sugieren una reducción desde inicios de la serie para luego mantenerse relativamente estables durante el período 2010-2015, la abundancia indica una tendencia similar para el mismo periodo (Tabla 6 y Figura 7) con aumentos considerables para los últimos dos años de prospección. La biomasa y la abundancia tienen tendencias decrecientes muy similares, excepto en los años 2008 y 2013, cuando los pesos promedios fueron menores debido a la mayor presencia de peces de menores edades. Para los años 2014 al 2019 la biomasa de merluza del sur presentó un aumento, aunque este último año el peso medio fue menor que en años anteriores (2587 g), se estimó una biomasa de 131433 toneladas. 
-
+Los cambios interanuales en la serie de biomasas acústicas sugieren una reducción desde inicios de la serie para luego mantenerse relativamente estables durante el período 2010-2015, la abundancia indica una tendencia similar para el mismo periodo (Tabla 6 y Figura 7) con aumentos considerables para los últimos dos años de prospección. La biomasa y la abundancia tienen tendencias decrecientes muy similares, excepto en los años 2008 y 2013, cuando los pesos promedios fueron menores debido a la mayor presencia de peces de menores edades. Para los años 2014 al 2019 la biomasa de merluza del sur presentó un aumento, aunque este último año el peso medio fue menor que en años anteriores (2587 g), se estimó una biomasa de 131433 toneladas.
 
 ```{=tex}
 \vspace{0.5cm}
 \small \textbf{Tabla 6}    Estimaciones del tamaño del stock (geoestadístico) en términos de biomasa (t) y abundancia (millones), y pesos promedios estimados en los cruceros hidroacústicos durante el período 2000-2019. \vspace{0.1cm} \normalsize
 ```
-
-
-
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_7.png}
@@ -834,7 +833,7 @@ Los cambios interanuales en la serie de biomasas acústicas sugieren una reducci
 
 \small \textbf{Figura 7}. Biomasa miles de toneladas y abundancia estimada en la zona de desove mediante acústica entre el período 2000-2019. \vspace{0.5cm} \normalsize
 ```
-Estructura de edades del crucero
+[*Estructura de edades del crucero*]{.ul}
 
 Con el fin de incluir solo la biomasa adulta del crucero acústico, desde la asesoría año 2018, se utilizan las ojivas de madurez macroscópicas de machos y hembras de cada año para el periodo 2000-2019 eliminando la alta abundancia de ejemplares juveniles detectados durante los últimos 3 años. La distribución de la abundancia adulta por edades se ha mantenido relativamente estable entre los 13 y 16 años Figura 8 (línea verde).
 
@@ -853,7 +852,33 @@ a)  Estandarización CPUE arrastre
 
 La base de datos proviene de las bitácoras de pesca de arrastre y bitácoras de viajes pesca de IFOP, las que abarcan el período 1979-2019. En la Tabla 7 se presenta el número de lances totales que se utilizaron para el análisis. Desde inicios de la serie se presenta un valor en torno a los 1000 registros anuales hasta el año 1998, donde los registros aumentan a 6544. Posterior a esto, se observa un período en torno a los 3500 registros (2004-2012), los años 2013-2015 presentan el número de registros más bajo de toda la serie para aumentar en torno a los 3 mil registros en los últimos años. El número total de registros para el período es de 91439 lances. La estandarización se realiza considerando dos períodos, el primero abarca desde 1979 hasta 1997 y el segundo desde 1998 hasta 2018.
 
-Tabla 7 Número de lances utilizados en la estandarización de CPUE por año, período 1979-2019.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 7}    Número de lances utilizados en la estandarización de CPUE por año, período 1979-2019. \vspace{0.1cm} \normalsize
+```
+| Año  | Número de lances | Año  | Número de lances |
+|------|------------------|------|------------------|
+| 1979 | 501              | 2000 | 3393             |
+| 1980 | 589              | 2001 | 4236             |
+| 1981 | 827              | 2002 | 3301             |
+| 1982 | 878              | 2003 | 2407             |
+| 1983 | 812              | 2004 | 3699             |
+| 1984 | 1003             | 2005 | 3279             |
+| 1985 | 1037             | 2006 | 3572             |
+| 1986 | 1008             | 2007 | 3299             |
+| 1987 | 837              | 2008 | 3404             |
+| 1988 | 1097             | 2009 | 3656             |
+| 1989 | 1185             | 2010 | 4069             |
+| 1990 | 1290             | 2011 | 3316             |
+| 1991 | 721              | 2012 | 3051             |
+| 1992 | 1166             | 2013 | 1751             |
+| 1993 | 1106             | 2014 | 1732             |
+| 1994 | 1235             | 2015 | 1640             |
+| 1995 | 1149             | 2016 | 3028             |
+| 1996 | 834              | 2017 | 3541             |
+| 1997 | 933              | 2018 | 2728             |
+| 1998 | 6544             | 2019 | 2581             |
+| 1999 | 5004             |      |                  |
 
 La Figura 9 contiene el histograma de los rendimientos de pesca (CPUE) y el logaritmo de la CPUE incluyendo los 18208 lances para el período 1 (1979-1997) y 73231 lances para el período 2 (1998-2019). El valor en logaritmo presenta la condición de normalidad necesaria para la estandarización del rendimiento. Esta variable se mide en kilógramos por horas de arrastre (kg/h.a.).
 
@@ -882,7 +907,19 @@ Para incorporar la intencionalidad de pesca como un predictor en los modelos lin
 
 \small \textbf{Figura 11}. Análisis de componentes principales de la matriz de proporciones para el arrastre, período 2 (1998-2019). \vspace{0.5cm} \normalsize
 ```
-Finalmente, se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la Tabla 8. La estandarización de la CPUE utiliza la táctica de pesca como variables categóricas en el modelo lineal generalizado. Tabla 8 Número de lances incorporados en cada cluster para el período 1 (1979-1997) y período 2 (1998-2019).
+Finalmente, se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la Tabla 8. La estandarización de la CPUE utiliza la táctica de pesca como variables categóricas en el modelo lineal generalizado.
+
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 8}    Número de lances incorporados en cada cluster para el período 1 (1979-1997) y período 2 (1998-2019). \vspace{0.1cm} \normalsize
+```
+| Cluster | N lances periodo 1 | N lances periodo 2 |
+|---------|--------------------|--------------------|
+| 1       | 4558               | 19895              |
+| 2       | 3372               | 26908              |
+| 3       | 5244               | 14648              |
+| 4       | 2958               | 11811              |
+| 5       | 2076               | \-                 |
 
 Este arte de pesca se caracteriza por presentar un gran número de especies, pero la mayoría con bajos porcentajes en cuanto a representatividad según la Figura 12 y 13. En el período 1 la especie predominante en el cluster uno corresponde a merluza del sur, el cluster dos presenta un mix de especies, el tres se caracteriza por presentar aproximadamente un 50% de merluza del sur y por último el cluster cuatro y cinco con una mayor proporción de merluza de cola y congrio respectivamente (Figura 12).
 
@@ -920,11 +957,47 @@ Las Figuras 14 y 15 confirman los resultados anteriormente descritos, la Figura 
 ```
 Para la estandarización de la CPUE en el período 1 se implementaron cinco modelos, incorporando como factores el año, mes, buque, zona y cluster. En la Tabla 9 se presentan los estadísticos para cada modelo, siendo en primer lugar el factor año el que explica un mayor porcentaje de la devianza (26-33%), seguido por el factor mes y cluster y por último el factor zona. El modelo que explica un mayor porcentaje de la devianza total corresponde a mod1 (67%).
 
-\small \\textbf{Tabla 9} Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 1 (1979-1997). \vspace{0.1cm} \normalsize
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 9}    Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 1 (1979-1997). \vspace{0.1cm} \normalsize
+```
++------------------+---------+---------+---------+---------+---------+
+| Factor           | Mod0    | Mod1    | Mod2    | Mod3    | Mod4    |
++==================+=========+=========+=========+=========+=========+
+| Año lance        | 0.33    | 0.26    | 0.26    | 0.23    | 0.26    |
++------------------+---------+---------+---------+---------+---------+
+| Mes_lance        | 0.14    | 0.15    | 0.13    | 0.15    | 0.13    |
++------------------+---------+---------+---------+---------+---------+
+| Cluster          | \-      | 0.12    | 0.08    | 0.12    | 0.08    |
++------------------+---------+---------+---------+---------+---------+
+| Zona             | 0.03    | 0.03    | 0.03    | 0.04    | 0.03    |
++------------------+---------+---------+---------+---------+---------+
+| Barco            | 0.12    | 0.10    | 0.11    | 0.12    | 0.11    |
++------------------+---------+---------+---------+---------+---------+
+| Mes_lance\*Buque | \-      | \-      | 0.05    | \-      | \-      |
++------------------+---------+---------+---------+---------+---------+
+| Dev. Explicada % | 63      | 67      | 66      | 66      | 61      |
++------------------+---------+---------+---------+---------+---------+
+| Dev. Residual    | 101059  | 151051  | 128872  | 184751  | 128872  |
++------------------+---------+---------+---------+---------+---------+
 
 Para el período 2 se implementaron 4 modelos, incorporando como factores el año, mes, zona y cluster. En la Tabla 10 se presentan los estadísticos para cada modelo, siendo en primer lugar el factor cluster el que explica un mayor porcentaje de la devianza para todos los casos (entre un 13 y 18%), seguido por el factor mes (8 -- 8.7%) y por último el factor zona. El modelo que explica un mayor porcentaje de la devianza total corresponde a mod0 (39.7%) seguido de mod3 (35.2%).
 
-Tabla 10 Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 2 (1998-2019).
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 10}    Estadísticos de los modelos lineales con su respectiva devianza explicada en porcentaje, período 2 (1998-2019). \vspace{0.1cm} \normalsize
+```
+| Factor             | Mod0   | Mod1   | Mod2   | Mod3   |
+|--------------------|--------|--------|--------|--------|
+| Año lance          | 5.7    | 4.7    | 4.7    | 4.7    |
+| Mes lance          | 8.0    | 8.7    | 8.7    | 8.7    |
+| Buque              | 2.5    | 2.9    | 2.9    | 2.9    |
+| Zona               | 5.6    | 2.8    | 2.8    | 0.4    |
+| Cluster            | 17.8   | 13.7   | 13.7   | 16.1   |
+| Cluster: Zona      | \-     | \-     | 1.0    | 0.9    |
+| Mes lance: Cluster | \-     | \-     | \-     | 1.5    |
+| Dev. Explicada %   | 39.7   | 32.8   | 33.7   | 35.2   |
+| Dev. Residual      | 174607 | 135688 | 135688 | 135688 |
 
 En la Figura 16 se presenta la CPUE estandarizada para la flota arrastrera período 1 para los 5 modelos probados Mod0, Mod1, Mod2, Mod3, Mod4 y la CPUE promedio sin estandarizar en línea celeste. Las CPUE´s escaladas de cada modelo presentan la misma tendencia que la CPUE promedio anual evidenciando una progresiva disminución desde inicios del periodo hasta el año 1995 donde se comienza a observar un leve aumento.
 
@@ -948,9 +1021,54 @@ b)  Estandarización CPUE palangre
 
 La captura por unidad de esfuerzo (CPUE) en el palangre fue medida en kilógramos por número de anzuelo por hora de reposo (kg/(nanz\*h.r.)). La base de datos utilizada comprende dos períodos 1987- 1997 y 1998-2018. En las Tablas 11 y 12 se presenta el número de registros por año y por pesquería, posterior a los filtros realizados a la base de datos. El período 1 cuenta con 20722 registros mientras que el período 2 con 15738. Las pesquerías dirigidas a merluza del sur corresponden a la número 5 (IFOP) y número 92 (SERNAP) y las pesquerías número 11 y 91 corresponden a palangre fábrica bacalao IFOP y SERNAP respectivamente.
 
-Tabla 11 Número de registros de la flota palangrera para el período 1 (1987-1997) por año y por pesquería 5= flota merlucera (IFOP), 10= palangre hielero (IFOP) y 11=palangre fábrica (IFOP).
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 11}    Número de registros de la flota palangrera para el período 1 (1987-1997) por año y por pesquería 5= flota merlucera (IFOP), 10= palangre hielero (IFOP) y 11=palangre fábrica (IFOP). \vspace{0.1cm} \normalsize
+```
+| Año       | Pesquería 5 | Pesquería 10 | Pesquería 11 |
+|-----------|-------------|--------------|--------------|
+| **1987**  | 650         | 27           | \-           |
+| **1988**  | 932         | 79           | \-           |
+| **1989**  | 1441        | 881          | \-           |
+| **1990**  | 3656        | 897          | \-           |
+| **1991**  | 2269        | 1192         | \-           |
+| **1992**  | 1734        | 867          | 2            |
+| **1993**  | 1615        | 313          | 8            |
+| **1994**  | 1245        | 110          | 25           |
+| **1995**  | 1196        | \-           | 38           |
+| **1996**  | 998         | 8            | 5            |
+| **1997**  | 497         | 7            | 30           |
+| **Total** | 16233       | 4381         | 108          |
 
-Tabla 12 Número de registros para la flota palangrera para el período 2 (1998-2019) por año y por pesquería, 5=Palangre fábrica merlucero (IFOP), 11= Palangre fábrica bacalao (IFOP), 91= Palangre fábrica bacalao (SERNAP) y 92= Palangre fábrica merlucero (SERNAP).
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 12}    Número de registros para la flota palangrera para el período 2 (1998-2019) por año y por pesquería, 5=Palangre fábrica merlucero (IFOP), 11= Palangre fábrica bacalao (IFOP), 91= Palangre fábrica bacalao (SERNAP) y 92= Palangre fábrica merlucero (SERNAP). \vspace{0.1cm} \normalsize
+```
+| Año       | Pesquería 5 | Pesquería 11 | Pesquería 91 | Pesquería 92 |
+|-----------|-------------|--------------|--------------|--------------|
+| **1998**  | 241         | 4            | 6            | 478          |
+| **1999**  | 164         | \-           | 73           | 423          |
+| **2000**  | 163         | 22           | 71           | 523          |
+| **2001**  | 288         | \-           | 119          | 530          |
+| **2002**  | 114         | 41           | 73           | 643          |
+| **2003**  | 196         | 10           | 98           | 819          |
+| **2004**  | 234         | \-           | 120          | 815          |
+| **2005**  | 89          | \-           | 63           | 1013         |
+| **2006**  | 238         | 18           | 26           | 962          |
+| **2007**  | 193         | \-           | 44           | 918          |
+| **2008**  | 94          | 43           | 8            | 744          |
+| **2009**  | 233         | 41           | 46           | 695          |
+| **2010**  | 214         | \-           | \-           | 574          |
+| **2011**  | 164         | \-           | \-           | 324          |
+| **2012**  | 134         | \-           | 1            | 516          |
+| **2013**  | 76          | 1            | 19           | 452          |
+| **2014**  | 58          | 50           | \-           | 44           |
+| **015**   | 210         | \-           | \-           | 70           |
+| **2016**  | 270         | \-           | \-           | \-           |
+| **2017**  | 243         | 9            | \-           | 211          |
+| **2018**  | 144         | \-           | \-           | 225          |
+| **2019**  | 306         | 1            | 1            | \-           |
+| **Total** | 4066        | 240          | 768          | 10979        |
 
 La Figura 18 contiene el histograma de los rendimientos de pesca (CPUE) y el logaritmo de la CPUE para ambos períodos. El valor en logaritmo presenta la condición de normalidad necesaria para la estandarización del rendimiento. Esta variable se mide en kilógramos por número de anzuelo por hora de reposo (kg/(nanz\*h.r.)).
 
@@ -983,7 +1101,21 @@ Al igual que en el arrastre, se construyeron matrices con composición de captur
 ```
 Luego se construyó el dendrograma y se recuperaron los datos originales (lances de pesca) reducidos en las etapas anteriores para asignarlos a un cluster o táctica de pesca determinado, obteniendo un set de datos con el número de cluster y la proporción de especies correspondiente, el número de registros utilizados finalmente en cada cluster se presenta en la **Tabla 13.**
 
-Tabla 13 Número de lances incorporados en cada cluster.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 13}    Número de lances incorporados en cada cluster. \vspace{0.1cm} \normalsize
+```
++---------+--------------------+--------------------+
+| Cluster | N lances periodo 1 | N lances periodo 2 |
++=========+====================+====================+
+| 1       | 9050               | 3039               |
++---------+--------------------+--------------------+
+| 2       | 8737               | 2543               |
++---------+--------------------+--------------------+
+| 3       | 2935               | 8499               |
+|         |                    |                    |
+| 4       | \-                 | 1972               |
++---------+--------------------+--------------------+
 
 Contrario a lo obtenido en la flota arrastrera, donde pocos cluster contienen proporciones elevadas de captura de merluza del sur, aquí se observan cluster con mix de especies, la flota palangrera concentra las mayores proporciones de captura en más de un cluster, por ejemplo, la Figura 21 contiene la proporción de especies por cluster para el período 1, en donde se observa presencia importante de merluza del sur en los cluster 1 y 2 dejando en el cluster 3 mayor participación de congrio. Para el período dos (Figura 22) se observan 4 cluster en donde existe una importante presencia de merluza en los cluster 1, 3 y 4.
 
@@ -1025,9 +1157,36 @@ El análisis de varianza de los predictores para el período 1 (1979-1997) indic
 
 El período dos (1998-2019) presenta resultados similares en donde el predictor cluster alcanza un 35.3% de la devianza explicada. Esto sugiere que el predictor "táctica de pesca" es adecuado para construir una serie de CPUE objetiva en una pesquería multi específica, filtrando adecuadamente la intencionalidad de pesca. En segundo lugar, encontramos el factor mes que explica entre un 9.2 y 15.7%. El modelo que explica un mayor porcentaje de la devianza total corresponde al modelo 1 (61.1%) seguido del mod2 (51%).
 
-Tabla 14 Estadísticos de los modelos lineales para el período 1 (1979-1997) con su respectiva devianza explicada en porcentaje.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 14}    Estadísticos de los modelos lineales para el período 1 (1979-1997) con su respectiva devianza explicada en porcentaje. \vspace{0.1cm} \normalsize
+```
+| Factor           | Mod0    | Mod1    | Mod2   | Mod3   |
+|------------------|---------|---------|--------|--------|
+| Año lance        | 0.12    | 0.12    | 0.18   | 0.18   |
+| Mes_lance        | 0.01    | 0.01    | 0.02   | 0.02   |
+| Cluster          | 0.12    | 0.19    | \-     | 0.01   |
+| Zona             | 0       | 0       | 0      | 0      |
+| Barco            | 0.13    | 0.13    | 0.14   | 0.14   |
+| Dev. Explicada % | 37      | 44      | 34     | 35     |
+| Dev. Residual    | 12832.1 | 12832.1 | 3955.1 | 3955.1 |
 
-Tabla 15 Estadísticos de los modelos lineales para el período 2 (1998-2019) con su respectiva devianza explicada en porcentaje.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 15}    Estadísticos de los modelos lineales para el período 2 (1998-2019) con su respectiva devianza explicada en porcentaje. \vspace{0.1cm} \normalsize
+```
+| Factor             | Mod0  | Mod1  | Mod2  | Mod3  |
+|--------------------|-------|-------|-------|-------|
+| Año lance          | 8.2   | 8.2   | 6.1   | 6.1   |
+| Mes_lance          | 15.7  | 15.7  | 9.2   | 9.2   |
+| Cluster            | \-    | 34.9  | 35.3  | 33.8  |
+| Zona               | 0.0   | 0.2   | 0.5   | 2.0   |
+| Pesquería          | 0.1   | \-    | \-    | \-    |
+| Barco              | 2.3   | 2.1   | \-    | \-    |
+| Cluster: Zona      | \-    | \-    | \-    | 1.0   |
+| Mes lance: Cluster | \-    | \-    | \-    | 1.0   |
+| Dev. Explicada %   | 26.3  | 61.1  | 51.0  | 49.9  |
+| Dev. Residual      | 26603 | 26603 | 18875 | 18875 |
 
 La CPUE estandarizada para la flota palangrera se presenta en la **Figura 25** y **26**. El período 1 considera los 4 modelos utilizados Mod0, Mod1, Mod2, Mod3, en línea continua celeste se muestra la CPUE promedio sin estandarizar. Para el período 2, la Figura 26 incluye la CPUE de los modelos utilizados en líneas segmentadas, la CPUE promedio sin estandarizar en línea continua roja y la CPUE estandarizada estimada el año anterior en línea continua amarilla (informe de estatus 2018).
 
@@ -1065,7 +1224,55 @@ Arrastre (1977-2019). Palangre (1987-2019). Artesanal (1981-2019).
 
 La **Tabla 16** contiene los valores del coeficiente de variación utilizado para los índices de abundancia provenientes de las flotas de arrastre, palangre, artesanal y crucero acústico.
 
-Tabla 16 Coeficientes de variación para el índice de abundancia CPUE utilizados para las flotas de arrastre, palangre, artesanal y crucero acústico Modelo0_03a.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 16}    Coeficientes de variación para el índice de abundancia CPUE utilizados para las flotas de arrastre, palangre, artesanal y crucero acústico Modelo003a. \vspace{0.1cm} \normalsize
+```
+| Año  | Arrastre | Palangre | Crucero | Artesanal |
+|------|----------|----------|---------|-----------|
+| 1977 | 0        | 0        | 0       | 0         |
+| 1978 | 0        | 0        | 0       | 0         |
+| 1979 | 0.4      | 0        | 0       | 0         |
+| 1980 | 0.4      | 0        | 0       | 0         |
+| 1981 | 0.4      | 0        | 0       | 0         |
+| 1982 | 0.4      | 0        | 0       | 0         |
+| 1983 | 0.4      | 0        | 0       | 0         |
+| 1984 | 0.4      | 0        | 0       | 0         |
+| 1985 | 0.4      | 0        | 0       | 0         |
+| 1986 | 0.4      | 0        | 0       | 0         |
+| 1987 | 0.4      | 0.4      | 0       | 0         |
+| 1988 | 0.4      | 0.4      | 0       | 0         |
+| 1989 | 0.4      | 0.4      | 0       | 0         |
+| 1990 | 0.4      | 0.4      | 0       | 0         |
+| 1991 | 0.4      | 0.4      | 0       | 0         |
+| 1992 | 0.4      | 0.4      | 0       | 0         |
+| 1993 | 0.4      | 0.4      | 0       | 0         |
+| 1994 | 0.4      | 0.4      | 0       | 0         |
+| 1995 | 0.4      | 0.4      | 0       | 0         |
+| 1996 | 0.4      | 0.4      | 0       | 0         |
+| 1997 | 0.4      | 0.4      | 0       | 0         |
+| 1998 | 0.8      | 0.4      | 0       | 0         |
+| 1999 | 0.8      | 0.4      | 0       | 0         |
+| 2000 | 0.8      | 0.4      | 0.2     | 0.8       |
+| 2001 | 0.8      | 0.4      | 0.2     | 0.8       |
+| 2002 | 0.4      | 0.4      | 0.2     | 0.6       |
+| 2003 | 0.4      | 0.4      | 0.2     | 0.6       |
+| 2004 | 0.4      | 0.4      | 0.2     | 0.6       |
+| 2005 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2006 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2007 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2008 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2009 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2010 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2011 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2012 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2013 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2014 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2015 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2016 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2017 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2018 | 0.4      | 0.4      | 0.2     | 0.4       |
+| 2019 | 0.4      | 0.4      | 0.2     | 0.4       |
 
 La **Figura 27** presenta el ajuste de los desembarques de las flotas arrastrera, palangrera y artesanal con sus respectivos residuales por flota (**Figura 28**). Se observa que los ajustes de las series temporales son precisos e inclusive reproducen la reducción de los desembarques posterior al año 2010. Los desembarques de las flotas palangreras y artesanal disminuyen durante los últimos 4 años, a diferencia de la flota de arrastre que presenta un aumento en los últimos 3 años debido al traspaso de cuota de la flota artesanal.
 
@@ -1177,6 +1384,22 @@ Los residuales para la flota artesanal y los cruceros acústicos (Figura 38) se 
 
 Con el fin de observar de mejor forma los cambios en la incorporación y/o modificación de la información se compara el modelo implementado en la asesoría previa, 2019 con datos parciales mod0_01 con el modelo solicitado por el Comité Científico Técnico, que actualiza los datos al 2019 e incluye los pesos medios del crucero (mod0_02) y flota (mod0_03). Finalmente, se incluyen dos configuraciones de sensibilidad al modelo mod0_03, la primera modifica los coeficientes de variación de los índices de abundancia mod0_03a (Tabla 3) y la segunda incluye un cambio en la productividad de la población modificando el parámetro de escarpamiento desde h=0.5 a h=0.75 mod0_03b. En sombreado se destaca modelo base.
 
++-----------+------------------------------------------------------------+
+| Modelos   | Datos                                                      |
++===========+============================================================+
+| mod0_01   | 2019_parcial febrero                                       |
++-----------+------------------------------------------------------------+
+| mod0_02   | 2019 full + pesos medios cruceros                          |
++-----------+------------------------------------------------------------+
+| mod0_03   | Como mod_02 + pesos medios de flotas                       |
++-----------+------------------------------------------------------------+
+|           | **Configuración de sensibilidad**                          |
++-----------+------------------------------------------------------------+
+| mod0_03a  | Como mod0_03 incluyendo cambios en cv índices              |
++-----------+------------------------------------------------------------+
+| mod0_03b  | Como mod0_03a incluyendo cambios en productividad (h=0.75) |
++-----------+------------------------------------------------------------+
+
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_39.png}
@@ -1215,8 +1438,10 @@ La captura se proyectó para los escenarios mod0_3a y mod0_03b asumiendo para el
 
 La Tabla 17, presenta los resultados en relación a la reducción de información, en términos de parámetros, variables de estado y de calidad de ajuste de la información (verosimilitud) para el modelo mod0_03 (modelo que considera pesos medios por flota). En este sentido se destaca la existencia de una importante congruencia en la estimación de la biomasa virginal, la cual se re escala a niveles en cercanos en relación a la reducción de información. El mismo efecto se aprecia lógicamente en la estimación del reclutamiento virginal.
 
-Tabla 17 Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0_03).
-
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 17}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod003). \vspace{0.1cm} \normalsize
+```
 El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran interés para poder comparar y realizar inferencia de la calidad del modelo, y de cómo las variables se ven afectadas por la reducción de información. La Figura 43, presenta el análisis retrospectivo del modelo mod0_03 de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta las variables de estado. En términos de rho, se aprecia que la reducción de información afecta y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,089) representando el mayor efecto dentro de las variables evaluadas en términos de un patrón retrospectivo). En el caso de los reclutamientos estos son alterados positivamente (arreglar = 0,014), siendo esta variación de menor cuantía. Finalmente, la variación de la mortalidad por pesca, presenta niveles cercanos en torno a arreglar = 0,044.
 
 ```{=tex}
@@ -1228,8 +1453,10 @@ El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran inter
 
 La Tabla 18 muestra el desempeño del análisis retrospectivo del modelo mod0_03b. En donde se destaca, y al igual al caso anterior, el modelo presenta una importante sintonía en la reducción de información y de su efecto es la condición inicial del stock. Lo anterior se puede observar que la estimación de la biomasa desovante virginal tiene una variación menor, incluso con una diferencia de 5 años de la condición estimada en completitud de información. Con respecto al reclutamiento virginal y a los parámetros de la relación stock recluta, se confirma la mínima variación registrada entre escenarios analizados.
 
-Tabla 18 Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0_03b).
-
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 18}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod003b). \vspace{0.1cm} \normalsize
+```
 La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta de manera importante la biomasa desovante. En términos de rho, se aprecia que la reducción de información afecta levemente y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,062). En el caso de los reclutamientos estos son alterados en torno a arreglar = 0,056, representando junto a la biomasa desovante las variables que mostraron un mayor impacto de la reducción de información de las variables evaluadas, en términos de un patrón retrospectivo. Finalmente, la variación de la mortalidad por pesca parece de menor cuantía, por solo presentar niveles cercanos a cero (arreglar = 0,034).
 
 ```{=tex}
@@ -1263,7 +1490,55 @@ En la Tabla 19 se presentan los valores de las variables de estado biomasa total
 ```
 \small \\textbf{Figura 46}. Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019. \vspace{0.5cm} \normalsize
 
-Tabla 19 Variables de estado biomasa total (BT), desovante (BD) y juvenil (B6) en miles de toneladas, reclutas (R) en número y mortalidad por pesca anual (FT) obtenidas del ajuste del modelo base.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 19}    Variables de estado biomasa total (BT), desovante (BD) y juvenil (B6) en miles de toneladas, reclutas (R) en número y mortalidad por pesca anual (FT) obtenidas del ajuste del modelo base. \vspace{0.1cm} \normalsize
+```
+| Año  | BT   | BD  | B6  | R   | FT    |
+|------|------|-----|-----|-----|-------|
+| 1977 | 1106 | 454 | 858 | 172 | 0.008 |
+| 1978 | 1104 | 430 | 855 | 180 | 0.133 |
+| 1979 | 1059 | 387 | 809 | 171 | 0.182 |
+| 1980 | 1019 | 360 | 769 | 171 | 0.164 |
+| 1981 | 993  | 338 | 745 | 154 | 0.193 |
+| 1982 | 961  | 313 | 719 | 135 | 0.245 |
+| 1983 | 923  | 325 | 695 | 130 | 0.221 |
+| 1984 | 893  | 310 | 679 | 124 | 0.191 |
+| 1985 | 870  | 302 | 672 | 135 | 0.186 |
+| 1986 | 846  | 315 | 656 | 133 | 0.272 |
+| 1987 | 809  | 272 | 620 | 137 | 0.340 |
+| 1988 | 761  | 245 | 571 | 134 | 0.420 |
+| 1989 | 707  | 202 | 514 | 126 | 0.463 |
+| 1990 | 668  | 206 | 477 | 133 | 0.434 |
+| 1991 | 640  | 172 | 448 | 136 | 0.445 |
+| 1992 | 624  | 143 | 433 | 138 | 0.471 |
+| 1993 | 613  | 139 | 420 | 145 | 0.307 |
+| 1994 | 621  | 131 | 422 | 147 | 0.318 |
+| 1995 | 629  | 161 | 425 | 145 | 0.272 |
+| 1996 | 641  | 155 | 433 | 153 | 0.257 |
+| 1997 | 654  | 166 | 442 | 154 | 0.243 |
+| 1998 | 668  | 152 | 451 | 163 | 0.264 |
+| 1999 | 678  | 156 | 457 | 159 | 0.296 |
+| 2000 | 687  | 143 | 460 | 159 | 0.324 |
+| 2001 | 692  | 160 | 464 | 152 | 0.320 |
+| 2002 | 694  | 159 | 466 | 149 | 0.323 |
+| 2003 | 696  | 158 | 474 | 140 | 0.365 |
+| 2004 | 692  | 157 | 476 | 130 | 0.376 |
+| 2005 | 685  | 159 | 479 | 128 | 0.346 |
+| 2006 | 679  | 159 | 481 | 125 | 0.400 |
+| 2007 | 664  | 158 | 476 | 116 | 0.396 |
+| 2008 | 647  | 158 | 466 | 115 | 0.389 |
+| 2009 | 627  | 157 | 454 | 101 | 0.389 |
+| 2010 | 608  | 156 | 443 | 98  | 0.400 |
+| 2011 | 588  | 159 | 432 | 106 | 0.306 |
+| 2012 | 579  | 159 | 427 | 106 | 0.361 |
+| 2013 | 567  | 159 | 419 | 109 | 0.325 |
+| 2014 | 557  | 164 | 407 | 108 | 0.204 |
+| 2015 | 558  | 167 | 403 | 109 | 0.214 |
+| 2016 | 554  | 163 | 399 | 113 | 0.284 |
+| 2017 | 547  | 159 | 389 | 115 | 0.258 |
+| 2018 | 544  | 150 | 384 | 116 | 0.354 |
+| 2019 | 536  | 141 | 374 | 114 | 0.372 |
 
 El reclutamiento estimado se presenta en la Figura 47, durante los primeros 20 años el reclutamiento se mantiene aproximadamente en los 150 millones de individuos para luego descender hasta el año 2010 a 98 millones de individuos. Desde el año 2010 y hasta el 2018 se observa un leve aumento de los reclutamientos hasta alcanzar el orden de 110 millones de individuos.
 
@@ -1295,7 +1570,45 @@ El estado actual de esta pesquería es de sobreexplotación y sobrepesca, con un
 
 La Tabla 20 muestra la CBA estimada para los años 2021, 2022 y 2023 bajo diferentes niveles de riesgo (10-50%) y bajo diferentes escenarios de evaluación. Para el año 2020 se asumió un desembarque igual a la CBA establecida para el año en curso, ponderada por los valores de descarte y subreporte utilizados históricamente en la evaluación de stock para cada flota. Es importante tener en consideración que para el cálculo de la CBA proyectada para los años 2022 y 2023 no fue posible incluir este ponderador de descarte y subreporte.
 
-Tabla 20 Captura Biológicamente Aceptable (CBA) para diferentes ponderadores de FRMS bajo una estrategia de explotación con mortalidad por pesca constante. Se evaluaron los riesgos entre 50% y 10.
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 20}    Captura Biológicamente Aceptable (CBA) para diferentes ponderadores de FRMS bajo una estrategia de explotación con mortalidad por pesca constante. Se evaluaron los riesgos entre 50 y 10%. \vspace{0.1cm} \normalsize
+```
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+|           |      |       | CBA 2021 | (miles de t | oneladas) |       |       |
++===========+:====:+:=====:+:========:+:===========:+:=========:+:=====:+:=====:+
+| Escenario | s.d. | 10%   | 20%      | 30%         | 36%       | 40%   | 50%   |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03   | 4154 | 11851 | 13679    | 14997       | 15686     | 16123 | 17175 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03a  | 4587 | 13389 | 15407    | 16862       | 17623     | 18105 | 19267 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03b  | 4996 | 15473 | 17671    | 19256       | 20085     | 20610 | 21876 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+|           |      |       | CBA 2022 | (miles de t | oneladas) |       |       |
++===========+:====:+:=====:+:========:+:===========:+:=========:+:=====:+:=====:+
+| Escenario | s.d. | 10%   | 20%      | 30%         | 36%       | 40%   | 50%   |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03   | 3818 | 12687 | 14367    | 15578       | 16211     | 16613 | 17580 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03a  | 4173 | 14143 | 15979    | 17303       | 17995     | 18434 | 19491 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03b  | 4551 | 16432 | 18434    | 19875       | 20633     | 21111 | 22264 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+|           |      |       | CBA 2023 | (miles de t | oneladas) |       |       |
++===========+:====:+:=====:+:========:+:===========:+:=========:+:=====:+:=====:+
+| Escenario | s.d. | 10%   | 20%      | 30%         | 36%       | 40%   | 50%   |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03   | 3577 | 13433 | 15007    | 16141       | 16735     | 17111 | 18017 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03a  | 3868 | 14788 | 16490    | 17717       | 18359     | 18765 | 19745 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
+| mod0_03b  | 4232 | 17276 | 19138    | 20480       | 21182     | 21627 | 22699 |
++-----------+------+-------+----------+-------------+-----------+-------+-------+
 
 ## 4.4. Objetivo específico 4:
 
@@ -1384,7 +1697,43 @@ Los resultados expuestos en este objetivo conforman un primer acercamiento a la 
 
 Como parte del proceso de mejora continua y debido al establecimiento de una Captura Biológicamente Aceptable constante para los años 2021-2023, se presenta un plan de trabajo de tres años. El plan de trabajo contiene recomendaciones derivadas desde la revisión por pares internacionales años 2011 y 2017, revisión por pares nacionales anuales, propia evaluación de stock y las sugerencias del propio CCT-RDZSA, en la Tabla 21 se resumen las actividades a desarrollar en los próximos tres años divididas en cuatro grupos principales: 1) Mejoras en la evaluación de stock; 2) puntos pendientes en la evaluación por pares 2011; 3) puntos pendientes en la evaluación por pares 2017 y 4) desafíos evaluación de estrategias de manejo.
 
-Tabla 21 Plan de trabajo período 2021-2023, programa mejoramiento continuo de la calidad de la asesoría científica merluza del sur
+```{=tex}
+\vspace{0.5cm}
+\small \textbf{Tabla 21}    Plan de trabajo período 2021-2023, programa mejoramiento continuo de la calidad de la asesoría científica merluza del sur. \vspace{0.1cm} \normalsize
+```
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Grupo                                                         | Actividad                                                                                                           |
++===============================================================+=====================================================================================================================+
+| Evaluación de stock                                           | Sensibilidad del modelo a cambios importantes en remociones                                                         |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Periodicidad de cambios en la madurez                         |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Ponderación de datos                                          |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Representación de datos                                       |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Revisión por pares 2017                                       | Correcciones de capturas                                                                                            |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Interacción entre flotas (traspasos)                          |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Incorporación de CPUE estandarizada de la flota artesanal     |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Incorporar factor de movilidad de flotas en la CPUE           |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Patrones espaciales diferenciales para hembras y machos       |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Revisión por pares 2011                                       | Modelo que contemple dimorfismo sexual                                                                              |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Cambios en la disponibilidad y comportamiento de las flotas   |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Error en la determinación de edad                             |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Puntos biológicos de referencia con consideraciones empíricas |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Evaluación de estrategias de manejo                           | Definir el uso de evaluación de las estrategias de manejo, un balance entre modelamiento y selección de estrategias |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| Marco de referencia y su implementación                       |                                                                                                                     |
++---------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
 
 \pagebreak
 
