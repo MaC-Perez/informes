@@ -1336,22 +1336,25 @@ Desde los residuales a la edad (Figura 35) se observa, para el período 1994-200
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/FitAgeArrastre.png}
 \end{center}
+
+\small \textbf{Figura 33}. Ajuste estructuras de edades flota arrastrera período 1981-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 33}. Ajuste estructuras de edades flota arrastrera período 1981-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/FitAgeLongline.png}
 \end{center}
+
+\small \textbf{Figura 34}. Ajuste estructuras de edades flota palangrera período 1989-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 34}. Ajuste estructuras de edades flota palangrera período 1989-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_35.png}
 \end{center}
+
+\small \textbf{Figura 35}. Residuales de estructura de edades de la flota de arrastre y palangre. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 35}. Residuales de estructura de edades de la flota de arrastre y palangre. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 
 Para el espinel la estructura de edades abarca un rango de edades más jóvenes que las flotas de arrastre y palangre (Figura 36), apareciendo individuos a partir de los 3-4 años de edad. Los dos primeros años de datos (1987 y 1988) corresponden a los años con grandes capturas artesanales (20 a 30 mil t), pero luego no se dispone de datos para el período 1989-1994, donde las capturas aún eran altas, pero con tendencia a la baja. El período 1995-1999, se aprecia el desplazamiento de la estructura hacia edades mayores. Desde 2000 hasta 2004 se observó una estructura relativamente estable y desde 2005 a 2009 la participación de edades jóvenes aumentó. En los últimos dos años de la serie no se observan los ejemplares mayores a 17 años que habían sido observados en el año 2017.
 
@@ -1363,22 +1366,25 @@ Los residuales para la flota artesanal y los cruceros acústicos (Figura 38) se 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/FitAgeArtesanal.png}
 \end{center}
+
+\small \textbf{Figura 36}. Ajuste estructuras de edades flota artesanal período 1987-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 36}. Ajuste estructuras de edades flota artesanal período 1987-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/FitAgeCrucero.png}
 \end{center}
+
+\small \textbf{Figura 37}. Ajuste estructuras de edades fracción adulta del crucero acústico período 2000-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 37}. Ajuste estructuras de edades fracción adulta del crucero acústico período 2000-2019, estimados (línea roja) y observados (barras) de la proporción de edades en las capturas. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_38.png}
 \end{center}
+
+\small \textbf{Figura 38}. Residuales de estructura de edades de la flota artesanal y crucero acústico. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 38}. Residuales de estructura de edades de la flota artesanal y crucero acústico. Subestimaciones (círculo azul) y sobreestimaciones (círculo rojo), donde el tamaño corresponde a la magnitud relativa del error por edad. \vspace{0.5cm} \normalsize
 
 ## 4.1.4 Comparación escenarios y sensibilidad
 
@@ -1404,8 +1410,9 @@ Con el fin de observar de mejor forma los cambios en la incorporación y/o modif
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_39.png}
 \end{center}
+
+\small \textbf{Figura 39}. (a) Biomasa desovante, (b) biomasa total, (c) reclutamiento y (d) reducción de la biomasa desovante para los 5 escenarios periodo 1977-2019. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 39}. (a) Biomasa desovante, (b) biomasa total, (c) reclutamiento y (d) reducción de la biomasa desovante para los 5 escenarios periodo 1977-2019. \vspace{0.5cm} \normalsize
 
 Las variables de estado biomasa desovante, total, reclutamiento y reducción de la biomasa desovante se presentan en la Figura 40. En términos de la reducción de la biomasa desovante (Figura 40,d), los escenarios que muestran una mayor recuperación corresponden a los mod0_03a (BD/BD0=31%) y mod0_03b (BD/BD0=37%), sin embargo, en todos los escenarios la biomasa desovante disminuye durante los últimos 4 años. En el escenario mod0_03b se observa un aumento en la biomasa total al final de la serie (Figura 40,b), lo que se puede atribuir al aumento en los reclutamientos desde el año 2010 debido al aumento en la productividad de la población (Figura 40,c).
 
@@ -1413,8 +1420,9 @@ Las variables de estado biomasa desovante, total, reclutamiento y reducción de 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_40.png}
 \end{center}
+
+\small \textbf{Figura 40}. ortalidad por pesca total para los 5 escenarios período 1977-2019. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 40}. Mortalidad por pesca total para los 5 escenarios período 1977-2019. \vspace{0.5cm} \normalsize
 
 El efecto de incluir los pesos medios del crucero acústico y de la flota se puede observar en la Figura 41, en donde el ajuste de los escenarios mod0_01 (con pesos medios constantes) y mod0_02 (con pesos medios del crucero acústico) evidencia una tendencia suavizada, a diferencia de los escenarios que incluyen los pesos medios de la flota (mod0_03, mod0_03a y mod0_03b), en los que el ajuste presenta una tendencia más acerrada influenciada por la variación anual de los pesos medios en vez de la utilización de valores constantes a los largo de la serie.
 
@@ -1424,15 +1432,17 @@ La captura se proyectó para los escenarios mod0_3a y mod0_03b asumiendo para el
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_41.png}
 \end{center}
+
+\small \textbf{Figura 41}. Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (1979-1997; 1998-2019) y palangrera (1987-1997; 1998-2019) para los 5 escenarios. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 41}. Índice de abundancia observado (puntos) y estimado (línea continua) de las flotas arrastrera (1979-1997; 1998-2019) y palangrera (1987-1997; 1998-2019) para los 5 escenarios. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_42.png}
 \end{center}
+
+\small \textbf{Figura 42}. Proyección de la captura para los años 2021, 2022 y 2023, cuadrante superior: mod0\_03a, cuadrante inferior: mod0\_03b. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 42}. Proyección de la captura para los años 2021, 2022 y 2023, cuadrante superior: mod0_03a, cuadrante inferior: mod0_03b. \vspace{0.5cm} \normalsize
 
 ## 4.1.5 Análisis retrospectivo
 
@@ -1440,7 +1450,7 @@ La Tabla 17, presenta los resultados en relación a la reducción de informació
 
 ```{=tex}
 \vspace{0.5cm}
-\small \textbf{Tabla 17}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod003). \vspace{0.1cm} \normalsize
+\small \textbf{Tabla 17}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0\_03). \vspace{0.1cm} \normalsize
 ```
 El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran interés para poder comparar y realizar inferencia de la calidad del modelo, y de cómo las variables se ven afectadas por la reducción de información. La Figura 43, presenta el análisis retrospectivo del modelo mod0_03 de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta las variables de estado. En términos de rho, se aprecia que la reducción de información afecta y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,089) representando el mayor efecto dentro de las variables evaluadas en términos de un patrón retrospectivo). En el caso de los reclutamientos estos son alterados positivamente (arreglar = 0,014), siendo esta variación de menor cuantía. Finalmente, la variación de la mortalidad por pesca, presenta niveles cercanos en torno a arreglar = 0,044.
 
@@ -1448,14 +1458,15 @@ El estimador del patrón retrospectivo (rho), resulta por lo tanto de gran inter
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_43.png}
 \end{center}
+
+\small \textbf{Figura 43}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0\_03). \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 43}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03). \vspace{0.5cm} \normalsize
 
 La Tabla 18 muestra el desempeño del análisis retrospectivo del modelo mod0_03b. En donde se destaca, y al igual al caso anterior, el modelo presenta una importante sintonía en la reducción de información y de su efecto es la condición inicial del stock. Lo anterior se puede observar que la estimación de la biomasa desovante virginal tiene una variación menor, incluso con una diferencia de 5 años de la condición estimada en completitud de información. Con respecto al reclutamiento virginal y a los parámetros de la relación stock recluta, se confirma la mínima variación registrada entre escenarios analizados.
 
 ```{=tex}
 \vspace{0.5cm}
-\small \textbf{Tabla 18}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod003b). \vspace{0.1cm} \normalsize
+\small \textbf{Tabla 18}    Análisis retrospectivo, y sus implicancias en las variables de estados y parámetros del modelo (mod0\_03b). \vspace{0.1cm} \normalsize
 ```
 La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluación de stock de merluza del sur, mostrando el impacto de la reducción de información de dos años de información prácticamente no afecta de manera importante la biomasa desovante. En términos de rho, se aprecia que la reducción de información afecta levemente y de manera negativa a la estimación de la biomasa desovante (arreglar = -0,062). En el caso de los reclutamientos estos son alterados en torno a arreglar = 0,056, representando junto a la biomasa desovante las variables que mostraron un mayor impacto de la reducción de información de las variables evaluadas, en términos de un patrón retrospectivo. Finalmente, la variación de la mortalidad por pesca parece de menor cuantía, por solo presentar niveles cercanos a cero (arreglar = 0,034).
 
@@ -1463,8 +1474,9 @@ La Figura 44, presenta el análisis retrospectivo del modelo mod0_03b de evaluac
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_44.png}
 \end{center}
+
+\small \textbf{Figura 44}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0\_03b). \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 44}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la biomasa desovante, el reclutamiento y la mortalidad (mod0_03b). \vspace{0.5cm} \normalsize
 
 La Figura 45 muestra el impacto de la reducción de información en la reducción poblacional, contrastada en ambos casos de estudio. En esta figura se puede observar, que el modelo mod0_03 muestra una leve subestimación al reducir la información con la cual se realiza la evaluación poblacional. En efecto como se mostró anteriormente, el patrón retrospectivo en este caso es negativo lo que produce una estimación si bien en torno a la condición actual del recurso, está en cada resta de información parece ser de menor cuantía. Por otro lado, en el caso del modelo mod0_03b, el cual se caracteriza por presentar una condición de productividad mayor al caso anterior, permite estimar niveles más cercanos al 40% de agotamiento del BD/BDo. En relación a el patrón retrospectivo para este escenario, podemos comentar que si bien el cambio relativo de BD es de menor error que el calculado para el caso mod0_03, persiste el mismo patrón que estima menores niveles de agotamiento en cada reducción de información.
 
@@ -1472,8 +1484,9 @@ La Figura 45 muestra el impacto de la reducción de información en la reducció
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_45.png}
 \end{center}
+
+\small \textbf{Figura 45}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la reducción poblacional (BD/BDo). \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 45}. Análisis retrospectivo del modelo de evaluación de stock y su efecto en la reducción poblacional (BD/BDo). \vspace{0.5cm} \normalsize
 
 ## 4.2. Objetivo específico 2:
 
@@ -1487,8 +1500,9 @@ En la Tabla 19 se presentan los valores de las variables de estado biomasa total
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/depletion.SB_BT.png}
 \end{center}
+
+\small \textbf{Figura 46}. Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 46}. Reducción de la biomasa desovante en porcentaje (BD/BDO) y biomasa total en porcentaje período 1977-2019. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \vspace{0.5cm}
@@ -1546,8 +1560,9 @@ El reclutamiento estimado se presenta en la Figura 47, durante los primeros 20 a
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_47.png}
 \end{center}
+
+\small \textbf{Figura 47}. Reclutamiento (millones de individuos) estimado por el modelo base para el período 1977-2019. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 47}. Reclutamiento (millones de individuos) estimado por el modelo base para el período 1977-2019. \vspace{0.5cm} \normalsize
 
 ## 4.2.2 Estatus y Puntos Biológicos de Referencia
 
@@ -1559,8 +1574,9 @@ El estado actual de esta pesquería es de sobreexplotación y sobrepesca, con un
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/kobe_plot.png}
 \end{center}
+
+\small \textbf{Figura 48}. Diagrama de fases merluza del sur período 1977-2019, FRMS=0,257 año-1. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 48}. Diagrama de fases merluza del sur período 1977-2019, FRMS=0,257 año-1. \vspace{0.5cm} \normalsize
 
 ## 4.3. Objetivo específico 3:
 
@@ -1628,22 +1644,25 @@ De acuerdo a los PM evaluados, se observa que solo las proyecciones basadas en r
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_49.png}
 \end{center}
+
+\small \textbf{Figura 49}. Proyecciones de la biomasa desovante bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 49}. Proyecciones de la biomasa desovante bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_50.png}
 \end{center}
+
+\small \textbf{Figura 50}. Proyecciones de la captura bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 50}. Proyecciones de la captura bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_51.png}
 \end{center}
+
+\small \textbf{Figura 51}. Proyecciones del nivel de agotamiento bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 51}. Proyecciones del nivel de agotamiento bajo doce procedimientos de manejo que combinan diferentes niveles de productividad y opciones de PBR. \vspace{0.5cm} \normalsize
 
 La Figura 52 muestra un resumen de las principales medidas de desempeño como la razón entre la biomasa proyectada y la biomasa virginal, la captura media en la proyección, la variación de la captura anual bajo una ventana móvil de 5 años, y un conjunto de riesgos recurrentemente utilizado para definir umbrales ce captura.
 
@@ -1653,8 +1672,9 @@ Estas medidas de desempeño tienen como objetivo resguardar diferentes intereses
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_52.png}
 \end{center}
+
+\small \textbf{Figura 52}. Ejemplo de medidas de desempeño para un conjunto de PMs que incluyen opciones de reclutamiento y dos reglas de control de captura. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 52}. Ejemplo de medidas de desempeño para un conjunto de PMs que incluyen opciones de reclutamiento y dos reglas de control de captura. \vspace{0.5cm} \normalsize
 
 La combinación entre las diferentes medidas de desempeño es la mejor opción para comparar entre PM. Por lo tanto, el siguiente paso en los análisis es realizar una evaluación cruzada de estas medidas de desempeño con objeto de identificar las mejores combinaciones de PM que permitan balancear objetivos conservacionistas, económicos y posiblemente sociales.
 
@@ -1668,15 +1688,18 @@ La Figura 53 muestra el tablero inicial de esta interfase que permite opciones p
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_53.png}
 \end{center}
+
+\small \textbf{Figura 53}. Tablero inicial de la interfase gráfica de resultados del proceso de evaluación de estrategias de explotación. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 53}. Tablero inicial de la interfase gráfica de resultados del proceso de evaluación de estrategias de explotación. \vspace{0.5cm} \normalsize
+
 
 ```{=tex}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_54.png}
 \end{center}
+
+\small \textbf{Figura 54}. Opción de la interfase gráfica para definir reglas de control de captura. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 54}. Opción de la interfase gráfica para definir reglas de control de captura. \vspace{0.5cm} \normalsize
 
 Junto con resultados tabulares como los mostrados en la Figura 52 y el despliegue de series de tiempo como las mostrada en las Figuras 49-51, esta interfase posibilita explorar gráficos dinámicos con opciones específicas de explotación o la comparación de diferentes PM (Figura 55), facilitando de esta forma la visualización de evaluaciones cruzadas de medidas de desempeño.
 
@@ -1686,8 +1709,9 @@ Los resultados expuestos en este objetivo conforman un primer acercamiento a la 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Figuras/Figura_55.png}
 \end{center}
+
+\small \textbf{Figura 55}. Grafica dinámica explicativa de la evolución temporal de los PMs. \vspace{0.5cm} \normalsize
 ```
-\small \\textbf{Figura 55}. Grafica dinámica explicativa de la evolución temporal de los PMs. \vspace{0.5cm} \normalsize
 
 ## 4.5. Objetivo específico 5:
 
