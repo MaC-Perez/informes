@@ -26,7 +26,7 @@ header-includes:
 - \renewcommand{\headrulewidth}{0.5pt}
 - \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2020 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} SEGUNDO INFORME. SARDINA COMÚN DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2021}
 ---
-
+hhhh
 
 ```{r llama_codigos, warning=F, include=T, message=F, echo=FALSE}
 
